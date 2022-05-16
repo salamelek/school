@@ -1,0 +1,81 @@
+RACIJONALIZEM / EMPIRIZEM
+
+racijonalizem:
+	razumemo preko razmišljanja
+empirizem:
+	razumemo preko izkustva
+
+Descartes:
+pravil, da je treba dobiti novo metodo spoznavanja --> delo "razprava o metodi":
+	matematični pristop, deduktivna metoda
+	3 deli:
+		-Analiza:
+			komplicirani problem se razdeli na preproste dele
+		-rešimo vsak posamezen manjši del, vse mora biti vedno urejeno
+		-matematično preverjanje:
+			Vsak korak mora biti previrljiv in oštevilčen
+		
+		Pravil, da so naše ideje urojene od boga
+		Bog obstaja, ker človek je neperfekten, in bog je perfekten
+		Hiperbolični dvom:
+			Resnica je absolutna
+			da pridemo do nje, je treba dvomiti
+			vsaj enkrat v našem življenju je treba revizijonirati vse naše resnice
+			
+		Ne moremo dvomiti, da dvomimo (če dvomimo mislimo in če mislimo smo)
+		
+		Res ekstensa: telo --> lahko dvomimo
+		Res kobitans: misli/duša --> ne moremo dvomiti
+		
+		Epifiza: pinealna žleza, ki povezuje dušo in telo (ki sta normalno ločena)
+
+Baruch Spinoza:
+	Najprej jud, nato izločen iz skopnosti zaradi različnih prepričanj
+	Menja ime na Benetikt
+	2 knjigi:
+		Razprava o izboljšavi uma
+		Etika:
+			Najbolj poznano delo
+			razmišljanje o bogu in naravi
+			v zadnjih poglavjih je potem oprsana etika (morala)
+			pomembna je SUBSTANCA:
+				to je narava oz. realnost oz. vse kar obstaja
+				ta substanca sovpada z bogom (to je višek panteizma, bog je v vsem)
+				ima veliko atributov, a ljudje poznamo le 2:
+					atribut mišljenja:
+						ideja nečesa
+					atribut razsežnosti:
+						fizično tista stvar
+				substanca ni snov, ker snov ima samo atribut razsežnosti
+				kot pri Karteziju, je tu dualizem duha in telesa, a spinoza pravi, da sta paralelna in se ne stikata
+			Kritizira finalizem
+			Dokazuje, da bog obstaja in kako sovpada z naravo
+			Razpravlja o stoicizmu
+			Pravi, da etika je usmerjena v doseganju zadovoljstva
+			Premoženje in denar ne privedejo do zadovoljstva
+			Primarna in sekundarna čustva:
+				Primarna:
+					veselje, žalost
+				Sekundarna:				(čustva do samega sebe)
+					sovražtvo, ljubezen (čustva do nekoga)
+			Politična filozofija:
+				Bil demokrat,
+				Najbližje svobodi in naravi je demokracija
+				Težnja posameznikov je nadvladati nad drugimi
+				Vrjame v tehnološki napredek
+				družba mora biti organizirna tako, da omogoča razvoj
+				Spinosa je prista družbene pogodbe (se moramo podrediti pravilom)
+
+Leibniz:
+	Teorija monart:
+		Nemec, v sporu z newtonom zaradi matematike
+		Ima teorijo o substanci:
+			Govori o individuali substanci, ki sovpada o konceptu o monadah
+			kar obstaja, so duhovni atomi --> atomi neke energije --> monade
+			Vse duhovne in organske snovi so narejene iz monad
+			Vse je v neki harminiji
+		Načelo razloga:
+			iščemo vedno neki razlog
+			iščemo vedno mehanizme zakaj nekaj obstaja
+			vse se preveri preko nekega razloga (npr. ta človek ima brado, a ni dovolj. treba je izračunati)
+			

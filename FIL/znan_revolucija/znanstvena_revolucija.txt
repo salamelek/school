@@ -1,0 +1,172 @@
+ZNANSTVENA REVOLUCIJA
+
+Vse te prejšnje ideje so pripeljale do tega, da misleci so začeli opazovati vesolje in tudi matematično računati pojave.
+Znanstvena revolucija je astronomaska revolucija. (opazovanje in iznajdbe v vesolju)
+Italija je glavno območje tega. Potem pa se je center spremenil in Iznajdbe dobimo v Angliji, franciji, Nemčiji, na Danskem. --> Italija nazaduje
+To se zgodi, ker cerkev ustavlja napredek z inkvizicijo. --> moč so dobile severne države 
+Mehanicistični pristop --> mehanizem vzrok-učinek
+Nove metode raziskovanja, poskusi, empiričnost
+Znanost za praktično uporabo --> utilitaristični pristop
+Kritizirali in podvomili o aristotelske-tolemajskem sistemu --> ni več nebes okoli zemlje in zemlja ni več center vesolja, vesolje nima krožne oblike
+Ločitev znanosti od religije
+
+epicikli in ekscentri --> so si razlagali kako se stvari vrtijo okoli zemlje
+epicikli:
+	obstajajo virtualne točke, ki se vrtijo okrog zemlje. Planeti se vrtijo okrog teh točk --> še vedna zemlja v središču
+ekscentri:
+	nekatera telesa krožijo okrog zemlje, a zemlja ni v središču njihove orbite
+	
+Kopernik:	
+	Poljak, rodil v Thornu, družina premožna (trgovci), pri 10 letih mu je oče umrl
+	Se je izobraževal s stricem, postal je škkof, študiral na univerzi na poljskem in kasneje v Bolonjski univerzi. 
+	Tam spoznal nekega profesorja matematike, ki je kritiziral natančnost ptolomejevega zemljevida sveta
+	Navdušil se je za astronomijo
+	Študiral medicino v Padovi 
+	Se začne oddaljevati od geocentričnega pogleda. Zavedal se je, da heliocentrizem je dosti bolj revolucijonaren in heretičen.
+	Napisal je tekst, ampak ga ni izdal, ker se je bal inkvizicije
+	Njegov priijatelj Reticus ga je uspel prepričati, naj on napiše uvod tega dela.
+	ta uvod trdi, dakopernikova hipoteza nimanobne zveze z resnično sesavo vesolja, ampak je le ena od matematičnih metod za spoznavanje vesolja.
+	
+	De revolutionius orbium celestium:
+		1543, delo kjer je prvič opisan heliocentrizem. 
+	
+Tycho Brahe:
+	Rojen na Danskem, že mlad zanimal za astronomijo/logijo, bogata družina
+	Danski kralj je dal zgraditi observatorij na otoku Hven. Tu je bil zelo napreden raziskovalni program 
+	Imel je dobro opremo, pripomočke ipd
+	Prišel je do spornih opazovanj in zaradi tega zbežal v prago, kjer je nadaljeval z astronomskimi opazovanji.
+	V Pragi je bil njegov pomočnik Ketler.
+	Trdil, da ne obstajajo ne obstajajo sfere, ampak da imamo orbite
+    Bil je prepričan, da ima zemlja geocentrični sistem in hkrati heliocentrični: luna se vrti okoli zemlje in zemlja okoli sonca
+	
+Ketler:
+	Nemec, univerza v T¨uninberg (??), tu spoznal kopernikovo teorijo.
+	Začel študirati astronomijo, pomemben ker je začrtal orbite planetov in rekel, da niso krogi, temveč elipse.
+	Bil prepričan, da vesolje je matematično urejeno, podobno kot pitagorejci.
+	Napisal 3 zakone:
+		-Planeti se premikajo po eni elipsi, ne po krožnici, okoli sonca
+		-Hitrost planetov ni enaka med planeti (planeti okoli sonca se ne gibljejo enakomerno (planeti se premikajo bolj hitro ko so bližje soncu))
+		-Pri revoluciji (rotacija okoli sonca), je hitrost proporcijonalna oddaljenosti sonca (povezan drugemu zakonu)
+	Tudi če je matemati, rabi vseeno filozofske izraze, kot npr.: sonce = gospod neba
+	
+Galileo Galilei:
+	Italijanski fizik, matematik, filozof, astronom, yada yada yada
+	Rodil v Pisi-1564, umrl 1642-blizu firenc
+	Najprej študiral medicino, potem posvetil matematiki, fiziki in astronomiji
+	Preučeval naravo z novo metodo: poskusi in matematično preverjanje --> Provare e riprovare 
+	Opazovanja so bila pomembna za uveljavljanje heliocentričnega sistema --> da znanstveno podlago heliocentrizmu
+	bil profesor na univerzi v Padovi, kjer je dosegel večino iznajdb
+	Cerkev mu je že začela lomit škatle
+	Napisal "il dialogo sopra i due massimi sistemi del mondo":
+		Salviati:
+			brani kopernikove ideje	
+		Semplicio:
+			brani aristotelove ideje
+		Segredo:
+		 	neutralen (na strani Salvatia) gledalec
+	Je proti finalizmu 
+		
+	izkustvo (izkušnje) je bistveno za znanost --> za resnico:
+		Ko um in sveto pismo sta v nasprotju, se moramo nanesti na um, ker um nam pokaže pravo sliko, ki je naredil bog
+		Sveto pismo je bilo narejeno za stare ljudi, je outdated
+		
+	Rabil je metodo opazovanja je postavil 
+	
+	znanost za Galilea je:
+		-Izkustvo iz primera
+		-hipoteza
+		-eksperimenti osnovani na merjenju kvantitativnih sprememb
+		-formulacija univerzalnih zakonov preko matematičnih formul
+		-Kontrole, preverjanja, apllikacije v tehnologiji
+		
+		znanost = vzrok in posledica
+		S takim razmišljanjem se oddali od Aristotela.
+		Ta stvar se imenuje Galilejeva paranigma
+		Še danes ta eksperimentalna metoda drži. 
+		Ta metoda je osnovana na kvantifikaciji podatkov, vzpostavljanju previrjanj in formulaciji zakonov. --> vse izraža preko matematike
+		Uporablja deduktivno (Od univerzalnosti k posebnosti (celota --> dektail)) metodo in induktivno metodo (od posebnosti dobimo univerzalnost (dektail --> celota))
+		"Narava je kot odprt knjiga; se jo moramo navčiti brati in zapisana je v jeziku matematike."
+		
+	Podpira kopernikove ideje
+	"Izumil" teleskop
+	Odkril:
+		-Zvezde so zelo oddaljene ena od druge
+		-Vesolje je raznoliko, ima tisoče zvezd
+		-Opiše faze venere --> nemogoče, da se planeti in sonce vrtijo okoli zemlje
+		-Rimska cesta je sestavljena iz ogromnega števila zvezd
+		-Zgrudjena površina lune
+		-Jupitrove lune --> poimenoval Astri Medicei
+		-Zemlja se vrti okoli svoje osi (poleg okoli sonca)
+		-Gibalo je v samem telesu (ne kot pri aristotlu, kjer začetni gibalec je bog)
+		
+Francis Bacon:
+	Iz londona, oče svetovalec in uradnik Elizabete I. Študiral pravo.
+	Izvoljen v parlament, začne politično karjero --> več funkciji
+	Trdi, da so nujna nova spoznanja za izboljšanje življenskih razmer. Prepričan je bil, da lahko to dosežemo z novimi metodami in znanjem
+	Se razlikuje od Galileja, Newtona in drugih, ker ne daja dosti važnosti matematiki
+	Naredil skupen program za nova raziskovanja, sodelovanja in koordinacije med znanstveniki, da bi akumulirali in združili vsa možna znanja
+	Naredi inventar vsega poznanega (tipo enciklopedija)
+	Misli, da se moremo osvoboditi od starega znanja, in da moramo povzeti novo znanje, na nov način, z novimi metodami
+	Se nanaša tudi na antične mislece, a ti so imeli šibko vsebino, ker on je gledal naprej namesto nazaj
+	
+	Dela:
+		Novum organum:
+			Napisal 4 napačne predstave znanja 
+			opiše novo metodo kako priti do znanja 
+			rabi induktivno metodo 
+			Znanstveniki so kot čebele, ki dobijo v svetu prvo materjo in jo obdelujejo z razumom --> znanstveniki bi morali uporabljati skupno metodo, ki je osnovana na izkustvu
+			Definira faze raziskovanja:
+				-sistematsko opazovanje:
+					ko opazujemo, moramo sistematsko opazovati fenomene
+					Opazovanje mora biti registrirano na tabelah, listah, ki imajo tri postavke:
+						Postavka A:
+							Če je fenomen prisoten in kolikokrat je opazen
+							npr.: Kolikokrat vidimo strelo v enem mescu iz tega okna?
+						Poatavka B:
+							Pod katerim pogojem se pojavi fenomen?
+							npr.: Ko grmi, vidimo strelo
+						Postavka C:
+							Opis fenomena ko spremeni intenziteto
+				-formulacija hipotez
+				-eksperimenti za preverjanje hipotez
+				-vzpostavljanje generalnih principov
+				-tehnološka aplikacija
+			CILJ RAZISKKOVANJA JE TEHNOLOŠKI NAPREDEK (utilitaristično)
+			
+		Nova Atlantida:
+			Najznamenitejša utopija
+			
+			Si zamišlja idealno družbo, ki je zelo napredna
+			Ta družba je zelo tehnološko napredna
+			v znanju je moč
+			
+Newton:
+	Rojen, ko Galileo umre (1xxx)
+	Ni imel lepega otroštva, oče umrl, ko je bil še dojenček
+	Mati se spet poročila, imel je težave z mamo
+	V šoli ni bil priden, poustil šolo
+	En ravnatelj ga je videl, in mu dal učenja --> se je začel učit
+	Študiral na univerzi, delal eksperimente
+	Postal vodja Royal society --> znanstveniki
+	Pokopan v () katedrali
+	Zgleda, da se je zastrupil, ko je delal eksperimente s kemijo
+	
+	Področje barve --> razdelil svetlobo s prizmo:  (https://img.search.brave.com/DfQaeAeyQiTRF__Qcrq2KDEETeiXhyjY99X4cAjqae0/rs:fit:847:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5u/Q2ttcXNoZlVTUWxU/THZpclJWOEp3SGFF/SiZwaWQ9QXBp)
+		Črna soba majhna luknja, pri luknji prizma --> mavrica na steni nasproti
+		Tako je spoznal da obstaja bela svetloba in da obstaja spekter barv
+		
+	Filozofska pravila:
+		Enakost:
+			Narava teži imeti enake vzroke in enake učinke
+		Enostavnost:
+			
+		Homogenost:
+			
+		Zaključke eksperimentov lahko zavržemo samo, če to dokažemo z drugim eksperimentom. Ne s filozofijo
+		
+	Zakon gravitacijske sile:
+		
+	Zakon gibanja:
+		
+	Čas in prostor:
+		Sta resnična, absolutna in matematična

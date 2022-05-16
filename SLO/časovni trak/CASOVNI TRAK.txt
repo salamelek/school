@@ -1,7 +1,7 @@
  SVETI ČASOVNI TRAK
 
-
-- 1000-1550 --> Prvi zapisi:
+	
+-1000-1550 --> Prvi zapisi:
 	To je obdobje pred izumom tiska, torej dobimo le ostanke rokopisov. Nastanejo v Karantaniji, prvi slovenski državi, ki se je nahajala na severu današnje države. 
 	
 	Brižinski spomeniki:
@@ -22,7 +22,7 @@
 		Hranijo ga v Čedadu
 		
 
-- 1550-1595 --> Reformacija:
+-1550-1595 --> Reformacija:
 	Obdobje reformacije; Martin Luter razglasi slabosti tedanje cerkve in predlaga 95 točk, s katerimi naj bi poboljšal cerkev. Med temi je bilo tudi, da obred maše mora potekati v matičnem jeziku. Zaradi tega lahko potem Primož Trubar začel tiskati knjige v "slovenščini".
 	
 	Primož Trubar:
@@ -45,7 +45,7 @@
 		Napisal otroško Biblijo.
 
 	
-- 1595-1615 --> Protireformacija:
+-1595-1615 --> Protireformacija:
 	Tomaž Hren:
 		Evangelija inu listavi:
 			pass
@@ -56,15 +56,15 @@
 			Koledovanje je bila slovenska tradicija, ob kateri so hodili od hiše do hiše in pobirali denar ali harano (prbl. kot današnji pust[??])
 			
 	
-- 1615-1680 --> Slovstveni molk:
+-1615-1680 --> Slovstveni molk:
 	Obdobje, med katerim ni nobeden pisal zaradi hudih življenskih razmer: 
-		- Turški vpadi
-		- Kmečki upori
-		- Kuga
-		- 30-letna vojna
+		-Turški vpadi
+		-Kmečki upori
+		-Kuga
+		-30-letna vojna
 	
 	
-- 1680-1768 --> Barok in klasicizem:
+-1680-1768 --> Barok in klasicizem:
 	[lastnosti]
 
 	Janez Svetokriški:
@@ -81,7 +81,7 @@
 				Gledališka igra, v kateri se prikazuje Jezusovo trpljenje.
 	
 	
-- 1768-1830 --> Razsvetljenstvo in predromantika:
+-1768-1830 --> Razsvetljenstvo in predromantika:
 	Najpomembnejši slovenski pesniki tistega časa sestavijo Zoisov Krožek, kjer si izmenjavajo misli. 
 	
 	Pohlin: 
@@ -114,7 +114,7 @@
 		pass
 	
 	
-- 1830-1848 --> Romantika:
+-1830-1848 --> Romantika:
 	Razsvetljenstvo se zaključi leta 1789 s francosko revolucijo. Ta revolucija pomaga pre nastanku romantike. To se izraža z avtorjimi, ki pišejo o svobodi, bratovščini in enakosti. Te misli po naših krajih je širil Napoleon. Takrat je bil Metternichov absolutizem. Po padcu Napoleona, hočejo Evropske države spet stari red pred revolucijo (absolutizem, monarhija), a ljudje se nadaljujejo upirati po celi Evropi, saj so že spoznali svobodo ter so bolj izobraženi. Zaradi tega se zavedajo, da so lahko več kot nižji sloji. (te misli so prihajale iz rasvetljenstva). Zatorej v romantičnih poezijah in delih ni smo ljubezen etc., a tudi francoski navki iz revolucije (svoboda, bratovščina in enakost). Ljudje začenjajo razmišljati o zadedinjenih državah. Pride do pomlada narodov (1848), konča se absolutizem, pride na oblast 18 letni Franc Jožef.
 
 	Na slovenskem se začne leta 1830:
@@ -126,25 +126,553 @@
 		vplivata tudi Friedrich Schiller in Jean Jacque Russo 
 		
 	France Prešeren:
+		http://www.preseren.net/slo/3_poezije/
 		Rojen 3. decembra 1800 v Vrbi na Gorenjskem. Živel kmečko življenje, že mlad pokazal nadarjenost. Zapisan je bil v zlati knjigi na osnovni šoli; strici duhovniki ga vzeli v varstvo in je nadaljeval študij (da bi postal duhovnik). Študiral v Ribnici in v Ljubljani, a po končanih študijev se gre učit pravo na Dunaj namesto biti duhovnik. Kasneje se vrne v Ljubljano, mu odpovejo finančna sredstva (ker ni bil duhovnik), postal odvetnik. Postal prijatelj s Čopom, Koritkom (čeh), Kopitarjem. Ti mu pomagajo, a on hoče biti samostojen. Dovolijo mu biti odvetnik 3 leta pred smrtjo, a je že bolan, zato gre v Kranj in tam umre. 1849 Umre zaradi raznih bolezni
-		Učil se je o evropski umetnosti preko prijatelja Čopa. Po njegovih naukih je pisal vzvišane pesniške oblike (soneti, tercine, ...).. 
+		Učil se je o evropski umetnosti preko prijatelja Čopa. Po njegovih naukih je pisal vzvišane pesniške oblike (soneti, tercine, ...). Vzdvigne njegove poezije z metaforami. Dokaže, da je slovenski jezik že zelo razvit s tem, da preve Lenoro.
 		njegova dela delimo na 3:
-			- mladostno obdobje (1824-28):
+			-mladostno obdobje (1824-28):
 				Preproste, nezrele pesmi. So lajše za brat. Tu je se optimističen in ironičen. Ker Kopitar reče, da niso bile zrele, pravijo, da je vrgel marsikatero delo v ogenj. 
-				- Povodni mož:
-					Motiv črpan od Valvazorja, ki je zapisoval zgodbe Kranjske, in med temi tudi povodni mož. 
-			- zrelo obdobje (1828-40):
-				pass
-			- pozno obdobje (1840-smrt):
-				pass
-		   
+				-Povodni mož:
+					Motiv črpan od Valvazorja, ki je zapisoval zgodbe Kranjske, in med temi tudi povodni mož. Urška je bila lepa, in "flirtala" z mnogimi, a potem vse pustila. Pleše veselo, vidi povodnega moža (lep, ecc.) in začne plesati z njim. Plesala sta, kot da jih nese vihar. Govori o beli turčiji, povezuje se tudi s srbsko kulturo, izlitje Save v Donavo (Beograd). Povezoval se je tudi s turki, ki so ugrabili dekleta. 
+				-Dekletam:
+					Prešernova prva objavljena pesem. Črpal motiv iz sv.Pisma (mana v puščavi, Mojzes, beg iz Egipta) --> če mane ne pobereš tako, izgine. rosa je lepa, a takoj ko pride sonce, je ni več. Rože so lepe samo takoj potem, ko zacvetijo. Vse te tri so kot dekleta: so lepe samo, ko so mlade, zato bi se ne smele šopiriti, da so lepe, saj bo ta lepota izginila kot mana, rosa ali roža. 
+					Ta pesem je še precej baročna, ker zelo opisuje in primerja: tako, kot mana/rosa ecc.
+				-Prevede Lenoro:
+					S tem dokaže, da je slovenščina jezik, ki je že dozorel in je lahko celo uporaben za prevode. 
+					V tem delu je koflikt, če je smrt rešitev. To je zelo različno od prešernovega stila (si ni postavljal teh problemov)
+			-zrelo obdobje (1828-40):
+				Preide v totalno romantiko, je obupan (pesimizem, ). Umetnost je edina vrednota, ki človeku pomaga v skrajnem obupu. Tukaj imamo sonete in gloso. V tem obdobju doseže status "klasika", ker v poezijah združuje vse, kar je življensko najvišjega, najpomembnejše vrednote. Vse te teme združuje v eno dobro dodelano obilko --> zapleteni verzi, kitice, vzorci. Ta preplet dosega vse estetske učinke tistega časa.				
+		   		Vsoda posameznika je enaka vsodi družbe/naroda --> Prešeren ni le prešeren, a tudi slovenski narod.
+		   		Tukaj začne pisati v "boljših" oblikah
+		   		
+		   		-Slovo od mladosti:
+		   			Zelo žalostna, pravi, da je že na polovici življenja in, da ni imel dosti lepih trenutkov v mladosti. Tudi, če je mladost "temna zarja" --> oksimoron, je bila lepa. --> (mladost je bila vseeno boljša od sodobnosti)
+		   			Strup spoznanja je zelo hitro ubilo veselje, ker svet (družba) zaničuje vse dobro. Zvesta ljubezen ne obstaja. Znanje, uččenost in pravičnost so kot device brez dote (ne veljajo nič) --> današnji svet ne ceni teh lastnosti.
+		   			Primerja življenje s čolnom, ki išče srečo (je ne dobi, ker veter piha v nasprotno smer) --> če si nesrečen, se maltraš zastonj --> ideja predestinacije (podobno pri naturalizmu, a je bolj kritika kot filozofija).
+		   			Samo bogati ljudje, ki lažejo so čaščeni. Ko je to videl, je bil žalosten. Ko pa je bil mlad, tega ni videl (ker mladost gradi svetle gradove nad oblaki). Goljfivi up daje moč, da se pride iz ene stiske v eno še večjo.
+		   			Ko ne boš več mlad, veter odnese vse tvoje mladostne sanje. Ko si mlad, pozabiš ne grde stvari; ko pa si star, si kot en neskončen sod, v katerega se polni bolečina. Tudi, če je mladost lažna, je lepa, torej "Bog te obvarji!".
+		   			
+		  		-Sonetje nesreče:
+		  			Sestavljen iz 6 sonetov, originalno 7. Ti soneti predstavljajo njegovo življensko vsodo. Zgled sta bila Michelangelo Bonarotti in Luis Camoes. Prešeren tukaj dozori z globokim premišljenem razmišljanju. 
+		  			 1) Vrba:
+		  			 	Vrba je Prešernova rojstna hiša. Zapustil je dom zaradi "b'uke žeje"(želja po učenju), (golj'fiva kača). Vse, kar si srce želi postane strup (slabo). 
+		  			 	Če bi me želja po učenju ne vzela iz Vrbe, ne bi vedel kako je vse grdo, in ne bi imel tako malo samozavesti (vera v sêbe vzeta) in ne bi bil tako razburljiv (bil viharjev nótranjih b’ igrača).
+		  			 	Če ne bi šel proč, bi dobil zvesto dekle, ki bi veljala več kot milijonarka.
+		  			 	Življenje (barka) bi bilo mirno in bi ga varoval Sv.Marko pred točo in ognjem (ker je študiral, je vedel, da svetniki nimajo vpliva na svet).
+		  			 	
+		  			 2) Popotnik:
+		  			 	Celoten sonet je metafora življenja. Človek si želi znanja in vednosti, a ko to doseže se zave, da je vse grdo.
+		  			 	
+		  			 	Popotnik je v neki puščavi v Afriki (življenje) in ne dobi več poti (smisla v življenju). Pride noč skupaj z oblaki in je popolna tema. Popotnik se vleže v travo in hoče luč.
+		  			 	Ko oblaki odidejo in luna osveti okolico (učenje in spoznanje), vidi strupene gade, tigre in leva. --> ko končno dobi smisel življenja, vidi samo grde stvari. (ko se zavedaš, kaj je življenje je škif)
+		  			 	Popotnik si je želel videti svetlobo (prihodnost), ko tega še ni mogel storiti.
+		  			 	Ko pa je noč (zagrinjalo) šla proč, je videl gnus življenja brez poti odrešenja.
+		  			 	
+		  			 3) Hrast:
+		  			 	Primerja življenje s hrastom, ki po zimi pade na tla. Spomladi znova zeleni, saj ima še nekaj moči, tudi če je že očitno, da bo posahnil.
+		  			 	
+		  			 	Hrast (človek), ki ga je vihar (nezgoda) vrgel na tla po zimi spet ozeleni spomladi, saj ni še zgubil vse življenske moči. --> smrt nas uničuje počasi, po sunkih ko nas meče na tla in mi se vedno dvignemo spet, dokler ne umremo.
+		  			 	Tudi če je spet ozelenil, nima več dosti novih mladik. Ostaja tam in samo čaka na trohljivost (smrt).
+		  			 	
+		  			 4) Sreča:
+		  			 	Tisti, ki namesto sreče je dobil klofuto (kot jaz (prešeran)), nima nobene možnosti do srečnega življenja. Tudi, če bi imel 100 rok, ne bo nikoli dobil sreče. --> dekadenčna ideja, podobno "Madame Bovarie" (tri determinante: čas, okolje in dednost)
+		  				Življenje primerja z eno steno, v katero se valovi (nadloge in nesreča) stalno butajo.
+		  				Katerikoli kraj, ki je pod stropom neba, ne bo sreče.
+		  				Edini kraj sreče je grob, v katerem ti smrt obriše pot s čela. 
+		  						  			 	
+		  			 5) sonet: 
+						dopolnjuje 4 sonet, ker reče, da je mir šele v grobu
+						Življenje je kot ječa, čas je kot rabelj (boia) v življenju. 
+						Vsak dan imamo nove skrbi, ki so prisotne kot Nevesta --> nekaj novega vsak dan.
+						Trplenje in obup sta zvestna kot hlapec.
+						daja pozitivne lastnosti (nevesta, zvestoba) grdim stvarem. 
+						Tudi kesanje (grd ubčutek) se nikoli ne utrudi, je kot pes čuvaj
+						Življenje je omejeno
+						čas gre napre, vsak dan so nove skrbi, trpi in obupa in se še zraven kesa
+						Smrt je kluč, vrata, srečna cesta, ki pelje iz kraja bolečine (življenja) tja, kjer trohljivost uniči vse težave, ki so bile v življenju.
+						v grobu nima več sovražniku, nobeden ga ne preganja, nobeden mu dela krivice (takrat so mu pravili, da ni pisal dobrih poeziji)
+	
+					6) sonet:
+						Drugačna od ostalih, saj je prisotna resignacija (tipično romantično) tukaj je še vedno sovražna sreča. primerja pretepanega človeka z njegovo dušo.
+						
+						Ne bom govoril več slabo o sreči, ker se je navadil, da življenje ječa in da trpim.
+						Moje prsi so se navadile bolečine butar, ki ga tepejo; usta pa so se navadila genkobe. Podplat je postala trda, da ne čuti več trnov --> no občutljiv več
+						Sklepi in udje so neobčutljivi in srce je postalo kamen. Duh pa je postal kot en oklep nesreč, a nisem več občutljiv.
+						Sreča lahko zdaj ga boža ali tepe, saj njega ne briga več. Noebčutljiv kot tnalo --> kjer se seka drva
+						
+					7) Bonus sonet: Memento mori:
+						Pomeni "Pomni, da boš umrl" iz latinščine. Seveda pesimističen, romantičen.
+						
+						Dolžina našega življenja je kratka. Dosti znancev je že umrlo (zasula lopata). Kadarkoli lahko umreš (odprta groba vrata). Dneva smrti ne pove noben koledar (pratka).
+						Tudi če si mlad, lahko umreš (imaš gladko kožo). Smrti ne moreš odkupiti z zlatom (bogastvo ne pomaga). Hrup veselja (veselje je glasno) in sladko petje ne zapodita tata življenja (smrti).
+						Tisti, ki ljubi (varljiv) svet in je vesel, se more zavedati, da se smrt vedno bolj bliža.
+						Mogoče tisti, ki zdaj veselo prepeva, bo na koncu dneva že v mrtvaškem prtu in molče bo pravil "Memento mori".
+						
+				-Glosa:
+					Razmišlja o poeziji; podobno španskim glosam, v katerih je 4vrstično geslo v katerem razlaga, kkaj bo v tej glosi napisano. To geslo se ponovi vsako kitico v zadnjem verzu. 
+					uvodne 4 vrstice:
+						Tisti, ki se ukvarja s poezijo, je slep. Slovenci se norčujejo iz tistega, ki piše poezijo. Pevec (pesnik) je vedno nesrečen in živi, umre brez denarja.
+					1 kitica: vsoda pesnikov:
+						Začne s Homerjem, ki ko je bil star, je bil revež in je prosjačil. (ni imel sreče)
+						Ovid je bil izgnan na črno morje, kjer ga je zeblo. (ni imel sreče)
+						Alighieri nam pove, da pevci so nesrečni.
+						Tako preavijo tudi avtorji Luzijade (Luis), Donk Kihota (Ser Vantes (ne znam ku se pise))
+						Ti avtorji pravijo, da kdo hodi po Parnasu (hrib, kjer živijo Apolon in muze)(kdor se ukvarja s poezijo) je nespameten.
+						"slep je, kdor se s petjam vkvarja."
+					2 kitica: vsoda slovenskih pesnikov:
+						Kaj nam rabijo pevci kot Petrarca in Tasso?
+						Neumni ljudje sprašujejo, kaj ravijo pesniki kot Petrarca in Tasso.
+						Koga brigajo te lepe ljudske pesmi, ki pripovedujejo o turkih in kralju matjažu?
+						krožek Čebelica ni bil sprejet in zato kritizira slovence.
+						"Kranjec moj mu osle kaže." ——> Slovenec se norčuje iz pesnikov
+					3 kitica: razlika med podjetnikom in pesnikom:
+						Lani je slepar prodajal starino, škatle, etc. Torej danes je Bogat. 
+						Pevec pa lahko gre do kitajske, a ne bo niti tam bogat.
+						Tudi, če pesnik piše in piše, si želi vsega, a sreča za pevca je nedosegljiva.
+						"pevcu vedno sreča laže."
+					4 kitica: položaj pesnika v odnosu do narave --> zakaj je kdorkoli pesnik, če potem ni srečen:
+						Vseeno pa ne neha pesniti.
+						(pravi drugim) "Jemljajte denar, naredite si gradove, bodite veseli!"
+						Grad za pevca je odprt, in je povsod, kjer se nebo razpenja. Za pevca je zlato zarja, srebro je trava ——> ljubezen do narave
+						Ker ima pevec naravo in svobodo, umre brez denarja.
+		  			 	"on živi, umrje brez dnarja."
+		  			 	
+		  		-Nova pisarija:
+		  			Ironičen pogovor med Učiteljem (pisateljem) in ulencem. Prvi del je napad na Kopitarjeve učence, kjer kritizira Janzeniste (so bili s kopitarjem). V drugem delu pa brani Čebelico.
+		  			
+		  			Učenec:
+		  				Kdorkoli lahko piše knjige in poezije. Tudi jaz se želim uriniti, in postati pesnik. Zato prosi pisatelja, naj ga pouči
+		  			Pisar:
+		  				Če so tvoje želje postati pisar, poslušaj in zastopi moj nauk: Če hočeš kaj veljati v tej skupini pisateljev, se moreš bati kot hudiča tujk (izognise tujk). Če si tega zmožen, lahko takoj poskusiš. Ni treba olepševati besedilo, saj je boljša konkretna lepota. Če želiš biti slovenski klasik, piši v grobem narečju in ne olepšaj besed. 
+		  				Če znaš pisati poezijo po domače (rovtarsko) boš vse slovence kot Orfej povelkel k sebi (Orfej je tuj, torej to je ironija). Če to storiš, tudi daljni naslednjiki bodo hodili k tvojemu grobu. Ko slovenščina se ti bo odkrila, pojdi v "rovtarske atene" --> podeželje.
+		  				(brez tujk, ne oraševati, rabi kmečko izrazoslovje)
+		  			Učenec:
+		  				Ali res kranjske besede so najboljše tam (gorenjska), kjer pastirji znajo le imena njihovih čred?? (močna ironija)
+		  			Pisar:
+		  				Tam še govorijo po starih navadah in ne rabijo grdih nemških besed.
+		  			Učenec:
+		  				Se boji, da ne bo dobil dovolj besedišča. 
+		  			Pisar:
+		  				Nič ne pride samo; brez truda ne moreš živeti. Ne boš dobil lepih besed ne v rovtah, ne nikjer. Treba je poslušati ljudi kako obračajo besede. Tako boš razumel, kako si izmisliti sam besede. 
+		  				Tam boš dobil ljudi, ki govorijo s končnicami in si lahko izmišljeval besede s tistimi končnicami (to seveda je velika ironija, saj s tem pravi, da sse lahko naredi en jezik samo s konččnicami). Ko boš to naredil, boš postal večji kot največji Češki pesnik (Dobrovski).
+		  				(prešeren pravi, da stara slovenščina ni primerna za poezijo zaradi pomanjkanja besedišča).
+		  			Učenec:
+		  				Priden učitelj! rekel bom adijo mestu in kot Apolon bom pisal večno poezijo. Toda naše ljudstvo je nekoč poznalo grške bogove. Učili smo se o njih preko rimljanov, torej zakaj ne bi smeli rabiti latinskih izrazov, če ne germanizmov?
+		  			Pisar:
+		  				NE!!!!111!!! Ne maži jezika s temi tujkami.
+		  			Učenec:
+		  				Srbje uporablja turško kulturo, Rusi tatarijo, Poljaki uporabljajo francosko kulturo, ampak ti praviš, da jez ne bi smel rabiti ne germanizme ne latinizme.... (hmmmmm i smell bullshit)
+		  			Pisar:
+		  				Med njihovimi deli je toliko tujk, ki so se uvedele v to čisto slovanščino, da nobeden jih ne uspe ščistiti. Naše pokvarjene knjige pa vržemo na ogenj (uničimo), da se potem prerodijo kot feniks iz pepela (popravimo). To lahko naredimo, ker je na slovenskem še malo takih knjig.
+		  			Učenec:
+		  				Zakaj bi mogli uničiti tistih malo knig in čakali novo besedišče?
+		  			Pisar:
+		  				Filtrirali bomo vse, ohranili le čiste besede in besede, ki jih ni več pa si bomo izmislili.
+		  			Učenec:
+		  				Tega jezika, ki si bi izmislili in bi vzeli iz narečja enegapodročja, v štajerskem ali ljubljani ne bodo razumeli.
+		  			Pisar:
+		  				Tatovi, cigani, trash govorijo po svoje, zato zakaj ne bi smel jaz govoriti po svoje?
+		  			Učenec:
+		  				Bo čudno, če vsak govori po svoje in mi ustvarjamo en knjižni jezik, ki nobeden govori. Tudi tebi uidejo tujke
+		  			Pisar:
+		  				Govori se, kar ti pride na misel. Potem ko konča pogovor, nobeden se ne spomni. Če pa to pišeš v knjigo, to ostane in zato je treba biti pozorni kako pišemo. Pomembno je tisnjeno in to bodo brali bodoči ljudje. Cel svet bo posnemal te slovenske puriste. Če ti tega ne razumeš pa bojo razumeli tisti za tabo.
+					Učenec:
+						Ok hvala, si mi osvetljil pogled. Povejmi še o čem naj bi mogel pisati.
+					Pisar: 
+						([v latinščini] --> ironično) Reče, da kar je "utile" je poučno, medtem ko kar je lepo je slabo. --> Piši poučno, ni važno, da je lepo.
+					Učenec:
+						Imamo romance in balade. Bi radi imeli tudi tragedje in imamo tudi sonete (prešeren)
+					Pisar:
+						Tudi če je lepa, pesem mora biti slovenska, čene je škif. Ljubezni nima smila prepevati. Kritizira kranjsko čebelico. Ljubezen je nekaj slabega: slovenke ne smejo prebirati, kar je v čebelici, ker se s tem zastrupijo kot se je zgodilo z Romejevo Julijo. 
+					Učenec:
+						Je škoda, ker ko si mlad si večkrat zaljubljen. Nima smisla, da se ne sme o tem pisati.
+					Pisar:
+						Nima smisla pisati balade, tragedji, romanc, sonetov, zdravljic (vse, kar piše prešeren). Piši raje to, kar rabi pri hiši (piši koristne pesmi)
+					Učenec:
+						Ok, pisal bom kako se kopa krompir, kako se orje polje, kako se pašejo ovce in kako se lovijo miši. S tem bo slovenska poezija rešena.
+				
+				-Zabavljivi napisi:
+					-Zabavljivi sonetje (1830-1833):
+						Bila je črkarska pravda, kregali zaradi različnih črk. 
+						
+						Kaša ali kasha (http://www.preseren.net/slo/3_poezije/88_al_prav.asp):
+							Ljudje se kregajo med š in sh, in se sprašujem, kdo ima prav.
+							Če je kaša iz boljšega žita, nas ne ne piše "kasha", ampak "kaša"
+							Če ta jed ne bo boljša zaradi te črke, 
+							se ti ljudje borijo za oslovo senco (za nič).					
+						
+						-Apel in čevljar:
+							kritika kritike --> kopitar ne pozna moderne slovenske umetnosti, zato naj je ne kritizira.
+							
+							Apel naredi umetnino, in ker hoče slišati le resnico, se skrije in posluša, kaj ljudje pravijo.
+							Pred to delo se ustavi čevljar, in opazuje čevlje podobe. Pravi, da ima premalo jermenu. Apel to takoj popravi.
+							Naslednji dan, ko čevljar vidi, da so čevlji v redu, se pritožuje o nogah (meča), namesto, da bi hodil naprej po poti.
+							Umetnik ga zavrne skupaj s komurkoli, ki mu očita in mu reče, da čevljar (Kopitar) mora soditi le čevlje.
+							
+					-Epigrami:
+						zabavljivi napisi ali sršeni
+						Zelo romantično, napisal 20 sršenov (ostri soneti)
+						
+						Vodnik:
+							Se norčuje iz Vodnika (ljubkovalno)
+							Oblečen je bil v meniha, rad sem pel in še rajši pil.
+							
+						Ravnikarju:
+							Ravnikar je tisti, ki bi moral učiti pravilne slovenščine. 
+							"Gorjancov naših jezik potujčvavši" --> s tem, da si vse začel govorit na -avši
+							"si kriv, de kolne kmet, molitve bravši." --> si kriv, da ko moli kmet, se zdi, da preklinja.
+							
+				-Turjaška Rozamunda:
+					Prebersi, je jasna (http://www.preseren.net/slo/3_poezije/23_turjaska.asp)
+					Dobimo romantično ljubezen, ker je čista, lepa.	
+						
+				-Sonetni venec:
+					1833, Prešeren napiše enega najboljših sonetnih vencev: soneti prepleteni med sabo. Vsebuje tri romantiččne teme: Ideja romantične ljubezni, slovenstva in poezije. (ljubezen, narod, umetnost)
+					Imamo simetrični red glede na teme --> so urejene. Idejo romantične ljubezni imamo na začetku in na koncu. V sredini imamo idejo naroda, medtem ko ideja poezije povezuje vse skupaj.
+					V celem vencu imamo podobo slovenske zgodovine.
+					Sedanjoost je nesrečna, prihodnjost bo srečna. Tudi preteklost je bila srečna.
+					Razmišlja ne samo o njem, a o slovencih nasplošno.
+					Rabi dosti mitoloških in antičnih figur (npr.Orfej)
+					14 sonetov + magistral, vsak zadnji verz se ponovi v prvem verzu nasllednjega. Magistral je sestavljen iz vsakega prvega verza vsakega soneta.
+						
+					1-4 soneti: tema ljubezni, ostalo ideja naroda
+					
+					
+					-1/14: 
+						najprej opiše kaj je sonetni venec in kako ga je napisal; katere so teme tega soneta.
+						(še vedno razlaga) --> konec verza je začetek naslednjega.
+						vse misli izvirajo iz ene ljubezni (prešeran + julija) razvile so se ponoči in so se ponavljale tudi po dnevi.
+						Ti ljubezen do tebe je vodilo mojega življenja. Ko me ne bo več bojo te poezije spomin na moje rane in hvalile tebe.
+						
+					-2/14:
+						pass
+						
+					-3/14:
+						pass
+						
+					-4/14:
+						pass
+						
+					-5/14:
+						je prehodna poezija, ki povezuje ljubezen z domovinsko liriko.
+						Pove, zakaj je nastala ta poeziija. Pove, da ta poezija ni vesela.
+						prehod je v tem, da pove, da poezija je trpeča in trpeče bo obrazložil slovenstvo.
+						
+						Nisem iz veselega konca, a ti me sploh ne pogledaš in živiš veselo.						
+						V mojih poezijah je jeza, moje pesmi niso nežne. 
+						Se je roodila iz ranjene ljubezni.
+						Pogrešal sem sapic --> veseli trenutki
+						
+					-6/14: 
+						Deklica prevzetna --> povodni mož (je tudi malo kritike do Julije) --> sem pogrešal prijetno sapico od tebe --> me nisi ljubila
+						Julja tukaj postane prevzetna predstavnica nemškogovorečih prevzetnih deklet. Zaradi tega te pesmi so nastale v strahu, da punce, ki so govorile po nemško, bi bile zgnusene od slovenščine (nemščina je bila boljša)
+						Zdaj kritizira slovence: slovenske muze so pozabljene, ker slovenci častijo le tuje pesmi.
+						Do zdaj naše poezije so bile kot rožice, ki so jih obdajale velike skale --> skrite, lepe, izolirane.
+						
+					-7/14 (Orfejevski sonet):
+						Ta poezija je oddaljena kot orfejeva poezija (žalostna). Vsi so se omehčali, ko so slišali orfejev glas, tudi če je žalostna
+						Si želi, da tudi ta poezija bi prebudila slovence in vse naslednje rodove, da bi sprejeli te domače orfejeve pesmi (mojstrovine)
+						(podobno zdravljici) Ljudje nimajo občutka do slovenske kulture in lepote.
+						
+					-8/14:
+						Govori o zgodovini slovencev
+						
+						Naše domačije so jezne, polne viharjev od kar je umrla kralj Samo. 
+						S Pipinom smo postali sužnji in od takrat nismo več pomembni. Od takrat nimamo več moči. Vnuki so postali razprti Slovenci. Edina, ki posznamo je krvavi punt in boj s turki. Slovenci so bili združeni samo v puntih in bojih proti turkom.
+						Te stare slave ni več, ker nimamo nobenega junaškega epa, ki bi obujali te dogodke. Slovenci nimajo poezije, ki bi obujala te trenutke.
+						Kar je ostalo do danes so samo še žalostne poezije						
+						
+					-9/14:
+						Združi vse tri teme
+						
+						Moja poezija je žalostna. To se je zgodilo zaradi solz ljubezni (do Julije) in iz domovinske ljubezni.
+						Ta žalost, ki mi je napolnila srce izhaja iz misli, da Slovenec ne ljubi matere (domovine), ki vrjame vanj. Žalosten tudi, zato ker me ne ljubiš. Slovenc je do domovine kot julija do prešerna.
+						Želje (po tem, da bi slovenci ljubili domovino in da julija bi ljubula njega) so sprožile to poezijo. Hotel sem tudi biti slaven in s tem tudi Julija. Seveda pa s slovensko poezijo.
+						Želim zbuditi slovenščino iz slovencev, da bi se vrnili časi sreče, kjer slovenci so srečni, da so slovenci. Te želje so dale moč moji poeziji, čeprav je ta žalostna.						
+						
+					-10/14:
+						pass
+						
+					-11/14:
+						pass
+						
+					-12/14:
+					 	pass
+					 	
+					-13/14:
+						pass
+						
+					-14/14:
+						pass
+					
+					-Magistrale:
+						Nov poet vije slovencem venec. --> Prešeren je napisal (sonetni) venec
+						Ta venec bo spomin mojega trplenja in hvali Primiceve Julije.
+						Iz srca je nastala 
+						mokrocveteča (lepa in hkrati žalostna) poezija.
+						
+						Poezije so žalostne (iz krajev, kjer sonce ne sije)
+						Te rožice (poezije) so pogrešale malo vetra (lepi trenutki)
+						Okoli tega so bile skale
+						Okoli teh poeziji so bili samo slabi trenutki.
+						
+						Nesrečni trenutki so dali moč tej poeziji, saj je nastala iz teh trenutkov.
+						Žalost je naredila to poezijo.
+						
+						Moja poezija je otožna, bleda,
+						Ti Julija lahko razveseliš mene in poezijo in moja poezija bo bolj vesela. 
+						
+						
+				-Gazele:
+					6 do 30 verzov, od teh se rimata prvi dve in potem vsaka druga. vsaki rimi sledi refren.
+					
+					Pesem moja:
+						Večna slava ljubezni delkleta
+						
+						moja pesem je posoda, [...], s to poezijo boš postala slavna. Vsi bodo brali o tebi, tvoje ime bo slavno. Slavna bo tudi, ko bova umrla. Boš bolj znana kot Laura, ecc. Bi bilo škoda pozabiti tvoje ime.
+	
+					
+				-Zvezdogledam (današnja slovenščina: zvezdogledom): 
+					V tem delu lahko še vedno oppažamo razočaranje nad dekletom, a lahko začutimo bolj ironičen pogled na svet. Prispodoba so vremenoslovci, ki ne ugotovijo vremena. To primerja s fantom, ki ne zna izbrati dekleta.
+					"pratike": koledarji, v katerih piše, kar se bo zgodilo.
+					"lažnivi pratikarji": ljudje, ki so pisali pratike (niso zadeli ponavadi).
+					priemrja te pratikarje s samim seboj, ki gleda oči/zvezde ženske, in misli, da je vidil ljubezen, ko v resnici tega ni nikoli bilo.
+					"jaz sem gledal samo dve zvezdi (oči) in zgrešil, kaj hočete vi gledati neskočno zvezd in vedeti kaj!"
+					
+				-Hčere svet:
+					Ljubezen v sporu s socijalnimi ovirami.
+					Lahkotna oblika
+					
+				-Učenec:
+					To delo pokaže konec mladostnega obdobja.
+					Delo v prvi o sebi, govori o zaljubljenemu študentu. 
+					Na pepelničnem jutru (dan po pustu, sreda), je učenec klel (preklinjal) in se jezil in je rekel: "[poezija]":
+						Se jezi na prepust, in upa, da se ne bo več zgodil. Opiše tri grde dogodke:
+							-Porabil je ves denar za pustne zabave. (poslal[prepust] si kugo na mojo mošnjo). Zaradi tega me bosta starša oštela. 
+							A to ni še najhuje.
+							-Ker je šel na vse zabave, se ni učil. Zaradi tega bo moral študirati dosti noči in si beliti glavo.
+							Tudi to ni najhuje.
+							-njegova ljuba si je med pustom dobila fant.
+							To je bilo najhuje.
+						"Lepo rezijko nemškuto": to je prisotno v romantiki: 
+							-ideja avtorja/pesnika nad vsemi
+							-nedosegljiva ljubezen 
+							-pojmovanje naroda. 
+				
+				-Posvetilo Matiju Čop:
+					Posvetilo matiju čopu, v katerem pove, da bo napisal Krst pri savici.
+					
+					Umrlega prijatelja bom izročil dušam umrlim (mani). Umrl je prezgodaj (as usual) Zraven njega vam dam tudi nežno pesem (milo) --> krst pri savici. Ta poezija naj bi bila zdravilo za ločitev tega prijatelja od mene in za solite rane v srcu.
+					Ta pesem bo povedala, da lepe stvari minejo. Srečen je le tisti, ki je kot Bogomila, ki vrjame, da je srečen v posmrtnem življenju.
+					Jaz pa (prešeren) sem kot črtomir, ki sem pokopal vse sanje in iluzije. Vse želje so neizpolnjene in boleče.
+					Srečni in nesrečni dnevi grejo mimo, vse to bo pokopala smrt. ——> vse mine, in edina rešitev je smrt.
+				
+				-Krst pri savici:
+					Posvečen Čopu, leta 35 napiše še pesem za spomin Čopu.
+					lirsko-epska pesnitev: prvi del je zgodba, drugi del so pretežno čustva.
+					Proti koncu je očitna resignacija --> pokristanjevanje.
+					Kritiziran bodisi od vernikov kot ne
+					Se zgledoval tudi po Slavi vojvodine kranjske, bolj točno se je zgledoval po 
+					Obliko je vzel po Bayronu
+					Način pisanja podoben Puškinovem
+					V tem delu, prešeren izpopostavi vse njegove ideje: ljubezen, domoljubje, romantika, romantična ljubezen, nova krščanska metaforika
+					Na to delo tudi vpliva Dante - metaforika boga etc (bogomila = beatrice), tercine
+					Stalnica: rešitev je v smrti, a ni rečeno da je to krščansko pojmovanje smrti
+					
+					Uvod:
+						epski del 
+						Zmaga nemcev nad slovenci bolj pomembna kot zmaga krščanstva na staro vero (nacijonalizem)
+						3 deli: uvod(ekspozicija bojev), črtomirov govor(ko črtomir pravi tovarišem, da niso v dobri sitvaciji), boj(mesarsko klanje)
+						
+						Valjhun, je bil nek general ki je posiljno pokristanjeval slovence. Prešeren je dobil te informacije v slavi vojvodine kranjske. Valjhun se dolgo bije za krščanstvo, in nobeden se ga ne upa ustaviti.
+						Ti boji so bili tako grozni, da bi lahko kri napolnila jezero in so 
+						trupla gnila po zemlji.
+						Edino črtomir z nekaj vojaki si upa se bojevati, ker se bojuje za dom, bogove, ljudi etc.
+						Črtomir zbeži v Bohinj, v neko trdnjavo.
+						Obkolijo jih sovražniki, ki jih je 9-krat več. Črtomir nima več pomoči.
+						Tudi če obkolijo obzidje, ne morejo noter.
+						Tam so 6 mesecov. Bodisi Vrhunovi kot Črtovi vojaki so Slovenci in tem prešeren jim očita.
+						Tudi če niso mogli noter s sabljami, noter jim je zmanjkalo hrane. 
+						Črtomir se tega zave in krivi srečo.
+						Reče tovarišem, da nimajo hrane in da so se dosti časa branili. Kdor se želi vdati, to lahko naredi. Tisti, ki hoče živeti eno nesvobodno življenje. Tisti, ki se uda mora dočakat jutro.
+						Ostali, ki se nočete predati pridete z menoj, ker je tema in nevihta. 
+						Do gozda je malo poti in mi imamo možnost bega.
+						Lahko dosežemo ta gozd, kjer lahko slovenski otroci prosto izbirajo vero in vladarja. (ta stavek je počrtan od prešerna)
+						Če umremo v boju, je manj strašna črna noč pod zemljo (biti mrtvii) kot biti živi sužnji pod soncem.
+						Nobeden ga ne zapusti, Vsi vzamejo orožje. Nobeden ni bil prestrašen.
+						Komaj se odprejo vrata, se uname strašni boj, ne boj a mesarsko klanje. Valhun jih obkoli s celo vojsko.
+						Tudi valhun je mislil, da bojo spali in jih je hotel napasti in prelesti obzidje.
+						Ko vihar je najbolj močen (napad), straža zavpija "Na pomoč" in borba je na višku. 
+						Valhun je kot voda, ki pride s strmega hriba z nevrjetno močjo in podere vse pred sabo.
+						Tako kot ta reka, tako se vrže valhun na pogane.
+						Valhun ne konča napada dokler niso vsi pogani mrtvi (tistim, katerim je bila vera vsedraga).
+						Ko sonce zasije na trupla vihar se umiri in mrliči ležijo kot požeti snopi ajde in pšenice.
+						Umrlo je več kot polovico kristjanov in Valhun išče Črtomira, ki je zbežal.
+						
+					Krst:
+						lirski del
+						Deli se na 5 delov: 1) črtomir pri jezeru; 2) 
+						napisan v stancah
+						Cankar kritizira ta del, ker je zaradi tega črtomir preveč mehkužen
+						
+						Po tmni noči nimamo več ne vojne ne nevihte. Svetla zarja zalti trojno glavo Triglava. Bohinjsko jezero je mirno, a noter je dosti rib (somov), ki se premikajo. (zgoraj je mirno, spodaj pa je dosti premika)
+						To jezero ni kot ti, črtomir, ki sedaj stojiš ob jezeru? [imamo prve dijalogizme](črtomir je zdaj tih, miren), ti si miren, ampak v tebi je še vedno močen vihar, ki se premika kot črv. Izkušnje moje nesreče mi povejo, da si še bolj obupan kot ko si se bojeval.
+						V tebi te jeza žre, ker so poganski slovenci mrtvi in ker so zmagali bavarci (Tesel je bavarski vojvoda). Gospodarijo tujci in le tujci imajo srečo na kranjskem. So ošabni. (pravi črtomiru) "Ne napravi samomora kot uni senator".
+						Prešeren pravi črtomiru, da ni napravil samomora, ker je še mlad, ker se spominja otočka na sredi jezera in ker ima goljfivi up.
+						Opisuje Blejsko jezero z otokom, okoli so gore, na levi je Blejski grad. Slovenja nima nobenega tako lepega kraja.
+						V času črtomira je tam bilo svetišče posvečeno boginji živih, ljubezni in mladih. Za ta tempelj je skrbel staroslav in njegova hči.
+						Bogomila ni samovšečna, tudi če je lepa, ni zaljubljena.
+						Črtomir nosi darove boginnji Živi, gre z ladjico na otok, nese sadje, žito ecc. Ko vidi bogomilo se zaljubi vanjo.
+						Srečen Črtomir (reče prešeren)! Tudi ona se je zaljubila vate in je sramežljiva etc. Sta zelo srečna, da sta se zaljubila 
+						Celo leto živita skupaj veselo, sot pijana od ljubezni. Različno kot nesrečnemu prešernu. Po enem letu pa se morata ločiti.
+						Pride Valhun, ki požiga poganske (božje) veže. Staroverci se upirajo, ker so jo podedovali. Tudi bogomila je staroverka (pazi ona na tempelj na otoku)
+						Jočeta bogomila in oče, ko vidita, da črtomir odide v boj in da temu ni rešitve.
+						Oče gleda in pravi, da bojo zmagali, a dobro ve, da je nemogoče, da bodo zmagali, ker Valhun je imel preveliko vojsko. Pride novica, da Valhun je začel napad in črtomir gre v boj.
+						Šel se je bojevati brez nobenega upanja zmage, a se je vseeno bojeval zaradi dediščine. Kjer je mahal z mečem, je vse pobil (dosti mrtvih sovražnikov). Vseeno pa ne moč trdnjave ne meč ne moreta rešiti poganskih bogov in prijateljev. 
+						Črtomir stoji tam naslonjen na krvavi meč in misli napraviti samomor, a potem pomisli na Bogomilo.
+						Jo hoče videti še enkrat, hoče videte, če je še živa etc.
+						Pride mimo en ribič, ki ga opomni, da ga kristijani iščejo in mu pove, da Valhun muči pogane. Ga povabi v čolnič, da ga privede na varno.
+						Hito vesla, pridejo do zavetja, pazita na sovražnike, se skrijeta v goščavo in ribič mu nudi hrane.
+						Črtomir mu hoče poplačati, a nima denarja. Se pa spomni, da staroslav in Bogomila imata denar. Ribiču reče naj ju poišče in mu da prstan, da vedo da ga je poslal črtomir. Lahko si bo vzel 1/4 zlata.
+						Ga tudi praša, če je Bogomila živa, če se kje skriva. Reče ribiču naj ji reče, da jo bo čakal pri slapu savice.
+						[Ta kitica je epska primerjava. Črtomir je primerjan s slapom, ker najprej grmi, je živahen in potem se umiri. Tako je tudi mlad fant] Na začetku je slap deroč, potem pa se umiri.
+						Pride ribič, in za njim stoji duhovnika, ki je bogato oblečen. Želi vzeti meč, a tedaj se prikaže bogomila.
+						Črtomir je vesel, da jo spet vidi, lahko se zgodi karkoli, a zdaj je on srečen.
+						Bogomila mu reče, da ni čas druženja, ampak je čas ločitve. 
+						Bogomila pove, da se je pokristijanila skupaj z očetom, tudi cela vas se je vdala mariji, so se odpovedali čaščenju opganskih bogov in so vrgli v jezero kip boginje Žive. Zdaj ti bom povedala kaj se je zgodilo:
+						Ko je črtomir odšel, je razmišljaja, če bo ljubezen minila ali ne. Li bo ta ljubezen uničena, ko bosta umrla. Ni nobenega kraja po smrti, kjer bi se srečača po smrti (v poganski veri ni bilo posmrtnega življenja)
+						Iskala je možnosti, a ni dobila. Skoraj je obupala in po noči je hotela svit dneva.
+						Neki dan se je šla pozanimati glede poganske vojske. Srečala je tega duhovnika, ki je zdaj tam. Duhovnik je učil o bogu.
+						Reče, da je Bog bog ljubezni, da ljubi vse, in da bo po smrti raj.
+						Reče, da je Bog ustvaril nebesa in da tam, bodo vsi tisti, ki se ljubijo, se bodo srečali in živeli veselo.
+						Ko se je vrnila domov, duhovnik pride do nje in jo praša, če lahko gre z njo in ji pove, da je tudi on bil druid in se je spreobrnil in postal duhovnik.
+						Začne razlagati krščansko vero, kako je Kristus odrešil vse, opiše strah sodnega dneva, obrazloži vse čudeže. 
+						Vseeno pa jo je skrbelo, da bog sovraži črtomira, in je upala, da bo tudi on bo postal kristjan, da se bosta združila po smrti 
+						Duhovnik ji reče, da če moli dovolj, bo črtommir ostal živ. Zaradi tega, ona je stalno molila in prosila, naj ne odstrani črtomira. Pravi, da črtomir je tak zaradi zmote, ne zaradi hudobnosti. In res, pravi, da tisto noč ga je bog obvaroval
+						Reče črtomiru naj se krsti, tako da bodo lahko živeli veselo :}
+						Črtomir:
+							Dokler ne bom pokopan, bom posvetil življenje tebi. Ti ukaži kaj naj naredim. 
+							Kako bi lahko ne naredil nečesa, ki nočeš. Ampak pomisli na rane, ki jih dela Valhun, koliko krvi je povzročil. Pomisli na dejanja tvojih kristjanov. POmisli na vse to, in mi povej ali bog vojne (črt) enak kot krščanski bog? in ne kot bog ljubezni? 
+						Duhovnik:
+							Bog ljubi vse, vsi smi enakopravni, smo bratje yada yada yada... Valhun dela po svoje in greši. (duhovnik predstavlja vero in valhun Cerkev)
+						Črtomir:
+							Pove, da lahko postane kristjan zaradi Bogomile. Ve, da so si ljudje izmislili bogove. On je samo se držal starih tradicijah. Če se krstim, kdaj se poročiva? 
+						Bogomila:
+							Sem molila, da se boš rešil. Obljubila sem, da postanem nuna če se rešiš.
+							Da sem lahko s teboj po smrti, sem se odpovedala najini vezi.
+						Duhovnik:
+							Postani duhovnik, da boš opral vse grehe, ki si jih naredil
+						Črtomir:
+							Imaš prav, da sreča me sovraži. (insert sad stor here) --> po prešernu
+							Sem zgubil starše, domovino, korenine, prijatelje (cry about it) --> resignacija --> tudi ljubezen na koncu traja malo
+						Bogomila:
+							Ni res. Jaz te bom vedno ljubila. Te bom čakala do smrti, in po smrti bova srečna.
+							Pojdi po svetu oznanjati novo vero, in jaz te bom čakala po smrti kot prava nevesta.
+							[medtem ko govori]: zasije sonce, pride mavrica, srčki po zraku, in črtomira to prevzame
+						Črtomir plača ribiča, objame Bogomilo jokoč, in da denar sirotam.
+						Bogomila pa ga prosi, naj preden gre v oglej, naj se krsti tam pred njo (lih da ne umre preden se krsti)
+						Duhovnik ga krsti, vsi gredo na kolena (????)
+						Črtomir gre v oglej, Bogomila ostane tam in se nikoli več ne vidijo na zemlji. 
+						
+				V tem obdobju pride na dan ogromna resignacija in pride v ospredje lik pesnika (obupan, misli na samomor)
+				Lik umetnika (pesnika), ki je zelo pomemben, ker ohrani določene ideje v večnosti, ker edino kar ostane je umetnost					
+					
+				-Prekop:
+					Nibelunški verzi - iz predromantike, rabljena v poezijah ljudskega slovstva
+				
+					Pesnik piše pesmi prevzetni deklici, a njo ne gane.
+					Pomlad pride, se zbudi cel svet. Zakaj ko hodiš po naravi si nosiš čutaro namesto da bi pil iz rek?
+					Zakaj si tako zamišljen? ali boš pisal pesmi o njej ali naravi? pesnik pa je bil tiho
+					Dobijo tega pesnika mrtvega in se sprašujejo kdo ga je ubil, a nobeden ne ve.
+					Pri pogrebu
+					[...]
+					
+				-Neiztrohnjeno srce:
+					To je lirska balada, ker so čustva v ospredju
+					Ni vezana na obdobje, medtem ko epske pesnitve so kot pravljice, in so vezane na eno obdobje
+					V nibelunških verzih, vezano na srednjeveške balade, v ospredju pesnik, povezava z naravo in pesnikom
+					V tem je ta pesnitev precej podobna Prekopu.
+				
+					Ko kopljejo grob, dobijo ne gnilo truplo 
+					Ta fant je bil lep, a ko pride prva sapica, truplo izgine in ostane samo srce, ki še bije
+					Se sprašujejo, kdo je bill tam pokopan in mislijo, da je svetnik
+					Grejo počistiti nadgrobnik in tam piše, da je tam bil pokopan dobroslav, ki je bil pesnik, ki je pel o ranah ljubezni
+					Pel je o prevzetni deklici, in ko si je ona izbrala drugega mladeniča ni pisal več
+					Ni niti iskal tolažbe, se ni jokal, se ni smejal
+					Umrl je nekrščen in torej grešni.
+					Vsi pravijo, da je nemogoče, da je to pesnik, saj ni pognil.
+					Stari mož pravi, da če bi bilo srce svetnika, bi bilo tisto srce gnilo
+					V tistem srcu svetnika so zaprte vse pesmi, ki jih pesni ni izrekel
+					Pravi, da je treba odpreti srce in ga pustiti tam čez noč in dan.
+					Pustimo, da sonce, luna in zvezde si vzamejo nazaj navdih za pesmi in potem ga pokopamo spet
+					Ti tako storijo, a naslednji dan ga ni bilo več, je splahnelo kot sneg spomladi.
+					
+			-Drugi del zrelega obdobja:
+				Vedno bolj proti pesimizmu, vedno manj Novih idej in vedno več trpljenja
+				-Kam?:
+					Prijatelji ga sprašujejo kam gre
+					Reče, da ne oblak ne valj vedo kam jih bog premika.
+					Tako tudi jaz nevem kam me pelje obup
+					Edino kar vem, je da ne smem stopiti pred obličje Julije
+					Ni nobenega kraja na zemlji, kjer bi pozabil na to trpljenje
+					
+				-Pevcu:
+					Kratko nadaljevanje Glose, nadaljuje razmišljanje o poklicu pevca
+					Za prešerna, pevec je kot prometej, rabi prispodobo le-tega
+					(prometej vedno trpi, prav kot pesnik :))
+					Pesnik ne more nič narediti glede tega, ker pesniki trpijo
+					
+					1) bolečina, žalost:
+						Kdo zna ta obup, ki je prisoten
+					2) govor o prometeju:
+						Kragulj = trpljenje
+						trplenje žre srce vsak dan
+					3) :
+						Kdo bi me lahko naučil, da izbrišem spomine mladosti in brezupno prihodnost, da bi zbežal tej praznoti, ki imam sedaj.
+					4) :
+						Kako si lahko pesnik, če ne trpiš? Kako si lahko pesnik, če ne živiš v nebesih ali v peklu?
+					5) :
+						Spomni se, da si pesnik, in trpi v miru! 
+						
+				1839 --> umrejo Čop, Smole in Koritko, Julija se poroči (ne z njim)
+				
+			-pozno obdobje (1840-smrt):
+				Bolj vezan na narodno-politični program, se bližamo 1848
+				Je več liberalizma, Ideja, da bi slovenci bili enakovredni ostalim narodom
+				Politične menjave, slovenci postanejo bolj samozavestni
+				Proti metternihu; resigniran na svojo vsodo, a se ne vda za vsodo slovencev
+				
+				-Nezakonska mati:
+					Posvečena ani jelovškobvi (edino besedilo njej), s katero je imel otroke, a je ni poročil
+					Govori o prevzetni deklici, a tudi o mati njegovih otrok
+					ta mati je idealizirana, ker za otroke naredi karkoli
+					Pisana od prešerna v imenu matere
+					Zelo konkretno, brez metafor
+				
+				-Elegije:
+					V spomin Andreju Smoletu, Matiju Čop
+					elegija valentinu vodniku --> zdi se, da ga je spoznal
+					V obliki zdravljic
+		   		
+		   		-Judovsko dekle:
+		   			Se zastopi precej iz pesmi, se mi neče pisat
+		   			http://www.preseren.net/slo/3_poezije/24_judovsko.asp	
+		   			
+		   		-Zdravljica:
+		   			1844, cenzurirana, prepovedana objava, prvič objavljena 1848 --> ker konča metternichov absolutizem, skupaj s tem tudi matiček se ženi
+		   			Bila črtana kitica, ki je spodbujala k uporom
+		   			Bila odgovor Koseskemu, ki je napisal himno cesarju in avstrijskemu cesarstvu
+		   			Glavni cilj je enakopravnost in prijateljstvo
+		   			Napisana v obliki napistnice, v obliki čaše
+		   			Je nekoliko nadaljevanje črtomirovega razmišljanja
+		   			
 	Matija Čop:
 		Kritik, zgodovinar, 1. literarni zgodovinar, poznal 19 jezikov, Bil je zelo razgledan.
 		1831: napiše prvi spis o slovenski književnosti. Razdelil je literaturo na različna obdobja (od leta 1768 naprej, ker prej ni bilo literature):
 			razdeli književnost na 3 obdobja:
-				- protestantizem --> da pomen protestantizmu, ki je bila prej tabu tema.
-				- katolištvo po letu 1600
-				- 1768 --> od Pohlina naprej moderno obdobje
+				-protestantizem --> da pomen protestantizmu, ki je bila prej tabu tema.
+				-katolištvo po letu 1600
+				-1768 --> od Pohlina naprej moderno obdobje
 		Bil je inovativen, spiral s Kopitarjem. Podpiral krožek kranjske čebelice, a ga je kopitar prepovel. 
 		Trdi, da bi morali slovenci slediti zahodni modi in pistai najboljše pesniške oblike (npr.: sonet, stance, tercine)
 		
@@ -159,35 +687,222 @@
 	Črkarska pravda (1833):
 		Slovenci so bili takrat v zmedi: vsi so pisali šumnike na različen način: France Prešeren je vztrajal z Bohoričico, Kopitar pa je podpiral novo metlenčico. Ostali so tudi podpirali dančico. Avstrja pa se je tega pričkanja naveličala in prepovedala dančico in metlenčico. do leta 1850 so rabili torej bohoričico, a kasneje tistega leta so uvedeli gajico (čšž). Še danes uporabljamo to razliko LATINICE. 
 	
-- 1848-1899 --> Romantika / realizem:
-	pass
+-1848-1899 --> Romantika / realizem:
+	To je obdobje MED romantiko in realizmom --> ni ne eno ne drugo
+	
+	1843 - Kmetske in rokodelske novice:
+		Časopis, ki ga je urejal Bleiweis
+		Zagovarjal idejo slovenstva, zagovarjal Kopitarja.
+	
+	Se konča Metternichov absolutizem - marčna revolucija
+	Začne se Bachov absolutizem
+	
+	Mohorijeva družba:
+		založba
+		
+	Zapisujejo bajke in prvljice iz ljudskega izročila
+	1856 - Levstik napiše Martin Krpan
+	
+	glavni pesnik: Janez Koseski
+	
+	2 tabora:
+		-mladoslovenci:
+			Prešeren boljši, Koseski škif
+		-staroslovenci:
+			Uvedli gajico
+			
+	Janez Bleiweis:
+		Zdravnik, živinozdravnik
+	(????) Koseski:
+		izdelal program (??) slovenstva, kjer pa je bil precej predan avstrijski hierarhiji in je bil tudi precej podvržen Cerkvi.
+		Hotel je gospodarski napredek družbe, kultura pa je morala biti koristna / utilitaristična
+		
+	Anton Martin Slomšek:
+		Bil nadškof v Mariboru
+		utrdil meje sevrnega slovenstva
+		
+		
+	Josip Jurčič:
+		Pisal povesti iz vaščega podeželja
+		
+		Telečja pečenka:
+			Podobno Tilki
+			Posebnež, ki ne more biti v stiku z družbo
+		
+		Popotovanje od Litije do Čateža:
+		
+		Deseti brat:
+			Najpomembnejše delo
+			Prva daljša pripovedna proza
+			sledi Levstikovim pravilom
+			Roman je 			
+		
+		Urednik slovenskega naroda
+		Mladostno obdobje:
+			Pripovedka o beli kači
+			Spomini na deda
+			Domen (povest):
+				Predavala Vittoria
+			Jurij Kozijak (zgodovinska povest):
+				Predavalia zala
+				Dobro zmaga
+				Črpal snov po Valvazorju in linhartu
+			Tihotapec 
+			dva prijatelja
+			spomini starega slovenca 
+			1866 - deseti brat, 
+				hči mesnega sodnika, 
+				kloštrki žolnir
+			1867 - kozlovska sodba na višnji gori:
+				Prepir na sodišču zaradi koze, ki je pojedla zelje sosedu
+		Skušal dobivati vire za zgodovinska dela, a jih ni bilo
+		
+		Domen:
+			Predstavila vittoria, lomi skatle njej
+		
+		so predstavljali se lenart in gabriel, ne znam niti kaj, hocem spat
+			
+	Fran Levstik:
+		Pomemben kritik, prvi kritik po Čopu
+		Kritiziral Koseskega
+		
+		Martin Krpan:
+			prva umetna pripovedka
+			se začuti vpliv Andersena
+			Napisal dve verziji, mi poznamo krajšo
+			povzet po ljudskem izročilu, še posebej boj med krpanom in brdavsem (pegam in lamberdar)
+			Ni več viteškega reda (Lambergar) --> ga nadomesti kmet Krpan:
+				Po letu 48, plemstvo propada (Marčna revolucija)
+				Slovenci so bili vedno na strani cesarja, a po letu 48 se počutijo izdane, ker jim ne da zaslužene zahvale
+			okvirna pripoved
+			Na koncu, ko premaga Brdavsa, cesarica mu osporava. Ga zatoži minister Gregor prekupčevanja soli. --> Tu se prikaže pozitivna plat cesarja in kritika ministrov
+			razvrednoti pomen plemiča
+			
+		Zlatorepec:
+			Kratka zgodba, iz katere izhaja Deseti brat
+			
+		Napakes slovenskega jezika:
+			Analiziral jezik takratnih slocenskih piscev
+			Pravil, da slovenci pišejo z nemško skladnjo
+			
+		Kritika Jurčičevega Desetega brata:
+			Napisal pismo Jurčiču, v katerem je kritiziral delo 10. brat.
+			
+	Simon Jenko:
+		Predaval Nikolaj
+	
+		Rojen 1835, nezakonski otrok, obiskoval gimnazijo v Novem mestu in ljubljani
+		Ga poznamo kot pesnika, eden izmed najboljsih
+		Domoljubne pesmi
+		Objavljal krajšo prozo, objavljal v Slovenskem glasniku.
+		Prvo delo je "Spomini" --> začetniško delo
+		Potem: Tilko, Jeprški učitelj
+		Izdal "Vaje" --> leposlovni list:
+			Bilo je 6 zvezkov (se niso ohranili)
+			Ti avtorji so pisali v knjižice in tako sodelovali in vadili
+			So pisali na nov način
+			
+			Sodelovali: Fran Rjavec, 
+		Postane znan in priljubljen, služil v odvetniških pisarnah
+		
+		Jeprški učitelj:
+			Vsi se mu posmehujejo, hoče dobiti srečo v loteriji
+			Zaradi loterije zgubi ves denar, na koncu umre.
+			Psihološki realizem, ni dovolj popolna, kot Tilka
+			
+		Tilka:
+			
+		Ta dela so podobne novelam, a ne še. Pravimo jim značčajevke
+		
+	Fran Rjavec:
+		1834, Ljubljana. Šel študirati naravoslovje na Dunaj, poučeval v Zagrebu in potem v Realki v Gorici. Umrl v Gorici, 1887.
+		Pisal naravoslovna dela
+		Prikazoval razvoj organizma v zgodbi --> pripovedno znanstveno besedilo
+		Ne išče ljudskega slovstva, ampak naravo in znanost.
+		Mu je bila priljubljena Gorica
+		Potopisni spisi --> krajpa besedila, priprava na potopisne romane:
+			Opisuje slovenske dežele v drugi polovici 19. stoletja
+			-Na kraški zemlji
+			-Ena noč na Kumu
+			-Med Savo in Dravo
+			
+		Satirični in humorni spisi, tudi poučni:
+			-Na stičevem domu
+			-??
+			-Kuzarji na Polici (1863):
+				Povest, kjer prikazuje vaško in graščinsko življenje
+				Se približuje Jurčičevemu pisanju
+			
+		
+		Mravlja 1857:
+			pass
+		
+		Žabe 1863:		
+			Opisoval, kako živijo žabe
+			
+		Domače in tuje živali v podobah:
+			pass
+			
+	Janez Mensclinger:
+		Šolan v Ljubljani, Dunaj, študira pravo	Odvetnik v Kranju, se vrne v Krško
+		Objavlja mladostne povesti, krajše zgodbe, piše o meščanskem življenju
+		Poučen način pisanja
+		Optimizem
+		
+		-Jerica 1859
+		-Vetrogrončič ??
+		-Gore mladost 1862
+		
+		1881 se vrne po 20 letni pavzi
+		Piše o meščanskem sloju, a tisti, ki niso še bogati in hočejo biti več
+		1893 - Abadon:
+			Podnaslov: Bajka za starce
+			Kritizira malo meščanstvo, ker hoče denar
+			Pravi, da ta materjalnost bo opvzročila poraz današnje družbe
+			Svari slovence, naj ne bodo materjalisti
+			Totalni pesimizem
+			
+		1897 - Moja hoja na Triglav:
+			Prvi potopisni roman
+			Opisuje, kako se vrača iz študijev in kako se pripravlja za vzpon na triglav
+			Ne pride do vrha
+			Opisuje pogovore o slovenstvu z ostalimi pisatelji
+			
+		
+	Ivan Tavčar:
+		Kea, Camilla, me :') [visoška kronika]
+		
+		
+	Josip Stritar
+	Simon Gregorčič
+	Anton Aškarc
 	
 	
-- 1899-1918 --> Moderna:
+-1899-1918 --> Moderna:
 	pass
 
 
-- 1918-1939 --> Čas med dvema vojnama: 
+-1918-1939 --> Čas med dvema vojnama: 
 	različne smeri se prepletajo: 
-		- socijalni realizem:
-			- Ciril Kosmač 		--> primorska:
+		-socijalni realizem:
+			-Ciril Kosmač 		--> primorska:
 				primorsko narečje, italijanske tujke, nekaj nemščine tudi
-			- Prežihov Voranc 	--> koroška:
+			-Prežihov Voranc 	--> koroška:
 				nemške tujke; napisal roman "Doberdob", ker se je tam bojeval [soška fronta]; ne govori specifično o doberdobu, a o krasu nasplošno. Piše o obrambi kraških jarkov zaradi vode (na krasu ni bilo dosti vode)
-			- Miško Kranjec 	--> prekmurje:
+			-Miško Kranjec 	--> prekmurje:
 				prekmursko narečje
 			[bonus]:
-				- France Bevk:
+				-France Bevk:
 					napisal "črni bratje" in "Kaplan Martin Čedermac"
-				- Srečko Kosovel:
+				-Srečko Kosovel:
 					pisal 3 smeri:
-						- konstruktivizem
-						- impresionizem
-						- ekspresijonizem --> tudi Ivan pregelj in Alojz gradnik [pesnik]
-				- Kaljuh --> pesnik, ki je upiralno pisal proti fašizmu, umrl zaradi tega
+						-konstruktivizem
+						-impresionizem
+						-ekspresijonizem --> tudi Ivan pregelj in Alojz gradnik [pesnik]
+				-Kaljuh --> pesnik, ki je upiralno pisal proti fašizmu, umrl zaradi tega
 		
 		
-- 1945-1953 --> graditeljska književnost:
+-1945-1953 --> graditeljska književnost:
 	nastane jugoslavija in s tem imajo slovenci pravico do jezika.
 	treba je narediti novo državo
 	"graditeljska" književnost je spodbujala k gradnji novih stavb 
@@ -197,24 +912,24 @@
 	književnost je zelo konkretna [ni čustev] --> naslednje obdobje bo vključilo čustva
 	
 	
-- 1935 --> pesmi štirih:
+-1935 --> pesmi štirih:
 	obdobje intimizma, spet iščejo čustva
-	- Ciril Zlobec
-	- Tone Pavček
-	- K. Kovič
-	- J. Rema[?????]
+	-Ciril Zlobec
+	-Tone Pavček
+	-K. Kovič
+	-J. Rema[?????]
 	
 	
-- 1958-1966 --> Temni modernizem / eksistencijalizem:
+-1958-1966 --> Temni modernizem / eksistencijalizem:
 	človek se sprašuje o svoji eksistenci in o bodočnosti
 	Zaradi izjemno hitrega razvoja so bili skoraj prestrašeni bodočnosti (podobno sedanji sitvacij s tehnologijo)
-	- Saša Vegri
-	- Dane Zajc
-	- Velo Taufer
-	- Gregor Staniša
+	-Saša Vegri
+	-Dane Zajc
+	-Velo Taufer
+	-Gregor Staniša
 
 
-- 1966-1972 --> POST MODERNIZEM:
+-1966-1972 --> POST MODERNIZEM:
 	Se pojavijo eksperimenti (z besedami) npr: izdajo prazno knjigo, črna pika na beli podlagi etc. (total bullshit)
 	Skupina "Oho", ki eksperimentirajo v Ljubljani --> črtajo pike, vejice, ena beseda na stran
 	Med temi je tudi Tomaž Šalamun (zdaj ne več eksperimentira)
@@ -222,7 +937,7 @@
 	Še sedaj ne zastopijo popolnoma, kaj je Kosvel hotel reči
 
 
-- 1972-SODOBNOST:
+-1972-SODOBNOST:
 	Miks vseh obdobij, ne prevlada nič posebnega
 	Vsi pišejo kar si želijo
 	

@@ -11,38 +11,98 @@ RENESANČNA FILOZOFIJA
 
 Nikolaj Kuzanski (1401 - 1464):
 	Najpomembnejši filozov iz srednjega veka v renesanso
-	trgovska družina, študiral pravo v Nemčiji, nato matematiko v Padovi --> pride v stik z neoplatonizmom,
-	nadaljuje s študijem filozofije. Poznal latinščino, grščino in hebrejščino, bil nadarjen za matematiko.
-	postal duhovnik, napisal delo "De concordantia catholica" --> zbirka razmišljanj o cerkvi, kjer razlaga 
-	združitev katoliške cerkve in drugih krščanskih ver. Papež Evgan IV ga poščlje v Kostantinopelj, za pomoč
-	pri spravi obeh krščanstvih cerkva (rimske in grške), ki sta bile ogrožene pred turki. Tam je dobil dosti 
-	grških pozabljenih rokopisov, ki jih je prinesel nazaj v Italijo. Spet v Konstantinoplu je spoznal 
-	strokovnjaka za platonovo filozofijo: Ivan Desarijon. Z njim ostane v kontaktu. Nato Ivan postane kardinal.
-	Ivan nato gre v italijo skupaj zz Nikolajem. 1453 --> turki zasedejo Konstantinopel, postane nova prestolnica Turkov.
-	V italijo zbeži dosti beguncev (mnogi od teh so bili znanstveniki z rokopisi) --> ti so širili znanost. 
-	Nikolaj je bil imenovan za škofa. Pokopali so ga v cerkvi sv.Petra v Rimu. Kasneje o njem je ostal samo 
-	spomenik. 
+	trgovska družina, študiral pravo v Nemčiji, nato matematiko v Padovi --> pride v stik z neoplatonizmom, nadaljuje s študijem filozofije. Poznal latinščino, grščino in hebrejščino, bil nadarjen za matematiko. postal duhovnik, napisal delo "De concordantia catholica" --> zbirka razmišljanj o cerkvi, kjer razlaga združitev katoliške cerkve in drugih krščanskih ver. Papež Evgan IV ga poščlje v Kostantinopelj, za pomoč pri spravi obeh krščanstvih cerkva (rimske in grške), ki sta bile ogrožene pred turki. Tam je dobil dosti grških pozabljenih rokopisov, ki je prinesel nazaj v Italijo. Spet v Konstantinoplu je spoznal strokovnjaka za platonovo filozofijo: Ivan Desarijon. Z njim ostane v kontaktu. Nato Ivan postane kardinal. Ivan nato gre v italijo skupaj zz Nikolajem. 1453 --> turki zasedejo Konstantinopel, postane nova prestolnica Turkov. V italijo zbeži dosti beguncev (mnogi od teh so bili znanstveniki z rokopisi) --> ti so širili znanost. 
+	Nikolaj je bil imenovan za škofa. Pokopali so ga v cerkvi sv.Petra v Rimu. Kasneje o njem je ostal samo spomenik. 
 	Postavljal je človeka v središče, zelo vplival na druge filozofe in umetnike.
 	Zgleduje se v glavnem po Platonu in po Sokratu --> delo "Učena nevednost" --> (vem, da nič ne vem [Sokrat])
-	ralikuje 2 tipa poznanja: 
+	- ralikuje 2 tipa poznanja: 
 		- to kar poznam --> pozano
 		- to, kar ne poznam --> nepoznano
-	-če poznano in nepoznano SE dotikata: do nepoznanega lahko pridemo preko poznanega	
-	-če poznano in nepoznano se NE dotikata: nepoznanega ne moremo spoznat (bog) --> nepoznano ne moremo spoznati
-	ko se zavedamo, da nekaj ne moremo spoznati, je to ignoranca/nevednost 
-	(npr. vem, da bog obstaja, a ne vem nič o njem in ne moremo ničesar spoznati o njem)
-	ignoranca ej ZAVEDANJE, da nečesa ne znamo (učena ignoranca)
-	To se dobi pri Sokratu, skolastiki in negativni teologiji --> lahko vemo kaj je bog, a ne kar ni bog. Preučeval je pitagorejce in njihovo matematiko. Mislil je, da se ne more nikoli razumeti neskončnega spoznanja, tudi če se lahko neskončno približamo temu (pravilni mnogokotnik ne bo nikoli en krog, ne glede na število ogljišč).
+		-------------------------------------------
+		-če poznano in nepoznano SE dotikata: do nepoznanega lahko pridemo preko poznanega	
+		-če poznano in nepoznano se NE dotikata: nepoznanega ne moremo spoznat (bog) --> nepoznano ne moremo spoznati
+		ko se zavedamo, da nekaj ne moremo spoznati, je to ignoranca/nevednost 
+		(npr. vem, da bog obstaja, a ne vem nič o njem in ne moremo ničesar spoznati o njem)
+		ignoranca ej ZAVEDANJE, da nečesa ne znamo (učena ignoranca)
+		To se dobi pri Sokratu, skolastiki in negativni teologiji --> lahko vemo kaj je bog, a ne kar ni bog. Preučeval je pitagorejce in njihovo matematiko. Mislil je, da se ne more nikoli razumeti neskončnega spoznanja, tudi če se lahko neskončno približamo temu (pravilni mnogokotnik ne bo nikoli en krog, ne glede na število ogljišč).
 	
-	Coincidentia opositorum:
+	- Coincidentia opositorum:
 		Podobno Anaksimandru, je mislil, da se v bogu nasprotja sovpadajo (belo je sovpada z ne-belim) --> vse stvari so na nek način povezane. To povezavo mi ne moremo videti. Vse stvari so eno. Ta nauk nasprotuje Aristotlu, ki pravi, da se nasprotja ne sovpadajo (določil je logiko stavkov)
 		To demonstrira s krožnico, ki se spremeni v premico, ko ima neskončen polmer.
 		
-	Komplikacija:
+	- Komplikacija:
 		Bog je to, v katerem so vse stvari; vse stvari so ena enota. Komplikacija je bog, vse stvari so v eni enoti, v bogu.
 		
-	Eksplikacija:
+	- Eksplikacija:
 		Bog je v vseh stvareh, predmetih in osebah
 
-	Koncept vesolja:
-		Vesolje je brezkrajno (neskončno). Zaradi esplikacije, bog je povsod; ker povsod je neskončno, bog je neskončen. To razmišljanje je postajalo nevarno, saj s tem, ni več upošteval geocentrizma (boga ni samo na zemlji, ne moremo določiti sredine neskončnosti). Filozofsko se oddaljuje od aristotelsko-teolomejskega sistema (zemlja je mirna v središču vesolja, vse se vrti okrog zemlje) --> to so trdili tudi pri veri, a so dodali, da bog je to ustvaril. 
+	- Koncept vesolja:
+		Vesolje je brezkrajno (neskončno). Zaradi esplikacije, bog je povsod; ker povsod je neskončno, bog je neskončen. To razmišljanje je postajalo nevarno, saj s tem, ni več upošteval geocentrizma (boga ni samo na zemlji, ne moremo določiti sredine neskončnosti). Filozofsko se oddaljuje od aristotelsko-teolomejskega sistema (	zemlja je mirna v središču vesolja, vse se vrti okrog zemlje) --> to so trdili tudi pri veri, a so dodali, da bog je to ustvaril. 
+		
+		
+Marsilio Ficino:
+	Rojen v Toskani, oče zdravnik (bil zdravnik Cosima de Medici); rojen v stimolantnem okolju. Cosimo de MEdici je opazil, da je bil brihten in ga je izobraževal retorike, medicine, latinščine, grščine, nekaj fizike (metafizika). Postal je pomemben, ker ga je Cosimo prosil, naj prevede Platonove tekste. Dal mu je na razpolako vilo v Firencah, kjer je to delal. V tej hiši je nastala "platonova akademija". Imela je namen, da bi potekala srečanja o grški filozofiji (predvsem platonovi). Tako se je širil neoplatonizem. Srečanj se udeležijo pomembni umetniki in intelektualci (npr.: Boticelli, Pico de la Mirandola, Cristoforo Landino, itd.). Prihajali so seveda tudi člani družine de Medici. Njpomembnejši koncept te šole je bila hijerarhična struktura bivajočega (izhaja iz platonove filozofije). 
+	Platon je delil telesni svet in inteligibilen (nematerjalni, svet idej) svet. Svet idej je hierarhično višji/pomembnejši od materjalnega. Ficino pravi, da imamo svet idej, dušo in čutni svet. Delil je to hierarhijo na pet stopenj:
+		- svet idej (inteligibilen svet) --> bog, 
+		- angelski svet
+		- človeška duša
+		- svet kvalitete in forme
+		- materjalni svet
+	Torej doda človeško dušo. In vse vmesne povezave. Duša je vmesna stopnja stvari. Lahko doseže bodisi materjalni kot nematerjalni svet. Duša je nesmrtna. Ker duša je na sredi, je copula mundi  (center/sponka sveta) --> povezuje materjalni in nematerjalni svet. V duši sovpadajo nasprotja, ker se vse združi.
+	
+	tematika ljubezni:
+		Ljubezen je moč, ki vodi dušo, preko katere se lahko človek približa bogu.
+		
+	tematika estetike:
+		Pravi, da lepota je v angelskem svetu. Med predavanji, Boticelli od teh navkov nariše rojstvo venere --> estetika lepote in ljubezni. 
+	
+	Astrologija:
+		Delo "De vita" opisuje vplive vesoljskih teles na človeka in Zemljo. 
+		Mislil je, da magija in astrologija sta uporabni tehniki, preko katerih se lahko razume skrivnostne logike vesolja.
+		
+		
+PICO DELLA MIRANDOLA:
+	izhajal iz premožne Toskanske družine, študiral na univerzi v Bologni, Padovi in Ferrari, nadarjen za matematiko. Poznal je tudi latinščino, grščino, hebrejščino, francoščino. Obiskoval je Ficinovo akademijo v Firencah (kjer se je širil platonizem). 
+	Leta 1486 je pripravljal veliko srečanje filozofov. Pripravil je to srečanje, da bi prišli do neke verske sprave. Povabil je torej jude, calviniste, pripadnike vzhodne cerkve, ... Hotel je združiti te vere, filozofijo in magijo. Pripravil je 900 tez. Papež ga je obtožil krivoverstva zaradi tega. MOral je zbežati v francijo še preden se bi sestanek začel. Kasneje se je vril v Italijo pod krilom Mediceicev.
+
+	Oratio de hominis dignitate (discorso sulla dignita dell uomo):
+		Teza, v kateri razmišlja o ideji, v kateri je človek v centru. Bog je ustvaril use živa bitja in vsaki vrsti je dodelil kvalitete. (zvita lisica, krohka ovca, ecc.). Samo človek ima lahko vse te dobre lastnosti, in to zaradi duše (copula mondi)
+		človek je močnejši od angelov, saj lahko dostopa bodisi telesni svet kot inteligibilni svet preko duše.
+		
+PIETRO POMPONAZZI:
+	Renesančni filozof
+	Rodil v Mantovi 1462. Obiskoval univerzo v Padovi, kjer se uči matematike, metafizike in filozofije. Priden študent. 
+	Predlaga aristotelski pristop --> cosmos/vesolje ima neki racijonalni red --> Bog je ustvaril svet, a svet ima avtonomne zakone in neki red. Vsak pojav je del tega reda in ima neki vzrok. Ta vzrok ni Bog. Bog nima vpliva na zemljo in materialni svet.
+	Za njega so čudeži nepogosti pojavi, za katere se še ne pozna vzroka. --> Bog se ne vtika z zemeljskimi zadevami
+	Za vsak pojav lahko dobimo racijonalno razlago. 
+	Trdi tudi, da v naravi je vse povezano med seboj. 
+	Človek mora spoznavati naravo preko racijonalnega pristopa, ne preko vere ali magije. 
+	
+	Zaradi teh misli, se oddali od direktnega stika z bogom in s tem pomaga pri oddaljitvi boga od znanosti.
+	
+	Zvezde in vesoljska telesa vplivajo na svet in človeka. V antični literaturi dobimo nekatere nenaravne stvari (minotaver ecc.) --> to razlaga s tem, da je bil nekdo omamljen ali si je izmišljal stvari.
+	Človekovo vsodo ne moremo spremeniti. Na to vsodo močno vplivajo zvezde in vesolje.
+	
+	NAJBOLJ ZNANO DELO: Traktat o nesmrtnostni duše:
+		V tistem obdobju je vzbudilo polemike: trdil je, da duša je smrtna.
+		Po aristotlu, duša ima 3 dele:
+			- Vegetativna duša:
+				Omogoča, da rastline/živali/ljudje se hranijo in reproducirajo.
+			- Čutna duša:
+				Omogoča živalim in ljudem, da imajo čutne zaznave.
+			- Intelektna duša:
+				Omogoča, da ljudje razmišljajo. Samo s tretjem delu duše, lahko človek sodi, razume, si razlaga čutne zaznave.
+		Prvi dve duši umrejo s telesom. Medtem ko tretja duša preživi, ker ni vezana na telo, ampak je skupen za vse.
+		
+BERNARDINO TELESIO:
+	Rojen v Kuzenci, Kalabrija v aristokratski družini. Zaradi tega se gre učiti filozofijo in medicino v Padovo. Preživel tudi zaradi bogate družine v Noceri (meceni). pri njih je preživel dosti časa. Pri njih napiše najpomembnejše delo: 
+		De rerum nature iusta proprie principio (Narava po principih):
+			Telesio je naturalist, trdi, da narava ima principe, zakone in naravo se lahko preučuje brez pomoči metafizike. (naravo uravnavajo zakoni) Bog samo garantira, da obstajajo zakoni te narave. Poudarja pomembnost opazovanja narave preko lastnih čutil.
+			
+	Tako mišljenje (zgornji odstavek) odpira pot za naslednje mislece, ki so naredili znanstveno revolucijo.
+	SENSIZEM --> prepoznavanje preko lastnih čutov in ne preko razuma. --> empirično
+	Morala je osnovana na naturalističnih principih: 
+		dobro: to, kar vzbuja prijetnost
+		slabo: to, kar vzbuja neprijetnost/bolečino
+	Panpsihizem --> vse stvari imajo čutenje
+	Misli, da fizični svet je narejen iz toplega in mrzlega (povzel od Anaksimandra)
