@@ -1,0 +1,82 @@
+ANGLEŠKO KRALJESTVO 
+
+House of lords/common:
+	parlament
+	House of lords: 
+		Visoko plemstvo
+	House of common:
+		predstavniki nižjega plemstva in predstavniki mest
+		
+	parlament je sklican samo s strani kralja --> samo on da dovoljenje.
+	menijo se za davke, zakone in vojsko 
+	nastanejo kraljevski pomočniki --> kancler, zakladnik, ...
+	to je tudi državno sodišče, kjer se izvaja latinsko pravo
+	
+	civil law --> ureja kralj, common law --> tradicijonalni/ljudski zakoni
+	
+
+Tukaj vlada "Henrik VII. Tudor":
+	Izboljša trgovsko mornarico. Investira dosti v mornarico nasplošno, ker noče biti izključen iz velikih odkritij. 
+	
+V anglji je bila takrat velika gospodarska rast. okoli leta 1500 je spet isto prebivalstvo kot pred kugo (1300). Ljudje zdaj večinoma pašejo ovce namesto biti poljedelci. --> anglja postane med največimi proizvajalci volne. Ti pašniki so bili na zemlji, ki je prej rabila za poljedelstvo. Zaradi tega, ko je populacija spet narasla, ni bilo dovolj hrane. Latifundisti so bili ljudje, ki so imeli pašnike --> obogatijo s tem in postanejo nov sloj bogatašev. 
+1509:
+	Henrik VIII. pride na oblast (18 let) namesto očeta. Najprej ima težave s škotskim kraljestvom. 
+	Henrik VIII. je hotel, da latifundisti in plemiči postajajo državni uradniki, saj so si lahko privoščili izobražbo. 
+	Leta 1541 postane tudi Irski kralj. 
+	6-krat poročil, samo 2-3 preživijo. Ostale "izginejo" ali so obglavljene.
+		1.žena: Katerina Aragonska:
+			Teta Karla V.; imata le eno hčerko Marijo. Zaradi tega je od papeža zahteval ločitev (hotel je moškega dediča). Papež (klemen VII.)pa tega ni hotel, ker je žena bila teta Karla V., zato Henrik V. ni več priznaval papeža (1529) in se ločil --> anglikanstvo.
+			V zakonodajo vpiše, da papež nima vpliva na angleškem ozemlju. Znotraj angleške države velja le angleški zakonik --> se ni upoštevale cerkvenega prava.
+			1534 Act of supremacy --> nacijonalizacija cerkvenih posestvi. To je pomenilo, da cerkev nima več ozemlja na engleških tleh.
+			Na teološki ravni je to še vedno katoliška vera, a ne priznavajo več papeža, temveč kralja. Ukine tudi vse meniške redove in proda njihova imetja.
+			Vsa ta posestva kupijo latifundisti(Gentry in Yeomen), ki imajo velike pašnike in s tem se še več razširijo in obogatijo. 
+			Katerine ne ubijejo, ker je preveč influenčna
+		2.žena: Anna Boleyn:
+			Rodi se jim Elizabeta (še ena punca) --> kralj je jezen, anonimno prijavijo, da vara kralja --> glava ji pade (accidentaccio)
+		3.žena: Jane Seymour:
+			Dobi moškega sine Edvarda (1537). 10 let kasneje Henrik VIII umre in Edvard postane kralj, a vlada Edvard VI., njegov dedek, saj Edvard je imel 10 let
+			
+		V tem obdobju se anglikanska cerkev reformira po protestantski cerkvi. 
+
+1549:
+	Common book of prayer:
+		Knjiga molitev v angleškem jeziku, se pojavijo protestantski elementi. 
+		
+1553:
+	Edvard VI. umre brez potomcev (15 letni). Mu nasledi sestra Maria I. Tudor. 
+	
+Ona ponovno uveljavi katoličanstvo in poroči Filipa II., sina Karla V. 
+Filip II. je španski katolicissimus, zato podpre katoličanstvo v anglji in začnejo preganjati protestante
+Marija Tudor dobi vzdevek "Bloody Mary" zaradi pregona protstantov (zgubili so glave).
+Tudi Marija umre, in sestra Elizabeta I. pride na oblast. Ponovno uvede protestantsko vero.
+Postane protestantska kraljica, sprejme protestantizem, saj iz oči katoliške vere je ona nelegitimni otro, ker je njena mati druga žena.
+Marija Stuart, škotska kraljica, je bila sorodnik Henrika VIII. Zaradi tega je imela isto pravico do krone kot Elizabeta I.
+Marija je katoličanka, žena Franca II., torej jo podpirajo tudi Francozi. Se spre z Elizabeto I. za prestol.
+
+1559:
+	act of supremacy (še eden):
+		Vsi tisti, ki dobijo versko funkcijo morajo priseči zvestobo kralju.
+		To je pomenilo, da na vrhu cerkvene hierarhije je kralj.
+		S tem tudi zamenja vse nezveste cerkvene predstavnike etc.
+		
+se poostrijo težave s katolki, ki se povežejo s škotsko (Marijo Stuart). Spori se začnejo in katoličani izobčijo Elizabeto --> ni pomenilo nič.
+spor se zaključi leta 1587 s tem, da je Marija zgubila glavo.
+
+1588:
+	Invencible armada:
+		Filip II. je še vedno jezen na Angleže. V tem času je tudi dobil Burgundijo, torej vlada tudi Španiji in Italiji. 
+		Vzame floto iz italije in španije (dobri pomorščaki) in je hotel vzeti vojsko iz španje in jo peljati v Anglijo čez rokavski zaliv.
+		Pripravi vojsko (25000 ljudi)v Burgundiji ampak ko štartajo iz južne Španje pride do neviht, se ne uspejo ustaviti v Burgundiji. Morajo celo meči vn topove, ker so pretežki.
+		Zaradi nevihte se morajo obrniti na sever, se ne morejo obrniti nazaj zaradi tokov, angleška flota začne napadati in uničijo celo floto. 
+		Rabili so eksplozivne ladje (game of thrones style). Premagali so floto, vojska pa je ostala v Belgiji.
+		
+Francis Drake, Walter Raleigh:
+	Dva mornarja, Drake je premagal špansko floto in tudi Walter je pripomogel. 1584 Walter je ustanovil kolonijo v Virginiji posvečeno kralici.
+	1600 nastane "British East Indian Company". Skrbela, da so ladje pravilno trgovale, lovili pirate etc. 
+
+1603 --> Elizabeta umre brez naslednjikov --> Naslednji kralj je Jakob Stuart, sin on Marije Stuart (obglavljena od Elizabete) --> unija anglije in škotske.
+Jakob I. Stuart postane kralj, podpira anglikanstvo (prezbiterjanstvo) --> različica kalvinizma, ki nima nobene institucije, temveč samo skupinice.
+
+5/11/1605: Gunpowder Plot:
+	Organiziral Guy Fawkes; katoličani so hoteli raztreliti House of lords med zasedanjem, a jim ne uspe. (so hoteli katoliškega kralja)
+
