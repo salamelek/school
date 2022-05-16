@@ -167,3 +167,72 @@ BENETKE:
 				Urbinska venera:
 					ženski akt, kritika ga je poimenovala venera
 					vse ženske tiziana so podobne
+
+		Tintoretto:
+		    dosti bolj dramatičen od Tiziana
+		    velika življenska moč, a temačni prizori --> gotično
+
+		    Dela:
+		        Scuola grande di San Rocco (olje na platnu, 1587):
+		            Bila sedež bratovščine --> sveti rok je bil zavetnik pred kugo (ni naredil dobrega dela xd)
+		            Imela je 2 dvorani:
+		                Sala di terra:
+		                    Zgodbe življenja marije
+		                Sala superiore:
+		                    Nova zaveza
+		            imeli so tudi "Sala dell' akbergo" (torej alla fine so imeli 2 dvorani):
+		                Prikazano je bil Kristusov pasijon in alegorije
+
+		            Dvorani sta bili povezani z mogočnim stopniščem
+		            Vse stenske poslikave so dela Tintoretta
+		            Velike dimenzije, dosti figur, dosti zlatega
+
+		        Nebesa (Olje na tabli, palazzo ducale, 1592):
+                    Na začetku so hoteli marijo na sredini, a je preuredil, da je tam tudi Jezus
+                    Okoli sredinskih figur krožijo svetniki, angeli in ustvarjajo dinamično sliko
+                    je ogromno, 22x7m
+                    Zelo temačno
+
+        Paolo Veronese:
+            Dosti boolj umirjen
+            ni temačno, saturato
+            značilne množice figur v elegantnih prostorih
+
+            Dela:
+                Gostija v Levijevi hiši (1573 - olje na platnu):
+                    Tudi to delo ogromno, 5.5x12m
+                    Jezus postavljen v moderne čase benetk
+                    Zelo plastično
+                    antična arhitektura v ozadju
+
+        Jacopo Sansovino:
+            ozobražen v firencah in v rimu
+            Arhitekt
+
+            Dela:
+                Biblioteca Marciana(1588):
+                    Zelo pomembna stavba, ker je polno grških originalov
+                    Nastala med urbanistično prenovo Benetk
+                    dva stebra držijo lok, ki drži arhitrav
+                    Na vrhu kipi, ki so bili alegorije
+
+        Andrea Palladio (1508-1580):
+            Najpomembnejši arhitekt v sevrni italiji (in naspološno v evropi) tistega časa
+            Centralni del vil je bil povzdignjen
+
+            Dela:
+                Villa Badoer ():
+                    podeželska vila
+                    beneški plemiči so si delali vile na velikih beneških ozemlji
+                    Ob strani so imeli podolgovate stavbe - Barchesse:
+                        Rabile za orodje, ki je rabilo za pridelovati zemljo in delat druge robe
+
+                Villa Capra (la rotonda):
+                    4 enake fasade
+                    središčna kupola
+                    Nima barchesse
+
+                Teatro olimpico:
+                    V vicenzi
+                    Je kot en amfiteater na odprtem, ampak na zaprtem
+                    stene ki bi morale biti odprte so naslikane kot da bi blo na odpprtem (nebo, stavbe v daljavi)
