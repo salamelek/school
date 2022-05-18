@@ -19,11 +19,11 @@ Nikolaj Kuzanski (1401 - 1464):
 		- to kar poznam --> pozano
 		- to, kar ne poznam --> nepoznano
 		-------------------------------------------
-		-če poznano in nepoznano SE dotikata: do nepoznanega lahko pridemo preko poznanega	
-		-če poznano in nepoznano se NE dotikata: nepoznanega ne moremo spoznat (bog) --> nepoznano ne moremo spoznati
+		- če poznano in nepoznano SE dotikata: do nepoznanega lahko pridemo preko poznanega
+		- če poznano in nepoznano se NE dotikata: nepoznanega ne moremo spoznat (bog) --> nepoznano ne moremo spoznati
 		ko se zavedamo, da nekaj ne moremo spoznati, je to ignoranca/nevednost 
 		(npr. vem, da bog obstaja, a ne vem nič o njem in ne moremo ničesar spoznati o njem)
-		ignoranca ej ZAVEDANJE, da nečesa ne znamo (učena ignoranca)
+		ignoranca je ZAVEDANJE, da nečesa ne znamo (učena ignoranca)
 		To se dobi pri Sokratu, skolastiki in negativni teologiji --> lahko vemo kaj je bog, a ne kar ni bog. Preučeval je pitagorejce in njihovo matematiko. Mislil je, da se ne more nikoli razumeti neskončnega spoznanja, tudi če se lahko neskončno približamo temu (pravilni mnogokotnik ne bo nikoli en krog, ne glede na število ogljišč).
 	
 	- Coincidentia opositorum:

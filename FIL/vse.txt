@@ -1,0 +1,142 @@
+RENESANSA:
+    Tematike:
+        zanimanje za antiko
+        človek v središču
+        znanost in religija sta ločena
+        individualizem (človek si naredi lastno usodo)
+        osredotočenje na človeško dušo
+        smisel človeka
+
+    Kuzanski:
+        2 tipa poznanja (ne/poznano)
+        nepoznano lahko spoznamo samo če se no/poznano dotikata
+        Učena ignoranca je zavedanje, da nečesa ne moremo spoznati (npr. boga)
+        coincidenza opositorum (nasprotja sovpadajo)
+        komplikacija/eksplikacija (vse stvari sestavljajo boga/bog je v vseh stvareh)
+        neskončno vesolje
+    Ficino:
+        delil hierarhično svet na 5 stopenj (bog, angeli, duša, kvaliteta/forma, materjalnost)
+        Človek se približa bogu z ljubeznijo
+        estetiko dobimo v angelskem svetu
+    Mirandola:
+        oratio de hominis dignitate:
+            vsaka žival ima kvalitete, človek zaradi duše jih ima vse
+            duša je copula mundi
+            človek > angeli (duša ga povezuje z vsemi 5 svetovi)
+    Pomponazzi:
+        Bog je vstvaril svet, a svet deluje avtonomno po zakonih
+        človeške vsode ne moremo spremeniti
+        traktat o nesmrtnosti duše:
+            vegetativna, čutna, intelektna duša (edina večna)
+    Telesio:
+        Delo "narava po principih" --> potrdi pomponazzija (narava ima principe/pravila, kateri sledi)
+        Odpira pot za znanstveno revolucijo
+        sensizem: spoznavanje preko čutov in ne razuma
+        Morala: dobro = prijetnost; slabo = neprijetnost
+    Bruno:
+        vesolje, ne kristus, matematik, ni geocentrizma, dosti svetov, nismo v sredini in niti edini
+        nemotehnika
+ZNANSTVENA REVOLUCIJA:
+    Kopernik:
+        podpiral heliocentrizem, a poazljivo zaradi inkvizicije
+        De revolutionius orbium celestium
+    Brahe:
+        Ni sfer, ampak so orbite
+        luna se vrti okoli zemlje in zemlja okoli sonca
+    Ketler:
+        3 zakoni:
+            eliptične orbite
+            hitrost je odvisna od razdalje od sonca
+            hitrost planeta je odvisna od lege
+            rabil še vedno fil. izraze, npr sonce = gospodar neba
+    Galilei:
+        Proti finalizmu
+        izkušnje so bistvene za znanost
+        sveto pismo je zastarelo
+        Znanost = Izkustvo, hipoteza, eksperimentacija, formulacija, kontrole
+        izumil teleskop in videl nove zvezde/planete
+    Bacon:
+        Metoda za pridobivanje znanja:
+            sistematsko opazovanje, hipoteze, eksperiment, principi, teh.aplikacija
+            (podobno kot galilei)
+            induktivna metoda
+        Nova Atlantida:
+            idealna družba, utopija
+            tehnološko napredno
+    Newton:
+        področje barv (prizma, črna soba)
+        vsaka akcija ima reakcijo
+        teorije lahko zavržemo le z dokaznim eksperimentom
+        gravitacija
+        čas in prostor sta absolutna in matematična
+
+POLITIČNA:
+    Machiavelli:
+        Il fine giustifica i mezzi
+        delo "vladar"
+        karkoli je v redu, dokler je to za državo
+        realističen pogled na politiko, ni utopije
+    More:
+        Utopia:
+            idealna država na otoku
+            kritizira anglijo v 13. stol.
+            kritizira: socijalno neenakost, kriza iz fevdalizma v meščanstvo, nasilni fevdalci
+            spodbuja: centralno oblast, toleranco do vere, diplomacijo
+    Campanella:
+        delo "država sonca":
+            javna lastnina, republika, ljubezen in znanje
+
+RACIJONALIZEM:
+    Descartes:
+        metoda spoznavanja:
+            matematični pristop, deduktivna metoda
+            1) delimo problem na majhne dele
+            2) rešimo posebej vsak delček
+            3) matematično preverimo
+        Ideje so urojene od boga
+        dokazuje da bog obstaja
+        dvomil o vsem, dvomiti da obstajamo
+    Spinoza:
+        delo "etika":
+            opisuje substanco --> vse, kar obstaja
+            poznamo le 2 atributa: mišljenja in rezsežnosti
+            dualizem duha in telesa; se ne stikata
+            kritizira finalizem
+            dokazi obstoja boga
+            primarna in sekundarna čustva (do samega sebe, do ostalih)
+            demokrat, družbena pogodba
+            podpira tehnološki napredek
+    Leibniz:
+        teorija monad
+        monade so duhovni atomi, ki sestavljajo vse
+        vse je v harmoniji
+        človek vedno išče razlog nečesa in mehanizme delovnaja
+
+EMPIRIZEM:
+    Hobbes:
+        ang, materialist, ker spoznanje se začne pri snovi
+        metoda spoznavanja:
+            enostavne pojme spoznamo induktivno
+            komplicirane deduktivno (etika, politika)
+        etika:
+            slabo = bolečina
+            dobro = užitek
+        homo homini lupus
+        družbena pogodba za mir
+        podpira absollutizem, vladar je ključen za mir
+        delo "leviethan":
+            absolutizem
+            ne nasilje
+    Locke:
+        Oče empirizma
+        delo "esej o človekovem razumu"
+        kritizira kognitivni inatizem (otroci, različni bogovi)
+        rabula rasa
+        kritizira racijonalizem (je empirist)
+    Hume:
+        pisal eseje o politiki in morali
+        "Traktat o človeški naravi"
+        iz zaznav se razvijejo ideje
+        zavrača spoz. metodo Galileja
+        povdarja čustva, empatijo
+        osnuje politiko na konvekcijah

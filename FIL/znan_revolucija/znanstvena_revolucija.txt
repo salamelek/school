@@ -25,7 +25,7 @@ Kopernik:
 	Se začne oddaljevati od geocentričnega pogleda. Zavedal se je, da heliocentrizem je dosti bolj revolucijonaren in heretičen.
 	Napisal je tekst, ampak ga ni izdal, ker se je bal inkvizicije
 	Njegov priijatelj Reticus ga je uspel prepričati, naj on napiše uvod tega dela.
-	ta uvod trdi, dakopernikova hipoteza nimanobne zveze z resnično sesavo vesolja, ampak je le ena od matematičnih metod za spoznavanje vesolja.
+	ta uvod trdi, da kopernikova hipoteza nima nobne zveze z resnično sestavo vesolja, ampak je le ena od matematičnih metod za spoznavanje vesolja.
 	
 	De revolutionius orbium celestium:
 		1543, delo kjer je prvič opisan heliocentrizem. 
@@ -70,7 +70,7 @@ Galileo Galilei:
 		Ko um in sveto pismo sta v nasprotju, se moramo nanesti na um, ker um nam pokaže pravo sliko, ki je naredil bog
 		Sveto pismo je bilo narejeno za stare ljudi, je outdated
 		
-	Rabil je metodo opazovanja je postavil 
+	Rabil je metodo opazovanja
 	
 	znanost za Galilea je:
 		-Izkustvo iz primera
@@ -84,7 +84,7 @@ Galileo Galilei:
 		Ta stvar se imenuje Galilejeva paranigma
 		Še danes ta eksperimentalna metoda drži. 
 		Ta metoda je osnovana na kvantifikaciji podatkov, vzpostavljanju previrjanj in formulaciji zakonov. --> vse izraža preko matematike
-		Uporablja deduktivno (Od univerzalnosti k posebnosti (celota --> dektail)) metodo in induktivno metodo (od posebnosti dobimo univerzalnost (dektail --> celota))
+		Uporablja deduktivno (Od univerzalnosti k posebnosti (celota --> dektail) metodo in induktivno metodo (od posebnosti dobimo univerzalnost (dektail --> celota))
 		"Narava je kot odprt knjiga; se jo moramo navčiti brati in zapisana je v jeziku matematike."
 		
 	Podpira kopernikove ideje
