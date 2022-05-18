@@ -14,12 +14,12 @@ public class Deklica {
         this.imaSvincnik = false;
     }
 
-    public Deklica(String ime, String priimek, int starost, boolean jeVesela) {
+    public Deklica(String ime, String priimek, int starost, boolean jeVesela, boolean imaSvincnik) {
         this.ime = ime;
         this.priimek = priimek;
         this.starost = starost;
         this.jeVesela = jeVesela;
-        this.imaSvincnik = true;
+        this.imaSvincnik = imaSvincnik;
     }
 
     public String getIme() {

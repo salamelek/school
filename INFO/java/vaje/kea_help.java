@@ -2,16 +2,17 @@ import java.util.Scanner;
 
 public class kea_help {
     public static void main(String[] args) {
-        Scanner mojScanner = new Scanner(System.in);
-        int[] mojepolje = new int[3];
+        Scanner myScanner = new Scanner(System.in);
+        String[][][] mojePoljeImen = new String[2][3][2];
+        // {{a, b}{a, b}{a, b}}
 
-        for (int i = 0; i < mojepolje.length; i++) {
-            System.out.print("Vnsesi " + (i + 1) + ". številko: ");
-            mojepolje[i] = mojScanner.nextInt();
-        }
-
-        for (int j : mojepolje) {
-            System.out.println(j);
+        for (int i = 0; i < mojePoljeImen.length; i++) {
+            for (int j = 0; j < mojePoljeImen[i].length; j++) {
+                for (int h = 0; h < mojePoljeImen[i][j].length; h++) {
+                    System.out.println("vnesi vrednost: ");
+                    mojePoljeImen[i][j][h] = myScanner.next();
+                }
+            }
         }
     }
 }
