@@ -51,4 +51,47 @@ public class Vozilo_vaja {
         motor = builder.motor;
         pot = builder.pot;
     }
+
+    public void napolniRezervoar(float kolicina) {
+        float novaKolicina = this.gorivo + kolicina;
+        if (novaKolicina <= this.MAXLIT) {
+            this.gorivo = novaKolicina;
+        } else {
+            System.out.println("Taka količina goriva je prevelika za rezervoar vozila.");
+        }
+    }
+
+    public void prizgiMotor() {
+        if (!this.motor) {
+            this.motor = true;
+        } else {
+            System.out.println("Motor je že prižgan!");
+        }
+    }
+
+    public void vgasniMotor() {
+        if (this.motor) {
+            this.motor = false;
+        } else {
+            System.out.println("Motor je že vgasnjen");
+        }
+    }
+
+    public void obrniKrmilo(double novoKrmilo) {
+        this.krmilo = novoKrmilo;
+    }
+
+    public void stanjeRezervoar() {
+        System.out.println("v rezervoarju je " + this.gorivo + " litrov goriva");
+    }
+
+    public void prevozi(double prevoziPot) {
+        float potrebovanoGorivo = (float) (prevoziPot * (this.PORABA / 100));
+        if (this.gorivo >= potrebovanoGorivo) {
+            this.pot += prevoziPot;
+            this.gorivo -= potrebovanoGorivo;
+        } else {
+            System.out.println("Ni dovolj goriva, da bi prevozili toliko poti.");
+        }
+    }
 }

@@ -1,6 +1,6 @@
-public class Cesta {
+public class TestVozilo {
     public static void main(String[] args) {
-        Vozilo_vaja vozilo1 = new Vozilo_vaja.Builder().build();
+        Vozilo vozilo1 = new Vozilo(0);
 
         vozilo1.prizgiMotor();
         vozilo1.prevozi(1);
@@ -8,8 +8,6 @@ public class Cesta {
         vozilo1.obrniKrmilo(0);
         vozilo1.prevozi(12);
         vozilo1.vgasniMotor();
-        vozilo1.stanjeRezervoar();
-        vozilo1.prevozi(88);
         vozilo1.stanjeRezervoar();
     }
 }
