@@ -69,16 +69,16 @@ public class Vozilo_vaja {
         }
     }
 
-    public void vgasniMotor() {
+    public void ugasniMotor() {
         if (this.motor) {
             this.motor = false;
         } else {
-            System.out.println("Motor je že vgasnjen");
+            System.out.println("Motor je že ugasnjen");
         }
     }
 
     public void obrniKrmilo(double novoKrmilo) {
-        this.krmilo = novoKrmilo;
+        this.krmilo += novoKrmilo;
     }
 
     public void stanjeRezervoar() {
@@ -86,7 +86,7 @@ public class Vozilo_vaja {
     }
 
     public void prevozi(double prevoziPot) {
-        float potrebovanoGorivo = (float) (prevoziPot * (this.PORABA / 100));
+        float potrebovanoGorivo = (float) (prevoziPot * (this.PORABA / 10000));
         if (this.gorivo >= potrebovanoGorivo) {
             this.pot += prevoziPot;
             this.gorivo -= potrebovanoGorivo;

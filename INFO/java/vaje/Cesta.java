@@ -7,7 +7,7 @@ public class Cesta {
         vozilo1.obrniKrmilo(30);
         vozilo1.obrniKrmilo(0);
         vozilo1.prevozi(12);
-        vozilo1.vgasniMotor();
+        vozilo1.ugasniMotor();
         vozilo1.stanjeRezervoar();
         vozilo1.prevozi(88);
         vozilo1.stanjeRezervoar();
