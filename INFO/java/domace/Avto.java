@@ -167,12 +167,11 @@ public class Avto {
     }
 
     public void zapriVsaVrata() {
-        this.spLevaVrata = false;
-        this.spDesnaVrata = false;
-        this.zaLevaVrata = false;
-        this.zaDesnaVrata = false;
-        this.prtljaznik = false;
-        System.out.println("Vsa vrata so zdaj zaprta.");
+        zapriSpLevaVrata();
+        zapriSpDesnaVrata();
+        zapriZaLevaVrata();
+        zapriZaDesnaVrata();
+        zapriPrtljaznik();
     }
 
     public boolean aliSoVrataZaprta() {
