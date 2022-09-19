@@ -1,0 +1,55 @@
+[obdobje razsvetljenstva]
+
+3 tematike:
+    1) kako spoznavamo?
+    2) kakšen je etičen/moralen človek?
+    3) politična filozofija
+
+1) Kako spoznavamo:
+
+    Racionalizem --> spoznavamo z razumom (imamo intuicijo, preko te spoznavamo)
+    Empirizem --> spoznavamo s čutili (tabula rasa)
+
+    Kant je kritiziral oba zgornja tokova (Decartes, spinoza, locke. hume, hobbes, ...)
+    Menil je, da njihove teorije niso dovolj poglobljene. Vprašanje pa je vedno ostajalo "kako spoznavamo?"
+    Kant na to vprašanje si odgovori na tak način:
+        Je združil in spreobrnil bodisi racionalistične kot empiristične elemente
+
+    Delo "Kritika čistega uma":
+        Analizira um
+        ocenjuje meje spoznavanja (kaj lahko in ne spoznavamo, kaj je znanost)
+        Na eni strani imamo izkustvo, na drugi pa obdelavo uma
+        Da pridemo do spoznanja, moramo rabiti bodisi eno kot drugo
+
+        1) izkustvo
+              +
+        2) obdelava
+              =
+        3) spoznanje
+
+        Kant govori o sodbah:
+            Vsaka sodba je zgrajena iz pojmov - silogizmi --> "peresnica je modra" -> peresnica (subjekt); plava (predikat)
+            (podobno kot objekt in atribut)
+            objekt + atribut (tako rečem jaz) = pojem + pojem (kako je reku kant)
+
+            Imamo več vrst sodb:
+                - Sintetične a posteriori:
+                    a posteriori = PO izkustvu
+                    sovpada s prvo zgornjo točko, izkustvo
+                    torej ta sodba se zgodi, ko spoznamo nekaj
+                    (peresnica je modra)
+
+                - Sintetične sodbe a priori:
+                    a priori = nove informacije, ki se dobijo z obdelavo
+                    te sodbe dodajo dodatne pojme, ki ne pridejo iz izkustva
+                    (npr. matematika)
+
+                - Analitične sodbe a priori:
+                    samoumevne - ne potrebujemo nobene potrditve v izkušnji
+                    (samec je neporočen moški; voda je H2O)
+                    pojmi, ki smo si jih mi izmislili / smo jih mi določili
+
+        Naš um spremeni (ne fizično) predmete, ne obratno (obratno od empiristu):
+            mi vidimo predmet, možgani si ga modelirajo in si ga zapomnijo kot hočejo
+            Um / intelekt obdeluje podatke / izkušnje / realnost iz okolja
+            Kako obdeluje izkušnje:
