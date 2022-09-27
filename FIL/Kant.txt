@@ -10,7 +10,7 @@
     Racionalizem --> spoznavamo z razumom (imamo intuicijo, preko te spoznavamo)
     Empirizem --> spoznavamo s čutili (tabula rasa)
 
-    Kant je kritiziral oba zgornja tokova (Decartes, spinoza, locke. hume, hobbes, ...)
+    Kant je kritiziral oba zgornja tokova (Descartes, spinoza, locke. hume, hobbes, ...)
     Menil je, da njihove teorije niso dovolj poglobljene. Vprašanje pa je vedno ostajalo "kako spoznavamo?"
     Kant na to vprašanje si odgovori na tak način:
         Je združil in spreobrnil bodisi racionalistične kot empiristične elemente
@@ -68,3 +68,15 @@
             2 čisti intuiciji: čas in prostor
 
         Noumenon --> ne moremo izkusiti
+
+Delo "Kritika praktičnega uma":
+praktika = morala
+    Kaj je morala?
+    Morala je "kaj je dobro, kaj je slabo?"
+    Za dobiti moralo, je nujno, da imamo sogovornika --> morala rabi le v družbi
+    Kant je znan za njegovo moralo
+    Kant je bil zelo rigiden/strog --> tudi morala je zelo stroga (je treba sledit pravilom, ker je to dobro)
+    morala je univerzalna --> apriorna:
+        je dobro biti pošten
+    Cilj morale je morala --> delamo dobro, ker je dobro delati dobro
+    Morala je formalna --> so izjeme
