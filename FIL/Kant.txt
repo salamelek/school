@@ -59,7 +59,7 @@
             1) količina (npr. 1, 2, 3, ...)
             2) kakovost (npr. mehek, )
             3) odnos (to je večje od)
-            4) način (voda vreje (na kakšen način se predstavlja voda)
+            4) način (voda vre (na kakšen način se predstavlja voda)
 
             ^te so apriorne kategorije, ker jih um ne izdela z izkustvom
 
@@ -67,16 +67,29 @@
 
             2 čisti intuiciji: čas in prostor
 
-        Noumenon --> ne moremo izkusiti
+        Noumenon --> ne moremo izkusiti <--> ni znanost
 
-Delo "Kritika praktičnega uma":
-praktika = morala
+        Praktika = morala
+
     Kaj je morala?
-    Morala je "kaj je dobro, kaj je slabo?"
-    Za dobiti moralo, je nujno, da imamo sogovornika --> morala rabi le v družbi
-    Kant je znan za njegovo moralo
-    Kant je bil zelo rigiden/strog --> tudi morala je zelo stroga (je treba sledit pravilom, ker je to dobro)
-    morala je univerzalna --> apriorna:
-        je dobro biti pošten
-    Cilj morale je morala --> delamo dobro, ker je dobro delati dobro
-    Morala je formalna --> so izjeme
+        Morala je "Kaj je dobro, kaj je slabo?"
+        Za dobiti moralo, je nujno, da imamo sogovornika --> morala rabi le v družbi
+        Kant je znan za njegovo moralo
+        Kant je bil zelo rigiden/strog --> tudi morala je zelo stroga (je treba sledit pravilom, ker je to dobro)
+        morala je univerzalna --> apriorna:
+            je dobro biti pošten
+        Cilj morale je morala --> delamo dobro, ker je dobro delati dobro
+        Morala je formalna --> so izjeme
+        posledice niso pomembne; je treba upoštevat pravila
+
+    reflektirajoče sodbe:
+        predmeti vplivajo na nas (se reflektirajo na nas)
+        estetska sodba je reflektirajoča sodba
+
+    Pojem sublimnega:
+        Nekaj, kar nam vzbuja čustva
+
+    Delo "K večnemu miru":
+        Ideja združitve --> Evropa
+        Je bil proti vojni
+        rešitev: zveze med državami
