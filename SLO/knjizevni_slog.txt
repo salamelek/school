@@ -1,0 +1,31 @@
+1) zvočni slog:
+    Kvantitativna evfonija:
+        Ritem:
+            - U- jamb
+            - -U trohej
+            - -UU daktil
+            - UU- anapest
+            - U-U anfibrah
+    Kvalitativna evfonija:
+        rima:
+            - abab --> prestopna
+            - aabb --> zaporedna
+            - abca --> pretrgana
+            - abba --> oklepajoča
+            - aba bcb cdc --> verižna
+            - abc abc bca --> povratna
+
+        asonanca --> ponavljamo samoglasnike (rAnA urA, zlAtA urA)
+        aliteracija --> ponavljamo soglasnike (Veje V Vetru)
+
+2) Besedni slog:
+    Izbira besed (tujke, arhaizmi):
+        Ivan Tavčar, visoška kronika --> Veliko arhaizmov
+
+    Primera ali Pomen (tropi; primerjana beseda in primerjalna beseda):
+        Prisotnost obeh besed (primerjena in primerjalna) --> komparacija (lepa si kot sonce)
+        v ozadju je še pomen, ampak ni več "kot"--> metonimija  (si sonce)
+        je treba iskati zgodovinski pomen --> metafora (sonce)
+
+3) stavčni, sintaktični slog (figure):
+    pass
