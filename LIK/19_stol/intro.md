@@ -36,6 +36,18 @@ Winckelmann se je lotil znanstvenega raziskovanja antične umetnosti in je tako 
 Neoklasicizem se zaključi s prihodom Romantike (1830). 
 </p>
 
+
+### SLIKARSTVO
 <p>
+Buržuazijo je zanimala resničnost, realnost. Torej so hoteli, da so risbe čim bolj realne - grafično.<br>
+Slikarji so anatomijo in draperijo oseb poudarjali v plemenitih, jasnih in natančnih potezah. Barvna lestvica je trezna; iz splošne temne tonalitete izstopajo enotni toni brez odtenkov ("boring" barve).
+Antično moralo lahko dobimo v temah antične zgodovine / mitologije. Vodilni slikar tega obdobje je Jacques Louis David.
+Fan #1 od Davida je bil Ludvik 16. <br>
+
+Slika "Prisega Horacijev" ima sledečo zgodbo: Truje bratje so bili izbrani, da zastopajo Rim proti trem bratom Hurijacijem, predstavnikom mesta Albalonga. Slika prikazuje, ko bratje prisežejo očetu, da se bodo borili do smrti. Njihove sestre pa žalujejo, ker so poročene s tremi nasprotniki. 
+Okolica je brez okrasija, ker nas zanimajo liki, ne okraski arhitekture.
+Ozadje je osenčeno, medtem ko so osebe osvetljene.
+
+Slika "Umorjeni Marat" (Jacques Louis David):<br>
 
 </p>
