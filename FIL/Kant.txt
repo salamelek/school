@@ -82,7 +82,7 @@
         Morala je formalna --> so izjeme
         posledice niso pomembne; je treba upoštevat pravila
 
-    reflektirajoče sodbe:
+    Reflektirajoče sodbe:
         predmeti vplivajo na nas (se reflektirajo na nas)
         estetska sodba je reflektirajoča sodba
 
@@ -94,7 +94,29 @@
         Je bil proti vojni
         rešitev: zveze med državami
 
-        [...]
+        6 členov:
+            1) Ne smejo obstajati prikriti pridržki (da ne bi blo maščevanj)
+            2) Teritoriji ni privatna lastnina, je skupen ljudem (rosseau)
+            3) Je treba ukiniti stalne vojske (se ne teži konfliktom)
+            4) zavezništva so nevarna
+            5) nobena država naj se vpada v politiko druge
+            6) če med vojno se zgodijo prekomerna nasilja, bodo posledice še na naslednjih generacijah
 
-        Teritorji ni lastnina, je od vseh
-        Če se rabi čezmerno krutost v vojni, bo pustilo posledice za kasnejše generacije
+        Dokončni členi:
+            - V vsaki državi naj bo civilna ureditev republikanska:
+                Vsaka država mora imeti notranjo pravilno ureditev, preden, da se vtika v druge
+                Državljani so enakopravni, sodelujejo pri vladanju, imajo pravice yaaay
+                se loči izvršna od zakonodajne oblasti
+            - Mednarodno pravo naj bo utemeljeno na federalizmu ostalih držav:
+                Mora obstajati neka zveza med državami, da se vzpostavi mir
+                Vse države so enakopravne
+            - Kozmolitsko pravo naj bo obče hospitatliteti:
+                Vsakdo ima pravico obiska države, se lahko naseli
+                Pripadniki druge države niso tujci ali sovražniki, ampak so sprejeti
+
+        Dodatna razmišljanja Kanta:
+            pravi, da narava je garancija večnega miru:
+                Tudi, če človek teži k boju, ga narava prej ali slej pomakne k miru
+            Filozofi bi morali razmišljati s politiki in sodelovati
+                Morala in politika morata biti eno (obrato od Machiavellija)
+                Vse mora biti javno
