@@ -1,0 +1,44 @@
+SLIKARSTVO (je txt, ker mi je lepše)
+
+Jacques Louis David:
+    Prisega Horacijev (____, ?):
+        slika: url("./slike/?")
+
+    Umorjeni Marat (____, Olje na tabli):
+        slika: url("./slike/umorjeni_marat.jpg")
+
+        Marat je bil prijatelj
+        Slika govori o sodobnem dogodku (ne antika)
+        Prikazuje Umorjenega Francoskega revolucionarja [ime] Marata
+        Tudi David (slikar) je bil povezan s temi gibanji
+        Marat je bil eden izmed voditeljev Montanjardev in novinar
+        Marat je trpel zaradi kožne bolezni, zaradi katere je preživljal mnogo časa v kadi, tu je pogosto tudi delal
+        Backstory:
+            Gospa [ime] je bila politični sovražnik marata
+            Dobila je vstop v Maratovo sobo in ga ubila
+            Po umoru ni zbežala --> so jo ulovili in usmrtili
+
+        Analiza:
+            Svetloba prihaja z leve
+            V roki ima pero, prikazuje znanost, mir --> istočasno blizu na tleh imamo nož
+            Ta slika je skoraj propaganda, ker ga zariše kot filozofa / znanstvenika in ne vojaka
+            Na obrazu ima skoraj ironičen nasmešek
+            Zgledoval se je po Michelangelovem delu "Pieta" in po Caravaggiotem "Odlaganje kristusa":
+                Roka je skoraj eneka Caravaggiotu
+                Prikazoval je Marata, kot da bi bil Kristus --> povezoval je krščanstvo z novo francosko republiko
+                Marata tako prikazuje kot mučenika
+                Tudi obraz in telo je podobno osvetljeno kot Kristus (Caravaggio)
+
+
+Jean dominique ingres ():
+    slika: url("./slike/turska_kopel.jpg")
+
+    Iskal oblike teles v naravi --> gledal nage ženske
+    Ni treznih ostrih obrisov
+    Telesa so nežna, mehka --> ni žil, ni rug
+    Prikazuje harem žensk
+    Začetno je bila slika kvadratna, a jo je potem zrezal, da bi dal občutek okna
+        To okno nam da vtis, da skoz okno gledamo privaten prostor
+        Zaradi tega so ženske v "naravni pozi", niso nastavljene tam za sliko
+    V podpisu je napisal ne samo imena, ampak tudi starost (82):
+        Je pravil, da je ironično, da pri 82 let misli še enako kot pri 22
