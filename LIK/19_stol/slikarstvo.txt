@@ -1,6 +1,6 @@
 SLIKARSTVO (je txt, ker mi je lepše)
 
-Jacques Louis David:
+Jacques Louis David ():
     Prisega Horacijev (____, ?):
         slika: url("./slike/?")
 
@@ -42,3 +42,4 @@ Jean dominique ingres ():
         Zaradi tega so ženske v "naravni pozi", niso nastavljene tam za sliko
     V podpisu je napisal ne samo imena, ampak tudi starost (82):
         Je pravil, da je ironično, da pri 82 let misli še enako kot pri 22
+

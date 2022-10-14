@@ -1,0 +1,32 @@
+Antonio Canova ():
+    uporabljal je načela iz antike za prikazat sedanjost
+
+    Paolina Borghese (1808, marmor):
+        slika: url("./slike/")
+
+        Paolina je plačala Canovo, da bi izklesal njen kip
+        Čiste oblike (ni kažina, vse organizirano)
+        Navdih iz antike
+        Jo je nekoliko polepšal --> spominja na venero
+        ima jabolko v roki, kot venera - najlepša ženska na svetu
+        kip je hladen, stoičen
+
+    Washington (1815, marmor):
+        Washington prikazan kot rimski mislec
+
+    Napoleon (____, marmor):
+        Napoleon prikazan kot Mars (bog vojne)
+        Tudi njega nekoliko polepša
+
+    Amor in Psihe (____, marmor):
+        Psihe je bila ninfa --> dokaj lepa
+        Pride boginja (Venera), ki je bila ljubosumna do lepote Psihe
+        Reče kupidu, da jo storit zaljubit z en "Cesso clamoroso" - cit, dornik
+        Ampak se kupid zaljubi, ker je bila tako lepa
+        Prepovel je Psihi, da ga vidi, ker je bil sin venere
+        Ker so mu rekle sestre, ga je pogledala, kupid se je razjezil in jo spustil
+        Zaradi tega se je psiha prilizovala Veneri
+        Venera ji jje rekla, naj gre v pekel vzet mazilo za lepoto
+        Pshiha je odprla mazilo, in zaspala v večni spanec
+        Pride Kupid, jo poljubi in jo prebudi iz spanca
+
