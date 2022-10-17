@@ -7,7 +7,32 @@ Zgledujejo se po Platonu:
 Fichte (1762-1814):
     nas ne pretirano zanima življenjepis (nas = me)
 
-
+    Začetnik idealizma
+    noumenon - izhaja iz grške besede "um"
+    noumenon je to, kar um producira, in da to lahko spoznamo (kant je pravil, da ne moremo spoznati):
+        kot, da bi lahko spoznali hiperuraniji
+        noumenon je tisto, ki je za zaprto zaveso, ki si lahko vseeno predstavljamo
+        človek postavlja noumenon
+    "Jaz" nima samo vlogo spoznavanja, ampak tudi ulogo ustvarjanja in mišljenja
+    Subjekt ustvarja objekt
+    osnova vsega je duh
+    Duh je kot mantra - duh ustvarja, duh []
+    ima 3 principe:
+        - Čisti jaz:
+            Jaz postavljam samega sebe
+            Se zavedam samega sebe, mislim, ustvarjam
+            Jaz = Jaz
+            Se zaveda, da jaz sem jaz in obstajam
+            Se zavedam, da jaz obstajam
+            listi jaz je neskončen
+            tathandlung - se zaveš jaza
+        - Jaz teži k ne-Jaz:
+            Čisti jaz se loči in postavlja ne jaz
+            jaz je šel v negacijo --> narava
+            Jaz je abstraktno, ne jaz je konkretno
+            to kar naredim se loči od jaza in postane nejaz
+            streben je težnja jaza, ki se loči in postanje nejaz
+            nejaz se zoperstavi jazu
 
 Hegel:
     pass
