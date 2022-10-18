@@ -19,3 +19,33 @@ Taylorizem:
     Specijalizacija dela
     Vsaka tovarna zgradi manjšo enoto (npr motor, ogrodje etc.)
     Končna tovarna sestavi vse
+
+Mehanizacija kmetijstva:
+    Traktorji, mlatilnice, stroj za sejatev, stroji, ki žamejo, mehanizirana orala, itd.
+    Pesticidi, insekticidi
+    monokulture:
+        smo že imeli, a zdaj pride tudi do monokultur koruze in krompirja
+        koruza in krompir grejo v vsakodnevno prehrano cele Evrope
+    Umetna gnojila
+    Ni več družinska stvar, ampak majhna podjetja najamejo sezonske delavce
+    od 90% - 95% obdelovalcev zemlje pridemo na 50% - 10% (dandanes je 5-7%)
+
+Rudarstvo:
+    dinamit - trinitrotoluent - tnt
+    kopali so 20X hitreje
+
+Industrija:
+    Umetne in sintetične barve, lepila, mila
+    Nerjaveče jeklo (inox)
+    Železo-beton
+    Urniki / logistika (ker so vsi odvisni od vseh)
+
+Komunikacije:
+    Telegraf (morse) --> razdalje so izničene (instant msg):
+        Povežejo Francijo in Anglijo 1852 (podmorski kabli)
+        Evropa-ZDA 1866
+    Telefon
+    Radio
+    Fonograf
+
+Prevozna sredstva:
