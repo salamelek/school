@@ -27,5 +27,46 @@
         v ozadju je še pomen, ampak ni več "kot"--> metonimija  (si sonce)
         je treba iskati zgodovinski pomen --> metafora (sonce)
 
+    Metonimija ali Zamenjava (imam jakopiča):
+        - sinekdoha (Lenega čaka strgan rokav)
+        - oksimoron (Temna zarja)
+        - sinestezija (Hrup nadlog) dve čutili, ki ne spadata skupaj
+        - antonomazija (ta je pravi krjavelj) rabiš figuro za en pojem (si prav en bertoldo)
+        - katahreza (zob časa) ni nobene povezave med besedami --> daljna zgodovinska povezava
+
+    Metafora:
+        - pridevniška metafora ali ukrasni pridevek (rdeča kri)
+        - presonifikacija ali poosebitev (sonce je vstalo)
+        - simbol (srce = ljubezen, golob = mir)
+        - alegorija (ilirija oživljena = pogovor z Napoleonom, slavospev slovencev) povezava z neko pomembno državno stvaritev
+
 3) stavčni, sintaktični slog (figure):
-    pass
+    Ogovorne ali Retorične:
+        - apostrofa ali ogovor (kdaj te bom videl, Ljubljana?)
+        - retorično vprašanje (saj nisi ti kriv, ne?)
+        - eksklamacija ali vzklik ()
+        - dialogi ()
+
+    Akumulacijske ali figure kopičenja:
+        iteracija:
+            - idk
+            - idk
+            ...
+
+        Akumulacija:
+            - polisindeton ali mnogovezje (šel je in pil je in zagledal je in ...)
+            - ? ali brezvezje (šel je. pil je. zagledal je.)
+
+    Logične figure:
+        paralelizem ali vzporedje:
+            - na ravni besede
+            - na ravni stavka
+            - na ravni zgradbe
+        stopnjevanje ali klimaks
+        ?
+
+    Slovnične figure:
+        - inverzija (napačni vrstni red)
+        - silepsa (izpuščena beseda)
+        - histerlogija ali napačno zaporedje (popolnoma napačno zaporedje)
+

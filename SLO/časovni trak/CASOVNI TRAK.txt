@@ -5,7 +5,9 @@
 	To je obdobje pred izumom tiska, torej dobimo le ostanke rokopisov. Nastanejo v Karantaniji, prvi slovenski državi, ki se je nahajala na severu današnje države. 
 	
 	Brižinski spomeniki:
-		Napisani na papirju, najdeni v starih knjigah. Hranijo v NUK (narodna univerzitetna knjižnica), v Ljubljani. Napisani so v latinici in jih je objavil Jernej Kopitar leta 1836. 
+		Napisani na papirju, najdeni v starih knjigah (kodeksih). Hranijo v Münchnu.
+		Napisani so v latinici in jih je objavil Jernej Kopitar leta 1836.
+		Dobijo jih vasi Brižin leta 1803
 		Namen tega rokopisa je poučevanje vere. Deli se na 2 dela:
 			1.) [?????]:
 				pass
@@ -16,7 +18,8 @@
 		Dobljeni so bili v Ratečah, hranijo pa jih v Celovcu.
 		
 	Stiški rokopisi:
-		Hranijo jih v Slovenji
+		Hranijo jih v Slovenji, NUK, LJubljana
+		Napisal jih je češki menih (ima češke besede in črke)
 		
 	Čedajski / Starogorski rokopisi:
 		Hranijo ga v Čedadu
