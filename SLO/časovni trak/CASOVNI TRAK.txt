@@ -23,13 +23,26 @@
 		
 	Čedajski / Starogorski rokopisi:
 		Hranijo ga v Čedadu
+		Napisal Italjanski menih
+		konec 15. stoletja
 		
 
 -1550-1595 --> Reformacija:
-	Obdobje reformacije; Martin Luter razglasi slabosti tedanje cerkve in predlaga 95 točk, s katerimi naj bi poboljšal cerkev. Med temi je bilo tudi, da obred maše mora potekati v matičnem jeziku. Zaradi tega lahko potem Primož Trubar začel tiskati knjige v "slovenščini".
+	Obdobje reformacije;
+	Martin Luter razglasi slabosti tedanje cerkve in predlaga 95 točk, s katerimi naj bi poboljšal cerkev. Med temi je bilo tudi, da obred maše mora potekati v matičnem jeziku. Zaradi tega lahko potem Primož Trubar začel tiskati knjige v "slovenščini".
 	
 	Primož Trubar:
-		Rojen je bil na Dolenjskem, sledil je Martinu Lutru, torej je bil protestant. Kot prvo slovenščino je rabil nekaj dolenjskega narečja in nekaj ljubljanskega govora. Napiše prvi dve slovenski knjigi (Abecednik in Katehizem).
+		Rojen je bil na Dolenjskem, sledil je Martinu Lutru, torej je bil protestant.
+		Kot prvo slovenščino je rabil nekaj dolenjskega narečja in nekaj ljubljanskega govora.
+		Napiše prvi dve slovenski knjigi (Abecednik in Katehizem).
+		Zaradi njega se je knjižni jezik razvil.
+		Prvič uporabi izraz "slovenci"
+		želi ustvariti slovensko protestantsko cerkev
+		Bil je zelo pomemben tudi na nemškem, a se osredotoči na slovenjo
+		podpira šolstvo, tudi za dekleta
+		Vodi zbor v Trstu
+		Cerkovna ordina in njegove pridge so pomembne
+
 		
 		Abecednik: 
 			pass
@@ -46,15 +59,24 @@
 		
 	Sebastjan Krelj:
 		Napisal otroško Biblijo.
+		"počistil" trubarjev jezik --> knjižna slovenščina
+
+
+    Protestanti ne smejo ostati na hadzburških (slovenskih) tleh (reformacija)
 
 	
 -1595-1615 --> Protireformacija:
+    knjige gorijo (vse razen biblije)
+
 	Tomaž Hren:
 		Evangelija inu listavi:
 			pass
+        "soražnik" protestantov
+        postane nadškof v Ljubljani
 			
 	Alasia da Sommaripa:
-		Vocabolario italiano e sclavo:
+	    Poučuje plemiča, zato se mora učiti slovenščine
+		Vocabolario italiano e sclavo (1607):
 			Kot lahko razberemo od naslova, je to prvi italijansko-slovenski slovar. V njem je pisateljica pisala tudi o slovenskih navadah, kot so koledovanje.
 			Koledovanje je bila slovenska tradicija, ob kateri so hodili od hiše do hiše in pobirali denar ali harano (prbl. kot današnji pust[??])
 			
@@ -75,8 +97,12 @@
 			Delo, v katerem so bile napisanje pridge za nedelje in praznike
 			
 	Janez Vajhad Valvazor:
+	    Valvazor je plemič
 		Slava vojvodine Kranjske:
-			To delo je sicer bilo napisano v nemščini[???], a opisuje takratno kranjsko. Znan je opis Doberdobskega jezera. 
+			To delo je sicer bilo napisano v nemščini
+			opisuje takratno kranjsko
+			Znan je opis Doberdobskega jezera
+			veliko etnografskih zapisov, naravoslovja
 			
 	Lovrenc Marušič:
 		Bil je iz Štandreža.
