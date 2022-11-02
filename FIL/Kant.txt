@@ -1,9 +1,9 @@
 [obdobje razsvetljenstva]
 
 3 tematike:
-    1) kako spoznavamo?
-    2) kakšen je etičen/moralen človek?
-    3) politična filozofija
+    1) Kako spoznavamo?
+    2) Kakšen je etičen/moralen človek?
+    3) Politična filozofija
 
 1) Kako spoznavamo:
 
@@ -55,7 +55,7 @@
             Kako obdeluje izkušnje:
                 ?
 
-        Delimo (idk) na 12 kategoriji, vse te pa na 4 skupine:
+        Delimo (???) na 12 kategoriji, vse te pa na 4 skupine:
             1) količina (npr. 1, 2, 3, ...)
             2) kakovost (npr. mehek, )
             3) odnos (to je večje od)
@@ -119,4 +119,4 @@
                 Tudi, če človek teži k boju, ga narava prej ali slej pomakne k miru
             Filozofi bi morali razmišljati s politiki in sodelovati
                 Morala in politika morata biti eno (obrato od Machiavellija)
-                Vse mora biti javno
+                Vse mora biti javnoe
