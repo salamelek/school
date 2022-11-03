@@ -927,27 +927,107 @@
 	
 	
 -1899-1918 --> Moderna:
-	pass
+    Se usi poznajo, ker so se družili v cukrarni
+    Nova romantika:
+    impresijonizem
+    dekadenca
 
 
--1918-1939 --> Čas med dvema vojnama: 
-	različne smeri se prepletajo: 
-		-socijalni realizem:
-			-Ciril Kosmač 		--> primorska:
-				primorsko narečje, italijanske tujke, nekaj nemščine tudi
-			-Prežihov Voranc 	--> koroška:
-				nemške tujke; napisal roman "Doberdob", ker se je tam bojeval [soška fronta]; ne govori specifično o doberdobu, a o krasu nasplošno. Piše o obrambi kraških jarkov zaradi vode (na krasu ni bilo dosti vode)
-			-Miško Kranjec 	--> prekmurje:
-				prekmursko narečje
-			[bonus]:
-				-France Bevk:
-					napisal "črni bratje" in "Kaplan Martin Čedermac"
-				-Srečko Kosovel:
-					pisal 3 smeri:
-						-konstruktivizem
-						-impresionizem
-						-ekspresijonizem --> tudi Ivan pregelj in Alojz gradnik [pesnik]
-				-Kaljuh --> pesnik, ki je upiralno pisal proti fašizmu, umrl zaradi tega
+	Cankar:
+	    Je inovativen, s svojimi verzi dopolni/nadaljuje slovenski nivo na evropski
+	    Razvija prozna dela
+	    uvede črtico (med značajevko in novelo)
+        Piše depresijska dela
+        Se posveti proznim delom, ta dela bodo na nivoju Evropskih avtorjev
+        Ukvarja se tudi z dramskimi besedili
+        Je prvi poklicni pisatelj na slovenskem
+        Ko umre se konča moderna (1918)
+
+	Župančič:
+	    Veliko simbolizma:
+            "Zimzelen pod snegom" --> Slovenci pod fašizmom
+            "Zarje Vidove" --> 1914 ubijejo Franca Ferdinanda za Vidov dan
+
+    Murn:
+        Umrl v cukrarni
+        Zbirka izide po smrti
+        Zbirko uredi Anton Aškarc (realist) --> cankar ga kritizira
+
+    Kette:
+        Umrl v cukrarni
+        Zbirka izide po smrti
+        Zbirko uredi Ivan Prijatelj () --> cankar ga pohvali
+
+
+
+-1918-1939 --> Čas med dvema vojnama:
+    Še vedno imamo stare smerii, kot simbolizem
+    Tu imamo tudi zametke avangarde
+
+    France Bevk:
+        napisal "črni bratje" in "Kaplan Martin Čedermac"
+        Živel v Gorici
+        Pisal o naših krajih
+        Ga ne morejo obtožiti, ker uporablja pseudonime
+
+    Srečko Kosovel:
+        Čuti nelagodje fašizma
+        Vrjel v kraljevino SHS
+        Zelo vezan na kras zaradi rapaljske meje
+        Ima konstruktivistične poezije v predalu, objavljene v 60-ih letih
+        se druži s Černigojem [slikar]
+        pisal 3 smeri:
+            -konstruktivizem
+            -impresionizem
+            -ekspresijonizem --> tudi Ivan pregelj in Alojz gradnik [pesnik]
+
+    Kaljuh --> pesnik, ki je upiralno pisal proti fašizmu, umrl zaradi tega
+
+    Alojz gradnik:
+        Ekspresijonist
+        Zelo zanimiva poezija, razdvojenost v ljubezni
+        Znana je poezija "Eros tanatos" in "De profundis"
+        Uporablja veliko tem in snovi tolminskega punta
+
+    Ivan Pregelj:
+        Ekspresijonist
+        Piše prozna dela
+        Napiše "Tolminci" z zgodovisnko osnovo
+        Matkova tina:
+            Ekspresjonizem --> nemir, ampak tudi mirna narava
+            Huda kritika na račun Preglja, ker [nisem zastopil ;-;]
+
+
+    socijalni realizem:
+        Ciril Kosmač (primorska):
+            primorsko narečje, italijanske tujke, nekaj nemščine tudi
+            Najbližji primorski
+            Stalno v zaporu --> novela "gosenica"
+
+        Prežihov Voranc (koroška):
+            nemške tujke
+            napisal roman "Doberdob", ker se je tam bojeval [soška fronta]; ne govori specifično o doberdobu, a o krasu nasplošno. Piše o obrambi kraških jarkov zaradi vode (na krasu ni bilo dosti vode)
+            Piše kolektivne romane --> dejanje je osredotočeno na skupnost
+
+        Miško Kranjec (prekmurje):
+            prekmursko narečje
+            Balada o trubenti in oblaku
+
+    Leto 1939:
+        Totalna prepoved slovenskega jezika zaradi fašizma
+        V ljubljani so še slovenski časopisi, a samo za propagando
+        Književnost je "Enobeja" --> Kajuh:
+            Pisal lirike upora
+            Sledi navodilom Otona Župančiča
+            Župančič Napiše propagandne poezije:
+                "Veš poet svoj dolg?" --> Katera je dolžnost pesnika?
+                Vloga pesnika je, da spodbuja narod k uporu
+                Ta pesem se širi tajno
+        France Balantič:
+            Njegova zgodovina je bolj filozofska kot uporniška
+            Bil zaprt v Gonarsu
+            Najpomembnejše delo: Gonarski soneti:
+
 		
 		
 -1945-1953 --> graditeljska književnost:
