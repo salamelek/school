@@ -1,0 +1,43 @@
+Rok: 11/12/2022 23:59 (naj bi bilo na classroom)
+
+TEME:
+    - Bosna v 19. stoletju
+    - Srbija v 19. stoletju
+    - Grčija v 19. stoletju
+    - Romunija v 19. stoletju
+    - Črna gora v 19. stoletju
+    - Bolgarija v 19. stoletju
+    - Makedonija v 19. stoletju
+    - Albanija v 19. - 20. stoletju
+    - Balkanske bojne v 19. stoletju
+    - Osmansko cesarstvo v 19. stoletju
+    - Trializem in federalistične ideje v Avstro-ogrski v 19. stoletju
+    - Pomlad narodov v današnji Sloveniji in na Hrvaškem v 19. stoletju <== Sveti trije sveti
+
+    Zanima še posebej nastanek držav in nacionalizem
+
+
+Minimalno 6 strani (8 za trio)
+
+Obvezne slike, se ne štejejo za strani (vsaj 1 slika)
+Nujna slika je politični zemljepis o mejah
+
+Obvezni so viri za karkoli (lepo bi bilo tudi viri virov), štejejo pri dolžini
+Treba je navesti vsaj en vir tistega obdobja, vir prve roke (časopisi, dnevnik, sodobniki tistega časa, takratna zgodovinska dela)
+Obvezno ena fizična knjiga kot vir (lahko tudi slovar, univerzitetna nalogi, strokovna revija)
+
+knjige: Naslov, Avtor, Založba, leto in kraj izdaje
+Revije: naslov, številko, članek, avtor, leto in kraj izdaje
+Spletni vir: Hyperlink, dan črpanja informaciji
+Dokumentarci: režiser, leto snemanja, leto izdaje
+
+Font: Times-new roman;
+velikost: 12
+podnaslovi: 14
+Naslovi: 16
+presledek med vrsticami: 1.5
+stranska poravnava (cel list; ood roba do roba)
+
+Išči knjige na COBISS, BIBLIO EST ali BIBLIOGO, ker profesor niža oceno, če motimo knjižničarke
+
+Če naredimo naslovnico "Je lepše"
