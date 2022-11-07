@@ -5,7 +5,13 @@ Zgledujejo se po Platonu:
     Znanje so ideje (mit o jami, Hiperuranij)
 
 Fichte (1762-1814):
-    nas ne pretirano zanima življenjepis (nas = me)
+    Je bil odličen predavatelj
+    slavna predavanja:
+        Predavanje o namenu učenjaka
+        Govori nemškemu narodu
+    Ti govori so imeli velik vpliv na nemški narod
+
+    Nas ne pretirano zanima življenjepis (nas = me)
 
     Začetnik idealizma
     noumenon - izhaja iz grške besede "um"
@@ -13,7 +19,7 @@ Fichte (1762-1814):
         kot, da bi lahko spoznali hiperuraniji
         noumenon je tisto, ki je za zaprto zaveso, ki si lahko vseeno predstavljamo
         človek postavlja noumenon
-    "Jaz" nima samo vlogo spoznavanja, ampak tudi ulogo ustvarjanja in mišljenja
+    "Jaz" nima samo vlogo spoznavanja, ampak tudi vlogo ustvarjanja in mišljenja
     Subjekt ustvarja objekt
     osnova vsega je duh
     Duh je kot mantra - duh ustvarja, duh []
@@ -30,12 +36,45 @@ Fichte (1762-1814):
             Čisti jaz se loči in postavlja ne jaz
             jaz je šel v negacijo --> narava
             Jaz je abstraktno, ne jaz je konkretno
-            to kar naredim se loči od jaza in postane nejaz
-            streben je težnja jaza, ki se loči in postanje nejaz
-            nejaz se zoperstavi jazu
-
-Hegel:
-    pass
+            to kar naredim se loči od jaza in postane ne-jaz
+            streben je težnja jaza, ki se loči in postane ne-jaz
+            ne-jaz se zoperstavi jazu
+        - Končni / Višji jaz:
+            Jaz in ne-jaz sobivata
+            Oboje jaz in ne-jaz
+    Cilj človeka je BITI SVOBODEN
+    te svobode ne bomo nikoli dosegli
+    Svoboda je relativna za vsakega posameznika
+    Za svobodo mi ustvarjamo, ker mislimo da preko ustvarjanja bomo svobodni. Vsekakor pa do te svobode ne moramo priti.
+    Moralen človek je tisti, ki razmišlja in ustvarja --> morala je akcija (ustvarjanje)
+    Morala je razmišljanje in ustvarjanje
+    Skupinsko moramo biti kreativni in ustvarjati, tako da smo moralni
+    težnja za ustvarjanje ni za vse narode enaka: nekateri bolj težijo ustvarjajo, nekateri manj
+    Tisti narod, ki je najbolj moralen oz. najbolj ustvarja, je najmočnejši narod (Nemčja seveda)
 
 Schelling:
+    Glavno delo: Sistem transcendentalnega idealizma:
+        Cilj je bil povezati subjekt z objektom --> Duh z naravo
+        Narava je zelo pomembna
+        Treba je zbuditi duhovnost preko narave
+        Spravi duh v predmetno obliko: Kaj je duh? Duh je narava / v naravi
+        To združitev imenuje ABSOLUTNA SINTEZA
+        ^ to je panteistični pristop (kot Bruno in Spinoza)
+        Panteizem: mislimo, da je duh v naravi
+        Narava je nezavesten duh
+    Nezavesten duh v naravi postane zavesten po treh fazah
+    3 faze samospoznave:
+        1) Od zaznav v intelektualni zor:
+            Začenjamo razumet, kaj zaznavamo
+            vidim drevo
+        2) Od intelektualnega zora v refleksijo:
+            Subjekt začne razmišljat / obdelovat, kar je razumel
+            drevo je živo, rase, je zeleno
+        3) Od refleksije do volje:
+            Subjekt začne ustvarjati (svet)
+            Do samospoznave pridemo z umetnostjo in filozofijo
+            pesem o drevesu
+
+
+Hegel:
     pass
