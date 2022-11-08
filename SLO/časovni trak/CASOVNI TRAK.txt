@@ -1016,17 +1016,28 @@
     Leto 1939:
         Totalna prepoved slovenskega jezika zaradi fašizma
         V ljubljani so še slovenski časopisi, a samo za propagando
-        Književnost je "Enobeja" --> Kajuh:
+        Izhaja "partizanski dnevnik" - primorski
+        ljudsko poezijo so "posodobili" obdobju
+        Veliko je bilo prevodov pesmi (seveda petih, ne napisanih) iz španjske državljanske vojne
+        Književnost je "Enobeja"
+        Nova italijanska meja je bila do ljubljane - imeli so bodečo žico
+        taborišča Gonars in Rab
+
+        Kajuh:
             Pisal lirike upora
             Sledi navodilom Otona Župančiča
             Župančič Napiše propagandne poezije:
                 "Veš poet svoj dolg?" --> Katera je dolžnost pesnika?
                 Vloga pesnika je, da spodbuja narod k uporu
                 Ta pesem se širi tajno
+
         France Balantič:
             Njegova zgodovina je bolj filozofska kot uporniška
             Bil zaprt v Gonarsu
             Najpomembnejše delo: Gonarski soneti:
+                Seveda so soneti o taborišču Gonars
+                Ko se vrne domov iz taborišča ali se pridruži partizanom ali pa domobranci (slovenski fašisti)
+                postane domobranec in je kot domobranec ubit
 
 		
 		
@@ -1038,14 +1049,24 @@
 	Zaradi slabega dostopa do gorice, so zgradili novo gorico
 	Medtem ko so mladi gradili, se je tudi poezija razvijala v to smer
 	književnost je zelo konkretna [ni čustev] --> naslednje obdobje bo vključilo čustva
+	Objavljajo zgubljene poezije med vojno (seveda Balantiča skrijejo)
+	Poezije podpirajo k poveličevanju žrtev vojne etc.
+
+	Boris Pahor:
+	    pass
+
+    Alojz Rebula:
+        pass
 	
 	
--1935 --> pesmi štirih:
-	obdobje intimizma, spet iščejo čustva
-	-Ciril Zlobec
-	-Tone Pavček
-	-K. Kovič
-	-J. Rema[?????]
+-1935 --> obdobje intimizma:
+	spet iščejo čustva
+	Ni več utilitarizma v poeziji
+	pesmi štirih:
+        -Ciril Zlobec
+        -Tone Pavček
+        -K. Kovič
+        -J. Menart
 	
 	
 -1958-1966 --> Temni modernizem / eksistencijalizem:
