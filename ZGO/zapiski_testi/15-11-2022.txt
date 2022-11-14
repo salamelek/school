@@ -1,4 +1,4 @@
-19 stoletje:
+19. stoletje:
     - Italijanske vojne za neodvisnost
     - Združitev Nemčije
     - Rusija v 19.stol
@@ -78,6 +78,7 @@ Nemčija:
     1818 - Nastane Zollverein, davčno združenje med nemško govorečimi državicami
     [continue Nemčija..]
 
+
 Rusija:
     Na začetku imamo fevdalni sistem, ogromno kmetov in malo plemičev + carja, ki je sam avtokratsko odločal
     Cari so bili družine Romanov
@@ -93,4 +94,56 @@ Rusija:
     Aleksander II. Zaključi krimsko vojno, centralizira državo, uvede mnogo reform, plemstvo ga podpira, AMPAK
         ni skrbel preveč za kmečki sloj, torej so se vneli upori --> 1861 odpravi tlačanstvo
         Osvoji uzbekistan, začne rusko-turško vojno (1876-78) --> Rusi v imenu pravoslavstva izgnajo Osmane iz Balkana --> nastanejo Srbija, Romunija, Črna gora in Bulgaria
-        mu nasprotujejo nihilisti, anarhisti in populisti
+        mu nasprotujejo nihilisti, anarhisti in populisti (populisti ubijejo Aleksandra II.)
+    Aleksander III. črta skoraj vse reforme II., je absolutist.
+        Rusificira carstvo: jezik, kulturo, ni manjšin (--> nacionalizem)
+    Nikolaj II.
+        japonsko-rusko vojna (1904-5):
+            Ker se ja japonska širila proti koreji in formosi, so rusi s kitajci zgradili Port Arthur.
+            Japonci oblegajo port arthur in zaradi tega Rusija oslabi in Japonska postane velesila.
+            Rusija ni bila kos Japosnki zaradi enotirnih železnic in slabih poveljnikov
+        Ruski upor (1905-7):
+            Liberalci so hoteli dumo, torej parlamentarno demokracijo
+            Socialisti pa hočejo Sovjete. Delili so se na manjševike (manj radikalni) in boljševike
+            Ti dve gibanji se povežejo, da bi reformirali državo, car se poveže z liberalci in premaga socialiste in nato tudi liberalce
+            Lenin, vodja boljševikov, je izgnan
+
+
+Zda:
+    Ogromni demografski narastek (od 5M do 90M)
+    iz luisiane, ki so kupli od francozev (1803) nastanejo  Luisiana, Arkansas, Kansas, Missouri, Oklahoma, Iowa, Nebraska, Minnesota, Dakota, Montana, Wyoming
+    dobijo tudi florido od španije, mehiko z vojno
+    V californi dobijo zlato - klondike
+    Pridejo do zahodne obale, medtem ko great plains imajo indijanci
+    Mason Dixon line loči sever od juga
+
+    ZDA temelji na bombažu (50M T bombaža = 7/8 sveta)
+    1869 - coast to coast railway, na območju jezer veliko industrije
+
+    Dosti je Evropejcev, ki migrirajo (UK, nemčija, skandinavske, Irci (1845-49), po vojni pa tudi ita, avstro, rus, kitajc in polcev.
+
+    1867 - alaska
+
+    ostali indijanci so Apači, Sioux, Cheyenne in Navajo
+
+    Ameriško-španska vojna (1898):
+        Se začne imperijalizem ZDA --> ZDA se širi izven meji
+        Amerika je po vojnami z indijanci kot danes
+        Filipini postanejo ameriški
+
+    jug: Alabama, Florida, Louisiana, Mississippi, Južna Karolina, Texas, Georgia + Virginia, Arkansas, Severna Karolina, Tennessee
+    sever: Maine, New Hampshire, Vermont, New York, Massachusetts, Rhode island, Connecticut, New Jersey, Delaware, Pennsylvania, Ohio, Indiana, Michigan, Iowa, Minnesota, Kansas
+
+    Secesijska vojna:
+        Zgodila se je zaradi razlik med severom in jugom:
+            sever: industrija, bogatejše, demokracija, proti suženjstvu
+            jug: plantaže, revnejše, patriarhalna aristokracija, za suženjstvo
+        Zaradi trenj (kansas, 1854), je Douglas predlagal ljudsko suverenost, a temu so sledili še večji prepiri
+        1860 izvoljen Lincoln (republikanec), noče suženjstva --> jug se loči
+        To je prva moderna vojna, s podmornicami, minami, ladjami, telegrafi, etc.
+
+    Rekonstrukcija:
+        Skusajo poboljsati situacijo na jugu, odpravijo suženjstvo --> šolanje, zaposlitev, življenje
+        1865 - ustrelijo Lincolna
+        Južnjaki hočejo, da Johnson odstopi, se koalizirajo v Ku Klux Klan
+        Ko Johnson umakne vojake iz juga, ti postanejo nasilni
