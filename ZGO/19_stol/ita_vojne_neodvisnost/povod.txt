@@ -1,9 +1,9 @@
 10% ljudi na apeninskem polotoku je govorilo "moderno"/toskansko italijanščino
 na severu je bilo več industrije, na jugu pa poljedelstva
 Ni velikih infrastruktur na apeninskem polotoku --> ni (skoraj) vlakov, malo cest
-politična ureditev pred risorimentom: url("./italia_pred_risorgimento.jpg")
+politična ureditev pred risorgimentom: url("./italia_pred_risorgimento.jpg")
 risorgimento --> Italija se prebudi --> to je obdobje nacionalizma, narodi so večni, Italija je pomembna, viva l'Italia!!!11!!
-pomembni: Mazzini, Massimo d'Azeglio, camillo benso conte di Cavour, Garibaldi
+pomembni: Mazzini, Massimo d'Azeglio, Camillo Benso conte di Cavour, Garibaldi
 vsak hoče različno novo ureditev; je še neodločeno
 Glavni so Carbonari (~1800):
     bili so liberalci
@@ -21,7 +21,7 @@ Nacionalna identiteta: kultura, jezik, predniki, skupna zgodovina
 4.3.1848 - Albertinski statut:
     Izdan je albertinski statut, ki je veljaven v sardinskem kraljestvu
 
-Ferdinand II. --> ida eno svojo ustavo:
+Ferdinand II. --> izda eno svojo ustavo:
     izda ustavo po nemirih --> primoran to storiti, da bi pomiril upornike
 
 Marčna revolucija na Dunaju:
