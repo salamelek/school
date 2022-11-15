@@ -1052,41 +1052,62 @@
 	Objavljajo zgubljene poezije med vojno (seveda Balantiča skrijejo)
 	Poezije podpirajo k poveličevanju žrtev vojne etc.
 
-	Boris Pahor:
-	    pass
-
-    Alojz Rebula:
-        pass
+    Bonus:
+        Ti so kvalitetni avtorji, ki pa so iz obrobja slovenje in torej ne preveč poznani.
+        Pišejo na moderen način
+        Boris Pahor:
+            proza
+        Alojz Rebula:
+            proza
+        Miroslav Košuta:
+            proza in poezija
+        [moderen] Drago Jančar
 	
 	
--1935 --> obdobje intimizma:
+-1953 --> obdobje intimizma:
 	spet iščejo čustva
 	Ni več utilitarizma v poeziji
-	pesmi štirih:
+	prelomnica v literaturi, ker se popolnoma spremeni smer (ni več naroda ampak so čustva)
+	štiri pesniki:
         -Ciril Zlobec
         -Tone Pavček
-        -K. Kovič
-        -J. Menart
+        -Kajetan Kovič
+        -Janez Menart
+
+	    Sledijo romantičnemu načinu pisanja (prešeren, murn in kosovel)
+	    ne eksperimentirajo z jeziko --> tradicionalisti
+	    pogled na ljubezen na intimen način
+	    uvedejo strah pred prihodnostjo / razčlovečenjem človeka (po letu 53) zaradi sveta tehnologije --> razmišljujoča poezija
+
+	    napišejo zbirko "pesmi šterih"
 	
 	
 -1958-1966 --> Temni modernizem / eksistencijalizem:
+    se pojavi spet eksperimentiranje v kniževnosti (eksperimentiranje s tematikami, ne besedami)
 	človek se sprašuje o svoji eksistenci in o bodočnosti
 	Zaradi izjemno hitrega razvoja so bili skoraj prestrašeni bodočnosti (podobno sedanji sitvacij s tehnologijo)
-	-Saša Vegri
-	-Dane Zajc
-	-Velo Taufer
-	-Gregor Staniša
+	- Tomaž Šalamun
+	- Saša Vegri
+	- Dane Zajc
+	- Velo Taufer
+	- Gregor Staniša
+	^ ti avtorji so delno eksistencijalisti (tudi Edvard Kozbek, piše prej, je odrinjen od družbe)
 
 
--1966-1972 --> POST MODERNIZEM:
+-1966-1972 --> POST MODERNIZEM / neo avandgarda:
 	Se pojavijo eksperimenti (z besedami) npr: izdajo prazno knjigo, črna pika na beli podlagi etc. (total bullshit)
-	Skupina "Oho", ki eksperimentirajo v Ljubljani --> črtajo pike, vejice, ena beseda na stran
+	tu odpadejo vsa pravopisna pravila (ločila, ritem, karkoli ;-;) --> avangarda, hipermodernizem, pač taka imena
+	Skupina "Oho", ki eksperimentirajo v Ljubljani --> črtajo pike, vejice, ena beseda na stran, prazna knjiga
 	Med temi je tudi Tomaž Šalamun (zdaj ne več eksperimentira)
 	Začenjajo vlevljavljati Kosovelov konstruktivizem (poezije iz časopisov in predmetov) (zbirka "integrali")
-	Še sedaj ne zastopijo popolnoma, kaj je Kosvel hotel reči
+	    Še sedaj ne zastopijo popolnoma, kaj je Kosvel hotel reči --> različne interpretacije
 
 
 -1972-SODOBNOST:
+    -Fran Lainšček:
+        Tradicijonalna poezija
+    -David Bandelj:
+        Moderna poezija (ni ločil)
 	Miks vseh obdobij, ne prevlada nič posebnega
 	Vsi pišejo kar si želijo
 	
