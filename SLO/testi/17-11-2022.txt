@@ -1,0 +1,57 @@
+1) literarna teorija
+2) izberi eno tematiko random in napiši spis glede tistega - povezuj
+
+Strategija: poglej, na katere teme se povezuje največ stvari in nauči se tiste stvari in povezovanja na pamet
+    --> Če dobiš katerokoli temo, na kratko govori o tistem in povezuj z naučenimi povezavami
+
+format povezav: f"[#{obdobje / ime} ({osnovni pojmi povezave})#]"
+
+
+Časovni trak:
+
+Obdobje prvih zapisov (1000-1500):
+    Stari rokopisi iz severa današnje Slovenije
+    -Brižinski spomeniki:
+        Objavil Kopitar (1836) [#Kopitar#]
+        2. del pomemben: pridiga o grehu in pokori
+    -Rateški rokopisi
+    -Stiški rokopisi
+    -Čedajski rokopisi
+
+Reformacija (1550-1595):
+    Primož trubar:
+        Natisne prvi dve tiskani slovenski knjigi (Abecednik in Katekizem)
+        Bil protestant - sledil Lutru
+        Zelo karizmatičen - hoče ustvariti slovensko protestantsko cerkev, je antiven na nemškem in podpira šolstvo [#Marija Terezija (šolstvo)#]
+        Prvič rabi izraz "Slovenci" [#Nacionalizem (narodna zavest)#]
+    Jurij Dalmatin: prevede biblijo
+    Adam Bohorič: zimske urice
+    Sebastjan Krelj:
+        Otroška biblija
+        Počisti Trubarjev jezik
+
+Protireformacija (1595-1615):
+
+Slovstveni molk (1615-1680):
+
+Barok in klasicizem (1680-1768):
+
+Razsvetljenstvo in predromantika (1768-1830):
+
+Romantika (1830-1848):
+
+Med romantiko in realizmom (1848-1899):
+
+Moderna (1899-1918):
+
+Čas med dvema vojnama (1918-1939):
+
+Graditeljska književnost (1945-1953):
+
+Intimizem (1953):
+
+Temni modernizem / eksistencializem (1958-1966):
+
+Post modernizem (1966-1972):
+
+Sodobnost (1972-zdej):

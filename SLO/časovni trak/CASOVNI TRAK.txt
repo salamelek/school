@@ -34,28 +34,20 @@
 	Primož Trubar:
 		Rojen je bil na Dolenjskem, sledil je Martinu Lutru, torej je bil protestant.
 		Kot prvo slovenščino je rabil nekaj dolenjskega narečja in nekaj ljubljanskega govora.
-		Napiše prvi dve slovenski knjigi (Abecednik in Katehizem).
+		Napiše prvi dve slovenski knjigi (Abecednik in Katekizem).
 		Zaradi njega se je knjižni jezik razvil.
-		Prvič uporabi izraz "slovenci"
+		Prvič uporabi izraz "Slovenci"
 		želi ustvariti slovensko protestantsko cerkev
 		Bil je zelo pomemben tudi na nemškem, a se osredotoči na slovenjo
 		podpira šolstvo, tudi za dekleta
 		Vodi zbor v Trstu
-		Cerkovna ordina in njegove pridge so pomembne
-
-		
-		Abecednik: 
-			pass
-			
-		Katehizem:
-			pass
+		Cerkovna ordninga in njegove pridige so pomembne
 		
 	Jurij Dalmatin:
 		Prevedel Biblijo
 		
 	Adam bohorič:
-		Zimske urice:
-			pass
+		Napiše zimske urice
 		
 	Sebastjan Krelj:
 		Napisal otroško Biblijo.
@@ -144,7 +136,7 @@
 	
 	
 -1830-1848 --> Romantika:
-	Razsvetljenstvo se zaključi leta 1789 s francosko revolucijo. Ta revolucija pomaga pre nastanku romantike. To se izraža z avtorjimi, ki pišejo o svobodi, bratovščini in enakosti. Te misli po naših krajih je širil Napoleon. Takrat je bil Metternichov absolutizem. Po padcu Napoleona, hočejo Evropske države spet stari red pred revolucijo (absolutizem, monarhija), a ljudje se nadaljujejo upirati po celi Evropi, saj so že spoznali svobodo ter so bolj izobraženi. Zaradi tega se zavedajo, da so lahko več kot nižji sloji. (te misli so prihajale iz rasvetljenstva). Zatorej v romantičnih poezijah in delih ni smo ljubezen etc., a tudi francoski navki iz revolucije (svoboda, bratovščina in enakost). Ljudje začenjajo razmišljati o zadedinjenih državah. Pride do pomlada narodov (1848), konča se absolutizem, pride na oblast 18 letni Franc Jožef.
+	Razsvetljenstvo se zaključi leta 1789 s francosko revolucijo. Ta revolucija pomaga pre nastanku romantike. To se izraža z avtorji, ki pišejo o svobodi, bratovščini in enakosti. Te misli po naših krajih je širil Napoleon. Takrat je bil Metternichov absolutizem. Po padcu Napoleona, hočejo Evropske države spet stari red pred revolucijo (absolutizem, monarhija), a ljudje se nadaljujejo upirati po celi Evropi, saj so že spoznali svobodo ter so bolj izobraženi. Zaradi tega se zavedajo, da so lahko več kot nižji sloji. (te misli so prihajale iz rasvetljenstva). Zatorej v romantičnih poezijah in delih ni smo ljubezen etc., a tudi francoski navki iz revolucije (svoboda, bratovščina in enakost). Ljudje začenjajo razmišljati o zadedinjenih državah. Pride do pomlada narodov (1848), konča se absolutizem, pride na oblast 18 letni Franc Jožef.
 
 	Na slovenskem se začne leta 1830:
 		Romantika izpostavlja čustva: človek je čustveno bitje, zato svet ne moremo spoznati samo prek razuma. vrednote so estetika, svoboda, ljubezen in pravica. Zelo pomebna je estetika/lepota, a duhovna estetika, ne telesna. (npr., žense so spet nedosegljive, mnogokrat se pisatelj zaljubi v idejo ženske, ne v žensko). Romantični človek je egocentričen, je prepričan, da je notranje bogat, plemenit, tragičen, poln samega sebe. On je edini možen estetske ustvarjalnosti. Je vedno skregan z družbo, ki ga omejuje in kritizira. Piše dosti lirike, proza ni zelo čustvena. (tudi če eno najboljših del je proza [zaročenca/i promessi sposi]). 
@@ -716,7 +708,7 @@
 	Črkarska pravda (1833):
 		Slovenci so bili takrat v zmedi: vsi so pisali šumnike na različen način: France Prešeren je vztrajal z Bohoričico, Kopitar pa je podpiral novo metlenčico. Ostali so tudi podpirali dančico. Avstrja pa se je tega pričkanja naveličala in prepovedala dančico in metlenčico. do leta 1850 so rabili torej bohoričico, a kasneje tistega leta so uvedeli gajico (čšž). Še danes uporabljamo to razliko LATINICE. 
 	
--1848-1899 --> Romantika / realizem:
+-1848-1899 --> Med Romantiko in realizmom:
 	To je obdobje MED romantiko in realizmom --> ni ne eno ne drugo
 	
 	1843 - Kmetske in rokodelske novice:
@@ -954,7 +946,7 @@
         Ko umre se konča moderna (1918)
 
         napiše vinijete in erotiko (zbirka poeziji)
-v ospredju so čustva, sonet, nov način pisanja
+        v ospredju so čustva, sonet, nov način pisanja
         je v ospredju tudi čutnost / telesnost
         ljubljena ženska je zelo dotakljiva --> prej je bil to tabu
 	Župančič:
