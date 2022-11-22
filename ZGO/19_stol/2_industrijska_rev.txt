@@ -166,3 +166,8 @@ Politika:
     Stranke nastajajo iz prejšnjih klubov --> Pride do hiejarhizacije strank
     Stranke imajo sedeže
     PROGRAM - Stranke morajo napisat program --> kaj hočejo narediti
+    3 struge:
+        Konzeravitvci
+        Liberalci
+        Socialisti (marx):
+            odgovor cerkve je Krščanski socializem (komunisti so bili proti veri) --> "pomagaj drugim, deli stvari"
