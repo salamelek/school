@@ -914,7 +914,8 @@
 	            Jasna ljubezenska poezija, na koncu pove, da je nedosegljiva
 	            Ni dograjena oblika (npr sonet), ampak je ljudska oblika
 
-	Anton Aškarc
+	Anton Aškarc:
+	    konkretizira balado, postane bolj "ljudska"
 	
 	
 -1899-1918 --> Moderna:
@@ -990,6 +991,45 @@
         Zbirka izide po smrti
         Zbirko uredi Ivan Prijatelj () --> cankar ga pohvali
 
+        Balada in romanca sta predstavljeni na nov način, torej so nova balada in nova romanca, oz. balada in romanca slovenskega realizma
+        primer: poezija "pijanec":
+            Nakaže ta razvoj
+            je v nasprotju z aškarcem (pripovedni pesnik), zelo ljudska, preprosta in pripovedna poezija (zgodbice)
+            Kette pa se vrne k pršernu in ga še dopolni, da je ta epika še bolj individualna
+            EPSKA LIRSKA PESEM
+
+        Jagnjed:
+            pass
+
+        Na trgu:
+            Je v Novem mestu in je zaljubljen v ()
+            Kontrast med umirjenostjo trga, deklice in neumirjenost njegovew duše
+            rabi dosti šumnikov in r-jev
+
+        Balada "Melanholične misli":
+            Narava je bogata in živa
+            človek je sam, in narava ga sprejme vase
+            pesimizem (se obesi)
+            ni pesimizem (narava sprejme človeka)
+            bog = narava (sinonim)
+            narava je pomirujoča
+            ni zgodovinskega ozadja, samo občutki
+
+        ko je bil premeščen v trst je napisal dva cikla:
+            Bistvo vseh ciklov je ljubezen (ljubezenska lirika)
+            ampak tudi ČUTNOST
+            - Na molu san carlo:
+                7 pesmi, od katerih sedma je povzetek celote
+                7 pesem:
+                    Najprej pove kaj se dogaja (je umirjen v čolnu)
+                    ljubica je odgnala smrt in pritegnila upanje (bil je duševno mrtev)
+                    iskal je nekaj, a ni videl ali slišal ničesar lepega
+                    to dekle je občudoval kot kameniti idol (kip matere božje, idealna ženska oddaljena): Bila je lepa, ampak je bila kamen, bila je oddaljena
+                    ampak v resnici je ona v čolni z njim (je mislil, da je nedosegljiva, ampak je prav tam z njim)
+                    Tu se ustavi pripoved, ker se ona začne smejati z nagajivimi očmi
+                    "Toda zaprl sem ji ustnice zlobne, s strastnim poljubom zaprl sem jih . . ." --> srečen konec
+            - Adrija
+            + spomini
 
 
 -1918-1939 --> Čas med dvema vojnama:
@@ -1012,6 +1052,7 @@
             -konstruktivizem
             -impresionizem
             -ekspresijonizem --> tudi Ivan pregelj in Alojz gradnik [pesnik]
+        Balada "balada"
 
     Kaljuh --> pesnik, ki je upiralno pisal proti fašizmu, umrl zaradi tega
 
