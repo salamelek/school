@@ -182,20 +182,76 @@ KITAJSKA
             Zmagajo Evropejci, zaradi enostavne premoči
 
 PACIFIK
-Avstralija:
-    je Angleška kolonija
-    To je bolj kazenska kolonija (tu deportirajo kazence)
-    Pretežna je ovčjereja, ogromno ribičev (lov na kite, tjulne)
-    1803 - Angleži kolonizirajo Tasmanijo
-    ogromno migrantov, ki beži v Avstralijo iz Anglije in iz vzhodne Azije (Kitajska, Indonezija, Japonska, Indija, Otoki)
-Nova Zelanda:
-    1840 si Angleži priključijo Novo Zelando
-    Imamo razne skupine Maorijev, ki se med sabo borijo. Nekateri se takoj povežejo z Angleži in s puškami takoj premagajo ostala plemena.
-    Zaradi tega pride do kooperacije z Maorskimi skupinami (so upravljali državo)
-    "Anglizirajo" Maore, ampak tudi dandanes je še močna Maorska skupnost
-    1893 - v NZ lahko volijo vsi odrasli (tudi ženske)
-Papua je angleška
-Nova Gvineja in Samoa sta Nemški
+    Avstralija:
+        je Angleška kolonija
+        To je bolj kazenska kolonija (tu deportirajo kazence)
+        Pretežna je ovčjereja, ogromno ribičev (lov na kite, tjulne)
+        1803 - Angleži kolonizirajo Tasmanijo
+        ogromno migrantov, ki beži v Avstralijo iz Anglije in iz vzhodne Azije (Kitajska, Indonezija, Japonska, Indija, Otoki)
+    Nova Zelanda:
+        1840 si Angleži priključijo Novo Zelando
+        Imamo razne skupine Maorijev, ki se med sabo borijo. Nekateri se takoj povežejo z Angleži in s puškami takoj premagajo ostala plemena.
+        Zaradi tega pride do kooperacije z Maorskimi skupinami (so upravljali državo)
+        "Anglizirajo" Maore, ampak tudi dandanes je še močna Maorska skupnost
+        1893 - v NZ lahko volijo vsi odrasli (tudi ženske)
+    Papua je angleška
+    Nova Gvineja in Samoa sta Nemški
 
 
 AVSTRO-OGRSKA
+    2.12.1848:
+        pride na oblast Franc Jožef, postane avstrijski cesar
+        Avstrija postane Ustavna monarhija -> Vsaka dežela dobi ustavo
+
+    To traja le eno leto (še manj), ker leta 49 nastane Bachov neoabsolutizem:
+        Bach je ministerski predsednik
+        Ukine ustavo, zamenjajo uradnike, postavijo na njihova mesta zveste uradnike
+        mešajo uradnike, da bi bili bolj strogi in da se oslabijo narodna gibanja
+        Ta absolutizem ne traja dosti
+
+    26.2.1861 - Franc Jožef izda Februarski patent (ustavo):
+        ta ustava se uveljavi
+        Si delijo oblast Cesar, državni zbor in deželni zbor
+        Zdaj imamo tudi prve volitve
+        Parlament je dvodomni:
+            Gosposka zbornica: višji dom, ne potekajo volitve, ker jih sam cesar imenuje (generali, visoki plemiči, rektorji, etc.)
+            Poslanska zbornica:
+                se voli 343 poslancev
+                Volitve potekajo tako:
+                    Prebivalci so razdeljeni na 5 kurije (glede na dohodek, status)
+                    V vsaki kuriji se izbere predstavnike in tisti predstavnik so šli v parlament
+                    kmečka, meščanska, veleposestniška, trgovsko-obrtniška kurja in virilisti (osebe z nekim statusom)
+                    Kmetov je bilo 80-90%, ampak so volili samo 40% poslancev
+
+    1867 - Nastane Avstro-ogrska:
+        Dva glavna dela:
+            Čez reko Leithe je trans.. in cene je Cis..
+            Cislajtanja:
+                Avstrijski del (črnorumena zastava)
+            Translantanija:
+                Ogrski del
+        Franc Jožef je bil istočasno Avstrijski cesar in Ogrski kralj
+
+        3 ključne "vezi":
+            ista zunanja politika
+            ista finančna politika (trgovina):
+            ista vojaška politika
+
+        Uradni jeziki na Avstrijski strani so bili Nemščina, Slovenščina, Češčina, Hrvaščina, Italijanščina, Rutenjščina (del Ukraine), Poljščina, Romunščina, Slovaščina
+        Uradni jeziki na Madžarski strani so bili Madžarščina
+
+    1873: Bankrupt dunajske borze, se začne 10-letna depresija
+
+    1878:
+        Avstro-ogrska ni imela koloniji
+        Se začne širiti za Osmani, ki zapuščajo Balkan
+        Zasedejo Bosno in postane protektorat
+        1908 pa se priključi Avstro-ogrski
+
+    1879-1893 - Taffejeva vlada:
+        Taffe je bil predsednik ministrov
+        Nevtralizira narodnotvorne želje
+        Tako ohrani enotnost Avstro-ogrske
+
+    1882 - Trozveza:
+        Se združijo Avstro-ogrska, Nemčija in Italija
