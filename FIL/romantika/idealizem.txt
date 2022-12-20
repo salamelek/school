@@ -87,7 +87,7 @@ Hegel:
     Vojna je potrebna - pozitivna
 
     teza = čista ideja sama v sebi
-    antiteza = ideja gre v naravi in je v sporu
+    antiteza = ideja gre v naravo in je v sporu
     sinteza = ko se vrne v idejo samo
 
     filozofija narave: se konkretizira v naravi
@@ -96,7 +96,7 @@ Hegel:
     Lik sužnja in gospodarja:
         Hegel misli, da vsak človek mora tvegati lastno življenje, da zraste
         Če ne tvega, se ne povzdigne
-        Če nekdo ne tega, ne bo nikoli priznan kot oseba in ne bo nikoli samostojen
+        Če nekdo ne tvega, ne bo nikoli priznan kot oseba in ne bo nikoli samostojen
         Tveganje je torej bistveno, ker čene si odvisen od koga drugega
         suženj ne riskira, gospodar riskira
         Koncept uveljavitve lastne neodvisnosti:
@@ -104,7 +104,7 @@ Hegel:
 
     Hegel je imel specifična predavanja o zgodovini:
         Zgodovina je štafeta duha --> Udejanjenje duha (tista spirala)
-        To štafeti tečejo narodi, ki si podajajo štafeto
+        To štafeto tečejo narodi, ki si podajajo štafeto
 
     Hegel je za spopad (spopad je bistven, nujen), ker v spopadu / konfliktu zmaga najboljši
 

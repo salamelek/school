@@ -1,0 +1,121 @@
+FICHTE, SCHELLING, HEGELJ
+
+Fichte (1762 - 1814):
+    Nemec, pozna Kanta, Idealist
+    Slavni predavanji: "O namenu učenjaka", "Govori nemškemu narodu"
+    Dela: Osnove celotnega vedoslovja
+
+    Noumenon: lahko spoznamo; jaz in notranji duh ga postavlja
+
+    JAZ:
+        ima vlogo spoznavanja in ustavarjanja mišljenja
+            je aktiven
+            ustvarja v neskončnost
+            subjekt ustvarja objekt
+            jaz ustvarja oz. jaz misli
+        3 principi:
+            Čisti/absolutni jaz:
+                jaz se zavedam jaz = se zavedaš, da misliš
+                empirični jaz: se ne zavedam samega sebe; jaz != jaz
+                Tathandlung: se zavedaš jaza/samega sebe
+            Ne-jaz:
+                Čisti jaz se loči in postane konkreten
+                iz misli v material
+                Streben: težnja jaza, ki se ločin in postane ne-jaz
+            Višij/končni jaz:
+                jaz in ne-jaz sobivata
+                končni jaz je sestavljen iz jaza in ne-jaza
+
+    Cilj človeka:
+        biti svoboden
+        svobode ne bomo nikoli dosegli
+        težimo k svobodi, zato mislimo
+        težimo k ustvarjanju, ker mislimo, da bomo tako svobodni
+        ko ustvarjamo nismo svobodni
+        > ne pridemo nikamor
+
+    Morala:
+        je aktivnost, ustvarjanje --> moralen je, kdor misli
+        > dolžnost človeka je, da misli
+
+    socialni clij človeka:
+        težimo h kolektivni svobodi, a je ne bomo nikoli dosegli
+        kdor bolj teži k ustvarjanju je močnejši
+        za fichteja so nemci močnejši, ker imajo večjo težnjo po ustvarjanju --> po svobodi --> nemci bi morali učiti druge
+        vsi narodi so različni, ker čene ne bi bilo napredka (evolucija)
+
+    nove države:
+        nacionalizem
+        volja po vzponu
+
+Schelling:
+    Glavno delo: Sistem transcendentalnega idealizma:
+        Cilj je bil povezati subjekt z objektom --> Duh z naravo
+        treba je dobiti povezavo med duhom in naravo
+        narava = nezavesten duh (se ne zavedamo določenih stvari(obnašanje, emocije))
+        ^ to je panteistični pristop (kot Bruno in Spinoza)
+
+    Nezavesten duh v naravi postane zavesten po treh fazah
+    3 faze samospoznave:
+        1) Od zaznav v intelektualni zor:
+            Začenjamo razumet, kaj zaznavamo
+            vidim drevo
+        2) Od intelektualnega zora v refleksijo:
+            Subjekt začne razmišljat / obdelovat, kar je razumel
+            drevo je živo, rase, je zeleno
+        3) Od refleksije do volje:
+            Subjekt začne ustvarjati (svet)
+            Do samospoznave pridemo z umetnostjo in filozofijo
+            pesem o drevesu
+
+    do samozavesti pridemo s filozofijo in umetnostjo
+    Narava in naravni pojavi so preveč kompleksni, da bi si razlagali
+    Se da dokazati samo nekatere pojave: magnetizem, kemičnost, električnost
+    Naravne pojave je treba vzet spiritualno, na neki višji ravni
+
+Hegel:
+    napisal najstarejši zapis nemškega idealizma
+    ustvari kritični časopis filozofije
+    delo "fenomenologija duha", "znanost logike"
+    je idealist --> resničnost gradijo ideje
+    zgodovina je temeljna
+    dialektika:
+        1) zavest: ideja sama
+        2) samozavest: ideja gre v naravo in je v sporu z drugimi idejami:
+            to je negativni postopek, ampak tudi nepogrešljivi in potreben - kot vojna --> nastane nekaj boljšega
+        3) razum: ideja se vrne v samo sebe in je bogatejša in zavestnejša
+        kasnejši filozofi pravijo temu teza, antiteza, sinteza
+
+    Lik sužnja in gospodarja:
+        kdor tvega in zmaga = gospodar
+        kdor ne tvega/zgubi = suženj
+        gospodar je priznan človek
+        suženj je odvisen od gospodarja
+
+    Predavanja o zgodovini:
+        zgodovina je štafeta duha
+        narodi tečejo štafeto
+        mezopotamci -> egipt -> feničani -> grki -> toja mati
+        spopad je nujen, naj zmaga najmočnejši
+
+    Filozofija duha:
+         Subjektivni:
+                razmišljanje o človeku, delimo na psihologija, antropologija, sociologija
+                (te tri stvari so spirala noter v spirali, vse stvari po 3 so spirala)
+        Objektivni / kolektivni:
+            razmišljanje o skupnem življenju
+            delimo na pravo (pravila, zakoni), moralo (obnašanje posameznikov), etiko (kolektivna morala), delimo na družino, civilno družno in državo
+        Absolutni:
+            Duh, ki postane filozofija, umetnost in vera
+            Hegel je važen za umetnost --> umetnost je duh, ki prihaja sam v sebi (III. stopnja spirale)
+
+    Država po heglu:
+        spada pod etiko -> je dovršeni kolektivni duh
+        narodi so različni --> imajo različni duh
+        ni liberalist (kolektivni in naš interes morata biti vsklajena) ali absolutist (oblast se mora deliti na zakonodajno, izvršilno in oblastno))
+
+    Glavne teme:
+        Končno gre v neskončno (spirale)
+        kar je umno je dejansko
+        spor je bistven
+        stoicizem = ni čustev; skepticizem = ne vrjamemo v absolutno resnico (ne kot pri platonu)
