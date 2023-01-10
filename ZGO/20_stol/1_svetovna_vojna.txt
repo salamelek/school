@@ -14,3 +14,53 @@ Razlogi:
         Skoraj vse ostale svetovne države pa podpirajo eno ali drugo stran
         Strani so bile Centralne sile (Trozveza (Italija, Avstro-ogrska, Nemčija), Osmansko cesarstvo, Bolgarija) in Antantne sile (Francija, Anglija, Srbija, Rusija, Belgija, Japonska, Črna gora, Portuglaska + Italija, San marino (po letu 1915) + Romunija (1916) + ZDA, Cuba, Panama, Grčija, Siam(thailandija), Liberia, Kitajska, Brazilija (1917) + Nikaragua, Costa rica, Haiti, Honduras (1918))
         Kasnejše države so bile zavezniki samo na papirju, za kasnejše privilegije
+    - Imperializem:
+        Ne vse države so dobile vse zaželjene kolonije (Italija, Nemčija, Avstro-Ogrska)
+        19 stol.: relativno mirno obdobje (razen krimske in ameriške secesijske vojne):
+            Ni vojn, ki trajajo več kot 2 leti - relativno kratke vojne
+            redkokdaj vključeni več kot 2 velesili
+            --> ni "večjih" spopadov v Evropi (v kolonijah pa so kolonizatorji, ki premagajo domorodce (razen Italije xd))
+            --> vsi mislijo, da bo vojna končala "hitro"
+    - Militarizem:
+        Je ogromno novega orožja (tanki, letala, oklepnice, novejši topovi, plamenometi, plinsko orožje)
+        Tekmovanje (mornarice in vojske) med Veliko Britanijo in Nemčijo:
+            Alfred von Tirpitz poboljša mornarico in postane skoraj enakovredna, a Angleži so imeli več ladji
+    - Revanšizem:
+        V Evropi so ostale prejšnje težave in vidi v !. svetovni vojni priložnost, da jih reši:
+            - Francija (Zaradi Prusov (Alzacija in Lorena)
+            - Bolgarija (Po Sanstefanskem miru skrčijo Bolgarijo)
+            - Rusija (Po Berlinskem kongresu je Rusija potisnjena v stran + jih porazijo Japonci)
+            - Osmansko cesarstvo (Je izpodrinjeno iz Evropskega ozemlja)
+    - Krize:
+        - Kriza med Anglijo in Francijo (Fašoda):
+            Ko se nad Sudanom srečajo vojaki
+        - 1905, 1911 - dve Maroški krizi:
+            V obeh krizah Nemčija poskuša osvojiti Maroko
+            Francija ustavi Nemčijo in si drži ozemlje v Maroko
+            Nemčija dobi del Kamerona
+        - Bosanska kriza:
+            Ko Avsto-Ogrska si priključi Bosno, marsikatera država protestira
+        - Balkanske vojne:
+            vojna = kriza
+
+Značilnosti:
+    - Totalna vojna:
+        Države se v celoti nameni vojni
+        Celotno gospodarstvo je namenjeno vojni
+        V tovarnah začnejo delati ženske ("moška dela")
+    - Vojna za prevlado in preživetje:
+        Noben revolucionarni clj, nobena sprememba
+        Je vojna za prevlado - določene države hočejo prevladat nad ostalimi
+    - Veliki pokoli:
+        Skupno umre 10M vojakov, 20M ranjenih
+        Umre ~6M civilistov (zaradi strelov ali zaradi lakote)
+        Genocid Armencev:
+            V osmanskem cesarstvu ubijejo ~1M Armencev
+    - "svetovna" vojna:
+        Udeležene skoraj vse države sveta
+        Pretežno boji v Evropi, ampak so povsod po svetu:
+            V nemških kolonijah se bojujejo do konca vojne
+            Nemška in Angleška mornarica se spopadeta kjerkoli
+            Japonska se bojuje proti nemškim kolonijam v Aziji
+            Boji v bližnjem vzhodu
+            Kolonialne države rabijo tudi vojake iz koloniji
