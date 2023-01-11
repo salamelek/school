@@ -15,60 +15,67 @@ Značilnosti:
     Kult junaka
     Prekleti umetnik
 
-Dela:
-    Gericault:
-        Splav meduze (5x7m, 1818):
-            Prikazuje brodolom ladje Meduze
-            Po resničnem dogodku (leta 1816):
-                Novica, ki je pretresla javno mnenje
-                Fregata Meduza francoske mornarice je doživela brodolom
-                Kapetan pobegne z rešilnim čolnom in pusti posadko na splavu
-                Po 12 dneh se nekateri člani posadke rešijo
-                Seveda ti gospodiči so javno objavili zgodbo tega dogodka
-                Je ustvarilo škandal, ker so jedli mrtve "sopotnike"
-            Ta zgodba je dosegla tudi Gericaulta, ki je na tem ustvaril monumentalno sliko
-            s to sliko se je hotel uveljaviti na umetniškem prizorišču
-            rabil je modele za sliko, nekateri so bili sami brodolomci
-            Prikazuje:
-                Na obzorju je ladja, ki jih reši
-                Nekateri skušajo pritegniti pozornost ladje na obzorju
-                Nekateri pa so izčrpani in utrujeni in so se vdali usodi
-                Ločeno na dve piramidalni strukturi
-                Svetloba prihaja z leve
-                Svetli deli so večinoma trupla
-            Cilj umetnika je dobiti zgodovinski natančno in realistično delo --> dosti mesecev gre za skice
-            naredil je skico, v kateri so jedli trupla, a se je premislil
-            Gre v bolnišnico v Pariz, da bi se naučil risati umirajoče paciente / trupla
-            Gre tudi gledat barve oceana, da bi vedel kako ga narisati
-            > ogromno dela
 
-            Dobimo dosti klasičnih modelov:
-                Menelaj in Patroklos:
-                    upodobljen la levi spodaj, menelaj -> zgubljen človek, Patroklos -> truplo
-                Posledna sodba (Michelangelo):
-                    zgled za celotno kompozicijo
-                Ahil in Hektorjevo truplo:
-                    truplo na desni spodaj in človek vmes
+Gericault:
+    Splav meduze (5x7m, 1818):
+        Prikazuje brodolom ladje Meduze
+        Po resničnem dogodku (leta 1816):
+            Novica, ki je pretresla javno mnenje
+            Fregata Meduza francoske mornarice je doživela brodolom
+            Kapetan pobegne z rešilnim čolnom in pusti posadko na splavu
+            Po 12 dneh se nekateri člani posadke rešijo
+            Seveda ti gospodiči so javno objavili zgodbo tega dogodka
+            Je ustvarilo škandal, ker so jedli mrtve "sopotnike"
+        Ta zgodba je dosegla tudi Gericaulta, ki je na tem ustvaril monumentalno sliko
+        s to sliko se je hotel uveljaviti na umetniškem prizorišču
+        rabil je modele za sliko, nekateri so bili sami brodolomci
+        Prikazuje:
+            Na obzorju je ladja, ki jih reši
+            Nekateri skušajo pritegniti pozornost ladje na obzorju
+            Nekateri pa so izčrpani in utrujeni in so se vdali usodi
+            Ločeno na dve piramidalni strukturi
+            Svetloba prihaja z leve
+            Svetli deli so večinoma trupla
+        Cilj umetnika je dobiti zgodovinski natančno in realistično delo --> dosti mesecev gre za skice
+        naredil je skico, v kateri so jedli trupla, a se je premislil
+        Gre v bolnišnico v Pariz, da bi se naučil risati umirajoče paciente / trupla
+        Gre tudi gledat barve oceana, da bi vedel kako ga narisati
+        > ogromno dela
 
-    Eugene Delacroix:
-        Svoboda, ki vodi ljudstvo (1830):
-            Po napoleonu je prišel spet absolutizem in so se zaradi tega Francozi uprli
-            Prišlo je do treh slavnih dnevov v Parizu:
-                Parižani postavijo barikade proti kraljevi vojske
-                Povzročijo padec monarhije
-            Oktobra istega leta (30) se je odločil, da bo to narisal ta prizor (prikazal je barikado)
-            "Se nisem nikoli boril za domovino, zdaj jo bom slikal"
-            Mesto v ozadju je izmišljeno
-            Prizorišče je en "kažin"
-            Na istem nivoju imamo truplo bojevnika in kraljevega vojaka
-            V sredini ženska figura "Marienne", ki predstavlja Francijo/svobodo:
-                Predstavljana je kot normalna ženska
-                V rokah ima zastavo in puško
-                Na glavi ima čepico, ki je simbol francoske revolucije
-                Gleda proti upornikom
-                Okoli nje vidimo velotno družbo: otroka, meščane (intelektualec), revnejše, vse
-            V ozadju se vidi dim bitke in figure v tem ozadju niso jasne, niso definirane
-            Piramidalna struktura
-            Delacroix se je zgledoval po splavu meduze:
-                Trikotna kompozicija, truplo z nogavico
-            Zgleduje se še po kipu iz helenizma, kip Miloške Venere
+        Dobimo dosti klasičnih modelov:
+            Menelaj in Patroklos:
+                upodobljen la levi spodaj, menelaj -> zgubljen človek, Patroklos -> truplo
+            Posledna sodba (Michelangelo):
+                zgled za celotno kompozicijo
+            Ahil in Hektorjevo truplo:
+                truplo na desni spodaj in človek vmes
+
+Eugene Delacroix:
+    Svoboda, ki vodi ljudstvo (1830):
+        Po napoleonu je prišel spet absolutizem in so se zaradi tega Francozi uprli
+        Prišlo je do treh slavnih dnevov v Parizu:
+            Parižani postavijo barikade proti kraljevi vojske
+            Povzročijo padec monarhije
+        Oktobra istega leta (30) se je odločil, da bo to narisal ta prizor (prikazal je barikado)
+        "Se nisem nikoli boril za domovino, zdaj jo bom slikal"
+        Mesto v ozadju je izmišljeno
+        Prizorišče je en "kažin"
+        Na istem nivoju imamo truplo bojevnika in kraljevega vojaka
+        V sredini ženska figura "Marienne", ki predstavlja Francijo/svobodo:
+            Predstavljana je kot normalna ženska
+            V rokah ima zastavo in puško
+            Na glavi ima čepico, ki je simbol francoske revolucije
+            Gleda proti upornikom
+            Okoli nje vidimo velotno družbo: otroka, meščane (intelektualec), revnejše, vse
+        V ozadju se vidi dim bitke in figure v tem ozadju niso jasne, niso definirane
+        Piramidalna struktura
+        Delacroix se je zgledoval po splavu meduze:
+            Trikotna kompozicija, truplo z nogavico
+        Zgleduje se še po kipu iz helenizma, kip Miloške Venere
+
+Turner:
+    Dež, para, hitrost (1844):
+        Se vidi vlak, dva mostova, barčico, a v glavnem je slika dokaj motna
+        Ponazarja lokomotivo - napredek
+        Edina jasna stvar, ki se vidi, je most
+        Ko je bila slika narejena, je bila dokaj kritizirana
