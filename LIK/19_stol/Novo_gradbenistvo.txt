@@ -16,3 +16,12 @@ Crystal palace:
     Je bil simbol angleške zmogljivosti
     V palači so bile razstavljene stvari
     1936 - je zgorela (verjetno zaradi kratkega stika)
+
+Tour Eiffel:
+    Zgradili so jo v par letih
+    Je take oblike zaradi vetra
+    Eiffel je pravil, da je take oblike, ker prikazuje moč etc.
+
+Pariz:
+    V polovici 19. stoletja je na vladi Napoleon III.
+    Mesto je bilo zelo srednjeveško (ozke ulice, vse staro) --> ni bilo več ustrezno
