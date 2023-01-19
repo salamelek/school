@@ -31,15 +31,15 @@ Jacques Louis David ():
 
 
 Jean dominique ingres ():
-    slika: url("./slike/turska_kopel.jpg")
+    Turška kopel:
+        slika: url("./slike/turska_kopel.jpg")
 
-    Iskal oblike teles v naravi --> gledal nage ženske
-    Ni treznih ostrih obrisov
-    Telesa so nežna, mehka --> ni žil, ni rug
-    Prikazuje harem žensk
-    Začetno je bila slika kvadratna, a jo je potem zrezal, da bi dal občutek okna
-        To okno nam da vtis, da skoz okno gledamo privaten prostor
-        Zaradi tega so ženske v "naravni pozi", niso nastavljene tam za sliko
-    V podpisu je napisal ne samo imena, ampak tudi starost (82):
-        Je pravil, da je ironično, da pri 82 let misli še enako kot pri 22
-
+        Iskal oblike teles v naravi --> gledal nage ženske
+        Ni treznih ostrih obrisov
+        Telesa so nežna, mehka --> ni žil, ni rug
+        Prikazuje harem žensk
+        Začetno je bila slika kvadratna, a jo je potem zrezal, da bi dal občutek okna
+            To okno nam da vtis, da skoz okno gledamo privaten prostor
+            Zaradi tega so ženske v "naravni pozi", niso nastavljene tam za sliko
+        V podpisu je napisal ne samo imena, ampak tudi starost (82):
+            Je pravil, da je ironično, da pri 82 let misli še enako kot pri 22
