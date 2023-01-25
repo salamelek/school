@@ -46,4 +46,16 @@ Soren Kierkegaard:
     obupamo, ker vemo, da nismo perfektna bitja
 
     obstajajo 3 stopnje eksistence:
-
+        Aut Aut:
+            Neodločenost
+            Nasprotujoče izbire
+            Estet se izgubi v izkušnjah
+        Etična stopnja:
+            Človek naredi izbire in se odloči
+            "Odločim, da bom bijolog"
+            Napiše primer sodnika, ki živi etično - odločil se je za vlogo sodnika, moža, očeta
+        Religiozna stopnja:
+            Vera je iracionalna
+            Opisuje slepo vero, torej, da popolnoma verjamemo bogu
+            Tako vero ne moremo dojeti
+            Opisuje, kako je Izak skoraj žrtvoval sina
