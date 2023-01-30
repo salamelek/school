@@ -18,7 +18,7 @@ Schopenhauer:
     Rešitev je 3:
         - Umetnost je kratkočasna rešitev
         - Morala: nekdo nas potolaži (tudi kratkotrajno). Lahko tudi poslušaš probleme drugih
-        - Asheza: definitivna rešitev:
+        - Asheza: definitivna rešitev: --> povezava s psihologijo (ker danes ne velja vec)
             Duhovno potovanje, preko katerega se osvobodimo od vseh potreb in hrepenenja in individualnosti
             1) se odrečemo spolnim željam
             2) se odrečemo vsem željam in čustev
@@ -59,3 +59,24 @@ Soren Kierkegaard:
             Opisuje slepo vero, torej, da popolnoma verjamemo bogu
             Tako vero ne moremo dojeti
             Opisuje, kako je Izak skoraj žrtvoval sina
+
+Nietzsche:
+    Verna družina
+    Imel mlajšo sestro Elizabeto (bo imela bistveno vlogo pri širjenju bratove filozofije)
+    Študiral teologijo in filologijo v Bonnu
+    Na začetku študija je zapustil vero in teologijo
+    Zaključil klasično filologijo in postal profesor (ni imel še diplome)
+    Imel nek živčni zlom, bilo je skoraj nemogoče komunicirati z njim (bil je šibkega zdravja)
+    (ni bil nacist)
+    Sestra se je zadrževala v desničarskih (nacističnih) krogih
+    Teksti filozofa so napisani, da so lahko interpretirani in torej so Nacisti interpretirali na njihov način
+
+    Rojstvo tragedije iz duha glasbe:
+        V tem delu "Niče" se zanima za antični svet
+        Išče vzporednice (skupne točke) med antiko in današnjim svetom
+        Ugotovi, da v antični Grčiji so bile tragedije in so bile zgrajene iz 2 elementov:
+            - Tragičnost, iracijonalnost, čustvenost (desni možgani) - bog Dionizi
+            - Racijonalen svet (levi možgani) - bog Apolon
+        Filozofi kot Sokrat & co povzdignejo racionalnost
+        Vsaka filozofija povzdiguje racionalnost
+
