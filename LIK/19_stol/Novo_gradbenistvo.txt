@@ -25,3 +25,25 @@ Tour Eiffel:
 Pariz:
     V polovici 19. stoletja je na vladi Napoleon III.
     Mesto je bilo zelo srednjeveško (ozke ulice, vse staro) --> ni bilo več ustrezno
+    kolera se je zlahka širila zaradi nadcestnih kanalizaciji in gostote prebivalstva
+    Napoleon III se je odločil za modernizacijo Pariza
+    To nalogo je dal baronu Housemannu
+    Plan: Rušit hiše in širit ulice
+    nardijo torej večje ceste + kanalizacijo
+    Te velike ulice se imenujejo Boulevardi
+    Na boulevardi so dali burokratske zadeve:
+        Max 20m višine
+        vsako nadstropje enako visoko
+    S tem so dokaj izboljšali kvaliteto življenja
+    Ker je to bilo tako uspešno, je cel svet kopiral
+
+Barcelona:
+    Zelo oske ulice
+    leta 53 je prišla kuga - smrti
+    Odločili so se, da obzidja ne rabijo več in so jih porušili da bi širili mesto
+    poklicali so Cerda-ja
+    Rešitev je bila bloki, ki se ponavljajo po celem mestu
+    113x113m vsak blok z zaobljenimi vogali
+    ulice so bile širole 20m
+    Diagonalne ulice so širše in široke 50-80m
+    Višina stavb je morala biti nižja od širine ulice

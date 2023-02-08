@@ -77,8 +77,6 @@ Schelling:
 
 
 Hegel:
-    [SEM PISAL TEST, NRDI ZAPISKE]
-
     Resničnost gradimo z idej
     Ideja je v sebi --> ideje, o katerih razmišljamo
     Ideja gre v naravo --> ko gre v naravo, gre v negacijo
