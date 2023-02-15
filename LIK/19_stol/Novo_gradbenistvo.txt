@@ -47,3 +47,18 @@ Barcelona:
     ulice so bile širole 20m
     Diagonalne ulice so širše in široke 50-80m
     Višina stavb je morala biti nižja od širine ulice
+
+Dunaj:
+    od leta 1600 naprej se je mesto širilo
+    ob opazovanju stare planimetrije opazimo, da je okoli srednjeveškega mesta en travnik
+    V tem obroču ni nobene zgradbe
+    Ta obroč je imel vojaško funkcijo
+    v 19. stoletju je imel ta obroč funkcijo parka
+    v 2. polovici 19. stol pa so se odločili, da bo ta "dunajski ring" del mesta
+    Na tem obroču so zgradili najpomembnejše stavbe mesta
+
+    Votivkirche:
+        Cerkev v neogotskem slogu
+
+    Naravoslovni muzej, Opera, Parlament,
+
