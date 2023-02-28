@@ -77,4 +77,62 @@ Svet 4-h:
     ZDA - Wilson            (predsednik)
     UK - David George Lloyd (1. minister)
     FRA - Clemenceau        ()
-    ITA - Orlando (1. minister)
+    ITA - Orlando           (1. minister)
+
+
+Pariška mirovna konferenca:
+    Ustanovijo Društvo narodov (League of nations)
+        Vloga Društva naroda je obdržati mir
+        Centralne sile niso bile deležne
+        Ker ZDA in centralne sile niso bile vključene, je propadlo zelo hitro
+
+    Nastanejo nove države po načelu "ena država, en narod":
+        Estonija, Latvija, Litvija, Ukraina, Finska, Armenia, Adzerbajžan, Gruzija
+        Poljska, Avstrija, Kraljevina SHS, Madžarska, Češko-Slovaška
+        Vse te države naj bi imele demokratično ureditev
+
+    5 mirovnih pogodb:
+        1 pogodba za vsako državo Centralnih sil (Nemčija, Austrija, Osmansko Cesarstvo, Madžarska, Bolgarija)
+        Vsako pogodbo podpišejo v različni palači v okolici Pariza
+
+        1) Versailleska pogodba (28/06/1919):
+            Pogodba z Nemčijo
+            Podpišejo na 5. leto obletnice atentata (začetka vojne)
+            Nemčija zgubi vsa osvojena ozemlja (
+                Alzacija in Lorena --> Francija
+                Schleswig --> Danska
+                Prusija --> Poljska
+                Vse kolonije
+                Del gre Litviji
+                Del gre Belgiji
+                Posarje (območje rudnikov) gre Franciji za 15 let
+            )
+            Ogromna vojna odškodnina (132G Nemških mark)
+            Demilitarizacija Nemčije (Max 100K vojakov)
+            Prepoved združitve z Avstrijo
+
+        2) Sanžermenska pogodba (10/09/1919):
+            Pogodba za Avstrijo
+            Se ne sme družiti z Nemčijo
+            Z razpadom zgubi Bukovina gre Romunija, Galicija gre Poljski, Tirolska in primorje gre Italiji
+            [VAŽNO] Rapalska pogodba (1920) - Italija dobi Tirolsko in celotno Istrijo
+                V tej pogodbi ni navedenih točnih mej z Italijo
+                Ker Kraljevina SHS je narejena iz več držav, je polovično centralne sile in polovično antantne
+                V tej pogodbi se zmenijo kako bo potekala meja --> Vittoria mutilata (Italija ni dobila vseh obljubljenih ozemlji)
+                Po rapalski pogodbi imamo še nekaj sporazumov, ampak ni pomembno
+            Avstrija postane republika (do leta 38)
+            Demilitarizacija Avstrije (30K vojakov)
+            Velika vojna odškodnina
+
+        3) Trianonska pogodba (04/06/1920):
+            Pogodba z Madžarsko
+            Podpisana kasneje, ker je potekala v Madžarski komunistična revolucija
+            Površina Madžarske je množena z 0.33 --> 3M Madžarov ostane izven Madžarske
+                Transilvanija gre Romuniji, Jzžnji del gre SHS in Sever Češkoslovaški
+
+        4) Neulijska mirovna pogodba (27/11/1919):
+            Pogodba z Bolgarijo
+            vedno iste robe, odškodnina, 20K vojakov, etc etc
+            Trakija gre Grčiji
+            Malo gre SHS
+            Dobrudža gre Romuniji
