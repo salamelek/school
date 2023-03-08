@@ -7,6 +7,7 @@ Družbeni pozitivisti:
     Razvoj družbe
 Evolucijski pozitivisti:
     razvoj cloveka (in družbe)
+pozitivisti iščejo zakone
 
 Comte:
     Oče pozitivizma
@@ -34,4 +35,32 @@ Lombroso:
     preučeval obraze
     mislil je, da obraz je vezan na osebnost - še posebej kriminalci
 
-Spencer
+Spencer:
+    Britanski filozof
+    Ne samo človek se razvija, ampak tudi družba se razvija - evolucija družbe
+    tudi v družbi obstajajo zakoni
+    Družba se je razvila iz neke primitivne vojaške družbe (prisiljeno sožitje) do industrijske (moderne) družbe, kjer nimamo prisiljenega sožitje
+    Naše sožitje ni tako prisiljeno kot enkrat (hmm idk about that)
+
+Freud:
+    Nov pogled na posameznika
+    Je na eni strani pozitivist, po drugi ne (gledano iz takratnega zornega kota)
+    Ne samo se je ukvarjal s človeškim razumom, ampak tudi s človeškimi nagoni (ni pozitivizem, ker takrat so bila čustva iracionalna)
+
+    Osebnost: skupek značilnosti posameznika, ki ga ločujejo od ostale družbe
+
+    Zakaj je preučevanje osebnosti pomembno?
+        Lahko razvijemo naš potencial
+        lahko bolje razumem druge
+
+    Imamo več načinov za preučevanje osebnosti:
+        1) Strukturna teorija:
+            delimo na razne značilnosti
+            statistična analiza
+        2) Vedenjska teorija osebnosti:
+            reakcije na dražljaje
+        3) Psihoanaliza:
+            Preučevanje notranjosti, ki je začel Freud
+            Preučevanje notranjosti, katere se človek se ne zaveda
+            Nezavedni procesi in mehanizmi, ki strukturirajo naše življenje
+            V nobeni prejšnji teoriji je človek imel nezavedne procese
