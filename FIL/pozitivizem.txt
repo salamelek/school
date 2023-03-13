@@ -64,3 +64,49 @@ Freud:
             Preučevanje notranjosti, katere se človek se ne zaveda
             Nezavedni procesi in mehanizmi, ki strukturirajo naše življenje
             V nobeni prejšnji teoriji je človek imel nezavedne procese
+
+    Zakaj pride do potlačene vsebine - represija:
+        Zato, ker so vsebine boleče in psiha oddali bolečino s tem, da jo "navidezno" pozabimo
+        To je nek obrambni mehanizem
+        to poteka nezavestno
+        Te vsebine razumemo preko metode prostih asociacij (ko pacient terapevtu izda ideje)
+            Terapevt poveže te asociacije poveže in razume, kaj je bilo potlačeno
+            do tega se lahko pride tudi z opazovanjem lapsus človeka (zamenjanje besed, pozabljanje imen, lažni spomini)
+
+    Sanje:
+        če nekdo sanja eno figuro, ki so močne (npr. družina?) je to simbol neke potlačene vsebine
+
+    Libido:
+        Neka energija / moč, ki imenujemo "pulzije" in je nekaj, kar nas preganja, nas žene, poganja
+        To je tudi neki spolni nagon
+        Razvoj otroka poteka preko faz, pri katerih ima glavno vlogo libido
+        V vsaki fazi se libido sprošča v različne dele telesa:
+            1) Oralna faza (do 1.5 leta):
+                se sprošča v usta
+                Dojenčki dajajo vse v usta
+                Otrok sesa, grize in daja stvari v usta
+                "otrok spoznava svet preko ust"
+            2) Analna faza (do 3. leta):
+                Libido se sprošča v anus
+                Otrok se uči zadrževanja in kontrole izločanja
+            3) Falična faza (do 5. leta):
+                Libido se usmerja k spolnim organom
+                Otroka zanima vse, kar je povezano z razliko med spoloma, rojevanjem otrok ipd. itd.
+                V tej (in prejšnjih) fazi je "narcizističen" libido, ker je usmerjen vase - glavni objekt libida je lastno telo
+            4) Faza latence (do 12. leta):
+                Libido se usmerja k družbeno zaželenim dejavnikom, npr. marljivost
+                V tej fazi se obdeluje nad-jaz
+                Tu se ustvarjajo socialni odnosi
+                V tej fazi se identificiramo s starši
+                V fazi latence se odpusti ljubezen do mame in se začne identificirati z očetom - bistvenega pomena za uravnovešenost med naravnimi spoli
+                    Brez tega lahko pride do komplikacije
+                    Kar doživimo do te faze nas bistveno pogojuje, ko smo odrasli
+            5) genitalna faza (do 18. leta):
+                Obdobje najstništva
+                Libido se usmerja v genitalije (kot v falični fazi, samo da v tej fazi se usmerja v zunanja telesa)
+                Objektni libido
+
+        Ojdipov kompleks:
+            se pojavi v falični fazi
+            Ko otrok razvija prva ljubezenska čustva do starša in ljubosumje do drugega
+            npr. Otrok reče, da bo poročil mamo
