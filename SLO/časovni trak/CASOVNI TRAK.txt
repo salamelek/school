@@ -960,9 +960,22 @@
         Ukvarja se tudi z dramskimi besedili
         Je prvi poklicni pisatelj na slovenskem
         Ko umre se konča moderna (1918)
+        Za dramatičnost je treba pisati realistično --> dela so bolj razumljiva (v ozadju pa je še vedno simbolika)
+        Zgleduje se po ?
+        Za narodov blagor (zrelo obdobje)
+        Pisal je oblike, ki jih na slovenskem ni bilo (razen tragedije - je poskusil župančič a ni nevem kej)
+        Alojz Krajger - napisal motiv školjke in bisera
+        Lik bohema umetnika, meščanska družba
+        Ne prikazuje plemstva, ampak srednji sloj:
+            politiki, kapitalisti
+            se pokaže boj za denar, za oblast
+            izobraženci se borijo proti izkoriščevanju
+            žrtve so vedno proletarci
+            umetniki trpijo
 
         Imamo 3 obdobja:
             mladostno 91-900:
+                > Romantične duše, Jakob ruda
                 Manj simbolizma in nove romantike, dokaj reaslitično
                 Dunajski soneti
                 Začne izdajati prva besedila za en časopis
@@ -971,7 +984,22 @@
                 Začne z dramatiko
                 Napiše romantične duše (97)
                 Poleg ničeja tudi vpliv ipsena
+
+                DELA:
+                    Romantične duše:
+                        sledi ničeju (takrat je bil populare) - posameznik vodi družbo
+                        Vpliva tudi Ibsen
+                        najbolj meščansko delo
+                        Bogatejšči izkoriščajo vboge
+                        politik mlakar nemoralno izkorišča vse
+                        ko se zaljubi, se mu vse povrne, začne dvomiti in začne hrepeneti po drugačnem življenju
+                    Jakob Ruda:
+                        Kapitalist na podeželju
+                        zelo realistično + vpliv evropskih realistov + Ibsena
+                        Kapitalist uniči imetje, ženo in hčer (hčerka napravi samomor)
+                        samomor je prikazan kot rešitev pred očetom -> psihološki realizem
             zrelo 900-1909:
+                > Kralj na betajnovi (prelepa predstava), za narodov blagor, Po hujšanju dolini šanflorjanski, hlapci
                 Gre na Dunaj
                 Pozna ideje Marksa in Mendelsa
                 Sprejme socijalizem
@@ -985,6 +1013,7 @@
                 Uporablja hude socialne težave kot podlago za lirsko in estetsko obliko --> globoko razmišljanje
                 Prolerska kriza, prostitucija, etc
             pozno 1909-18:
+                > Lepa vida
                 Psihološko/etično obdobje
                 Motivi trpljenja, hrepenenja
                 Ni več satiričen
