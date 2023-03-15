@@ -2,11 +2,11 @@ POZITIVIZEM
 
 Osnovan na znanosti, nasproten idealizmu in iracionalizmu
 
-izhaja iz "positus" - postavljen
+Izhaja iz "positus" - postavljen
 Družbeni pozitivisti:
     Razvoj družbe
 Evolucijski pozitivisti:
-    razvoj cloveka (in družbe)
+    razvoj človeka (in družbe)
 pozitivisti iščejo zakone
 
 Comte:
@@ -83,7 +83,7 @@ Freud:
         V vsaki fazi se libido sprošča v različne dele telesa:
             1) Oralna faza (do 1.5 leta):
                 se sprošča v usta
-                Dojenčki dajajo vse v usta
+                Dojenčki dajejo vse v usta
                 Otrok sesa, grize in daja stvari v usta
                 "otrok spoznava svet preko ust"
             2) Analna faza (do 3. leta):
@@ -91,8 +91,8 @@ Freud:
                 Otrok se uči zadrževanja in kontrole izločanja
             3) Falična faza (do 5. leta):
                 Libido se usmerja k spolnim organom
-                Otroka zanima vse, kar je povezano z razliko med spoloma, rojevanjem otrok ipd. itd.
-                V tej (in prejšnjih) fazi je "narcizističen" libido, ker je usmerjen vase - glavni objekt libida je lastno telo
+                Otroka zanima vse, kar je povezano z razliko med spoloma, rojevanjem otrok ipd. Itd.
+                V tej (in prejšnjih) fazi je "narcističen" libido, ker je usmerjen vase - glavni objekt libida je lastno telo
             4) Faza latence (do 12. leta):
                 Libido se usmerja k družbeno zaželenim dejavnikom, npr. marljivost
                 V tej fazi se obdeluje nad-jaz
@@ -110,3 +110,19 @@ Freud:
             se pojavi v falični fazi
             Ko otrok razvija prva ljubezenska čustva do starša in ljubosumje do drugega
             npr. Otrok reče, da bo poročil mamo
+
+        Osebnost sestavljena iz Jaz, Ono, Nadjaz:
+            Ono:
+                Vsi nagoni/pulzije
+                je prvi/arhaičen del osebnosti
+                Je nezavedno
+            Nadjaz:
+                ima vlogo funkcije kaznovanja, nadzora, presojanja nad Onim in Jazem
+                Je večinoma nezaveden
+            Jaz:
+                regulira Ono in Nadjaz
+                Jaz je jezdec, ki vleče Jaz in Ono
+                Je večinoma zaveden
+
+        Zakaj pride do psihičnega obolenja?
+            Ker je preveč velika razlika med Onom in Nadjazom
