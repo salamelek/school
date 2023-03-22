@@ -1257,6 +1257,30 @@
             "Zimzelen pod snegom" --> Slovenci pod fašizmom
             "Zarje Vidove" --> 1914 ubijejo Franca Ferdinanda za Vidov dan
 
+    Izidor cankar:
+        zelo zanimiv avtor
+        literarni zgodovinar in kritik
+        primerljiv s čopom in levstikom
+        uvede eseistični roman
+        [se lahko poveže s shakespearjem in z italijani]
+
+        S poti:
+            eseistični potopisni roman
+            dogajanje je v italiji
+            tema je pogled na umetnika in ustvarjanje
+            glavna junaka sta pisatelj in fritz
+            fritz je dekadentist - obratno kot pisatelj
+            v odlomku se nahaja v Veroni in govori s prijateljem o kako bi različni avtorji v slovenskem prostoru gledali prizor Romea in Julije
+            Uporablja različne sloge avtorjev, da bi opisal scena namesto rečt "cankar pravi tako:"
+        Obiski:
+            pogovori z avtorji mislim
+
+    Fran saleški findgar:
+        za "kmečke bralce"
+        podoben jurčiču (tradicija realizma in romantike)
+        zagovornik narodnosvobodilnega tiste stvari
+        zagovarjal je krekov krščanski socializem
+
     Murn:
         Umrl v cukrarni
         Zbirka izide po smrti
