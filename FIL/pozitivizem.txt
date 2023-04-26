@@ -20,7 +20,7 @@ Comte:
     človeški razvoj je šel skozi 3 obdobja:
         Teološka doba: človek si razlaga svet z miti
         Metafizična doba: si razlaga svet preko Krščanstva
-        Pozitivna doba:
+        Pozitivna doba: (takratna) sedanjost
 
 Darwin:
     evolucionist
@@ -34,6 +34,7 @@ Lombroso:
     Italijan
     preučeval obraze
     mislil je, da obraz je vezan na osebnost - še posebej kriminalci
+    danes vemo, da ni res
 
 Spencer:
     Britanski filozof
