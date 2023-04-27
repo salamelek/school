@@ -55,32 +55,90 @@ Fašizem:
                 V tej iin prejšnji skupini se včlanijo vojaki, zagreti nacionalisti in antikomunisti
                 Fascio littorio je bila častna sekira osebnih straž pomembnih osebnosti
                 "Kot je bil nekdaj rimski imperi mogočen, mora tako tudi italija postati pomembna!" --> simboli iz rimskega obdobja
-                1919 - V italiji so prve volitve:
-                    zmagajo socialisti
-                    drugi so popolari (katoliško-usmerjeno liberalci)
-                    Fašisti ne dobijo niti enega poslanca
-                1920:
-                    Fascismo di frontiera:
-                        Definirajo Rapalsko mejo --> znotraj italije nastaneta slovenska in hrvaška manjšina
-                        Nacionalisti tega niso morali dopustiti --> fašizem proti Slovencem in Hrvatom
-                        Vsi Slovenci in Hrvati so Italijani, a se tega še ne zavejo --> poitaljančevanje --> požig narodnega doma
-                        Pride do uničenja raznoraznih slovenskih krajev
-                    Squadrismo:
-                        Če so določene osebe imele težave s "socialističnimi stavkami" ali s ljudmi s "preveč pravicami", so poklicale skvadriste
-                        skvadristi so "miroljubno" izražali njihove ideje o socializmu in o pravicah
-                        Fašizem je tu še relativno omejeni fenomen in ni državni
-                        To se pojavi še posebej na severu
-                1921:
-                    Giolitti je bil liberalec in nevtralist
+        1919 - V italiji so prve volitve:
+            zmagajo socialisti
+            drugi so popolari (katoliško-usmerjeno liberalci)
+            Fašisti ne dobijo niti enega poslanca
+        1920:
+            Fascismo di frontiera:
+                Definirajo Rapalsko mejo --> znotraj italije nastaneta slovenska in hrvaška manjšina
+                Nacionalisti tega niso morali dopustiti --> fašizem proti Slovencem in Hrvatom
+                Vsi Slovenci in Hrvati so Italijani, a se tega še ne zavejo --> poitaljančevanje --> požig narodnega doma
+                Pride do uničenja raznoraznih slovenskih krajev
+            Squadrismo:
+                Če so določene osebe imele težave s "socialističnimi stavkami" ali s ljudmi s "preveč pravicami", so poklicale skvadriste
+                skvadristi so "miroljubno" izražali njihove ideje o socializmu in o pravicah
+                Fašizem je tu še relativno omejeni fenomen in ni državni
+                To se pojavi še posebej na severu
+        1921:
+            Giolitti je bil liberalec in nevtralist
 
-                    Giolitti ustanovi "Blocchi nazionali":
-                        To je rabilo, da ne bi socialisti prišli na oblast
-                        Se torej poveže z raznoraznimi strnakami, da socialisti ne pridejo na oblast
-                        Med temi povabi tudi fšiste (PNF je zdaj imel 35 poslancev)
-                        Fašisti torej vztopijo v vladno koalicijo
+            Giolitti ustanovi "Blocchi nazionali":
+                To je rabilo, da ne bi socialisti prišli na oblast
+                Se torej poveže z raznoraznimi strnakami, da socialisti ne pridejo na oblast
+                Med temi povabi tudi fšiste (PNF je zdaj imel 35 poslancev)
+                Fašisti torej vztopijo v vladno koalicijo
 
-                28.10.1922 - Pohod na Rim:
-                    Vsi fašisti se zberejo in gredo v Rim (brez Mussolinija, da se lahko izogne v najslabšem primeru)
-                    Gredo do kralja in izvedejo državni udar (takratni kralj je bil Viktor Emanuel III)
-                    Prisilijo kralja naj da mandat Mussoliniju --> Mussolini postane Predednik vlade, Notranji minister in zunanji minister
-                    S tem dogodkom nastane prelom: Fašistična ideologija se masivno širi
+        28.10.1922 - Pohod na Rim:
+            Vsi fašisti se zberejo in gredo v Rim (brez Mussolinija, da se lahko izogne v najslabšem primeru)
+            Gredo do kralja in izvedejo državni udar (takratni kralj je bil Viktor Emanuel III)
+            Prisilijo kralja naj da mandat Mussoliniju --> Mussolini postane Predednik vlade, Notranji minister in zunanji minister
+            S tem dogodkom nastane prelom: Fašistična ideologija se masivno širi
+
+        #################################################
+        ## [DOPOLNI ZAPISKE PRVIH 20 MINUT 27/04/2023] ##
+        #################################################
+
+        Reforme:
+            Riforma gentile:
+                reforma šolskega sistema
+                ukinejo vse manjšinske šole - nacionalizem
+                Manjšine je treba spomniti, da so od vedno bili italiani
+                Učenje fašistične ideologije v šoli - Izredni nacionalizem
+                Nastanejo tehnične/poklicne
+                Reforma licejev: Znanstveni, klasični etc. - Ni več splošne izobrazbe
+            Riforma Acerbo:
+                Reforma volilnega sistema
+                Stranka/koalicija, ki zmaga na volitvah in preseže 25% glasov, dobi večino v parlamentu
+            Banco di Roma:
+                Rimska cerkvena banka
+                Papež Pij XI. je imel banko, in Mussolini jo reši pred bankrupt --> se spoprijatelji s papežem
+                Torej katoličani so zdaj veseli
+                Želja za normalizacijo odnosov med Vatikanom in Italijo
+                Se povežejo v boju proti otrokojedcem
+            Cenzura in kontrola medijev:
+                Karkoli je objavljeno mora dobiti potrdilo/dovoljenje s strani države
+            Nastaneta 2 organizaciji / skupini:
+                MVSN:
+                    Milizia Volontaria per la Sicurezza Nazionale
+                    To so črnosrajčniki - camicie nere
+                    So prostovoljci, ki se v prostem času vojaško urili in toplo prepričevali lumpačke naj se ne vedejo slabo
+                    Pripadniki teh dobijo spotoma mesta v uradih, postanejo sodniki, policaji, učitelji etc. --> postanejo del državnega aparata
+                OVRA:
+                    Organizzazione per la Vigilanza e la Repressione Anticomunista
+                    To je bila državna tajna policija, ki je javno preganjala politične nasprotnike
+
+        1924:
+            Imamo ponovno volitve
+            Fašisti se prijavijo na volitve kot "Listone fascista":
+                To je koalicija, da bi dobili več glasov
+            Fašisti zmagajo in zaradi reforme Acerbo dobijo 335 poslancev na 535 (večina parlamenta)
+
+            06/04/1924 - po volitvah:
+                V parlamentu je govor vodje socialistične Giacomo Matteotti
+                Ostro kritizira Fašistično stranko, volilni sistem in jasno pove, da je prišlo do nepravilnosti pri štetju glasov
+                    Napove tudi govor proti fašistični stranki, v kateri naj bi razkril neki finančni škandal
+
+                * poof *        <-- izginil je :D
+
+                Pride do Aventinske opozicije:
+                    Vse stranke razen fašistične bojkotirajo delovanje parlamenta, dokler ne razčistijo, kaj se je zgodilo z Matteottijem
+                    Mussolini ukine parlament junija in ga ponovno skliče septembra
+                    Medtem se vse pomiri, dobijo truplo in krivce (seveda ni bil njihov namen ga ubit, so ga hoteli samo malo pretepst)
+                    Septembra, ko so se stvari umirile, ponovno dela parlament
+
+        03/01/1925 - Mussolinijev govor v parlamentu:
+            Si prevzame vse odgovornosti krivic, ki je naredila fašistična stranka
+            Trdi, da če je karkoli fašistična stranka zgrešila, morajo kaznovati njega, ne stranko
+            Zaradi tega dobi še večjo podporo --> Se začne diktatura
+            Trdno sklenem, da se bom poboljšal, pomagaj mi s svojo milostjo. Amen
