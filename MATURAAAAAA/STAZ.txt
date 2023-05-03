@@ -1,0 +1,8 @@
+STAŽ NA UNIVERZI V GORICI (Ajdovščina, astrofizika)
+
+LIDAR teleskop:
+    bolj za vreme kot za zvezde
+    delovanje (2 različna laserja) --> velikost delcev (different wavelength), oddaljitev oblakov, sestava oblakov, veter, temperatura
+    Programiranje python - lidar files
+    "iteracijsko" urejevanje datotek
+    uporaba knjižnic
