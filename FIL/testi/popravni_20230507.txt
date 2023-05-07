@@ -1,0 +1,86 @@
+Kant, Fichte, Schelling, Hegel, Schopenhauer, Kierkegaard
+
+Kant:
+    spoznavanje, morala, mir
+    Za kanta je obdelava podatkov "jaz"
+
+    Kritika čistega uma:
+        Kritika empirizmu in racionalizmu - združi obe mišljenji
+        izkustvo + obdelava = spoznanje
+
+        Sodbe:
+            zgrajene iz subjekta in predikata
+            lahko so analitične/sintetične, apriorne/aposteriorne
+            Sintetične a posteriori:
+                po izkustvu, ko nekaj izkusimo
+            Sintetične a priori:
+                Ko obdelamo izkustvo in obdelujemo informacije
+            Analitične a priori:
+                Definicije
+
+        Kopernikanski spreobrat:
+            Um oblikuje predmete
+
+        Transcendentalna estetika:
+            Obstajata Čas in prostor, dve čisti intuiciji
+
+        Transcendentalna analitika:
+            Um spozna vse preko 12 čistih konceptov
+            se delijo na 4 apriorne skupine:
+                Količina in kakovost (statična)
+                Odnos in način (dinamična)
+
+        Transcendentalna dialektika:
+            Noumenon: kar pride v misli brez izkustva (religija)
+            Fenomen: Izkustvo in razmišljanje (znanost) --> bog ni znanost, ker ni fenomen
+
+    Kritika praktičnega uma:
+        Govori o morali
+        Morala ima praktičen cilj
+        Mi delamo nekaj, ker je samo posebej dobro
+
+        Morala mora biti:
+            Univerzalna: Apriorna / deluje po univerzalnih principih
+            Avtonomna: cilj morale je morala sama
+            Formalna: je vedno enaka
+
+    Kritika razsodne moči:
+        reflektirajoče sodbe:
+            Naša "reakcija"
+            Na vsakega od nas nekaj deluje drugače (npr. estetika)
+
+        Pojem sublimnega:
+            vzbuja čustva (vpliv romantike)
+
+    K večjemu miru:
+        Nasprotuje vojnam, ker zaradi vojn družba ne napreduje
+        s sporazumi cilja na dogovor in ekonomski tok med državami (to pripelje do združitve narodov)
+        9 členov:
+            Prvih 6 govori o predhodnjih kondicijah za mir
+            ostale pa govorijo o "Kaj je sploh mir"?
+
+            Država ni imetje
+            Ne smejo obstajati zavezništva
+            Države se ne smejo vmešati v politiko ostalih
+            Ne sme biti prekomernega nasilja
+
+            Ureditev mora biti republikanska
+            Tujec ni nasprotnik
+
+        Narava je garancija do miru
+        morala in politika morata sovpadati
+        Načela, ki rabi kralj morajo biti javna
+
+
+Fichte:
+    Noumenon je različen od kantovskega (Kant: ne moremo spoznati) (Fichte: noumenon lahko spoznano / jaz postavlja noumenon
+    Kant: jaz = spoznavanje; Fichte: Jaz = ustvarjanje
+    Duh je osnovni princip in ustvarja/misli in je stalno aktiven
+    3 principe ustvarjanja:
+        0) empirični jaz:
+            je tam, ampak se tega ne zavedamo
+        1) čisti/absolutni jaz:
+            Jaz postavlja samega sebe in se tega zaveda
+            jaz = jaz
+            Tathandlung se zavedaš jaza
+        2) Jaz gre v negacijo/naravo
