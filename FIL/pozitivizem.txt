@@ -206,7 +206,7 @@ KARL MARKS:
 
 
 MAX WEBER:
-    Bil nemški pogajalec leta 1919 za versaillesko pogodbo
+    Bil nemški pogajalec leta 1919 za Versailles-ko pogodbo
     Bil je filozof, ki je zastavil teorijo kapitalizma iz filozofskega vidika
     Kapitalizem spremeni vrednote
     uvedel je racionalizacijo v organizacijah:
@@ -227,7 +227,7 @@ MAX WEBER:
         - Racionalno legalna oblast:
             Dolžnosti so normirane
             So zakoni
-            Vladar je strog - mora upoštevati, da so pravila upoštevana
+            Vladar je strog - mora paziti, da so pravila upoštevana
         - Tradicionalna oblast:
             Vladar ima vso moč in podložniki, ki nimajo nobene moči
             Verjamem vladarju, ker je vladar
@@ -237,3 +237,34 @@ MAX WEBER:
     Sekularizacija:
         politična modernizacija
         Države prevzamejo vrednote, ki niso več verske
+
+
+Bergson:
+    Ima povezave z literaturo in likovno umetnostjo
+    Človek je notranjost
+        Vse zaznave človek predela in subjektivno doživlja
+    Razmišljanje o času:
+        Čas je subjektiven
+        uporablja pojmovanje časa iz znanosti in iz notranjosti
+        Kvantitativnost: 1min = 60s
+            Vsak trenutek je enak in pride za enim drugim
+            Homogenost: vsak trenutek je enak zadnjemu
+        pojmovanje časa iz notranjosti pomeni, da pojmujemo kvalitativno in ireverzibilno:
+            Vsak trenutek je edinstven in se ne bo nikoli ponovil
+            Heterogenost: vsak trenutek je različen od prejšnjega
+        sočasni obstoj preteklosti in sedanjosti:
+            V naši notranjosti lahko sobivajo preteklost, sodobnost in tudi prihodnost
+    Razmišlja o čustvih:
+        nižja:
+            Jeza, strah, gnus
+            Mi to doživljamo, ko gledamo druge - egoizem
+        Čustva na višjem nivoju:
+            sočutje
+            Čustva, ki ne gledajo samo na našo notranjost
+
+    Svoboda:
+        Svoboda je relativna:
+            Lahko gremo kamorkoli, ampak v notranjosti smo v zaporu
+            ali pa smo v zaporu, ampak v notranjosti smo svobodni
+
+    Percepcija deluje kot neki filter za notranjost
