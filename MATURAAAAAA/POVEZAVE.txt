@@ -15,3 +15,5 @@ Tone Seliškar [slo]                                     --> Verga (rosso malpel
 Miško Kranjec (Os življenja) [slo]                      --> Duma [slo]
 Prežihov [slo]                                          --> Koroški plebiscit [slo?]
 Bevk (Tolminci, izberejo ljudi, ki bodo usmrtili) [slo] --> Cankar (Gospod Stotnik izbira vojake, ki bodo umrli) [slo]
+Fichte (Nemški nacionalizem) [fil]                      --> Nemški nacionalizem [zgo]
+Schelling (1., 2. faza samo spoznavanja) [fil]          --> Podatek, Informacija [info]

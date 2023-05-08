@@ -76,11 +76,68 @@ Fichte:
     Noumenon je različen od kantovskega (Kant: ne moremo spoznati) (Fichte: noumenon lahko spoznano / jaz postavlja noumenon
     Kant: jaz = spoznavanje; Fichte: Jaz = ustvarjanje
     Duh je osnovni princip in ustvarja/misli in je stalno aktiven
+
     3 principe ustvarjanja:
         0) empirični jaz:
             je tam, ampak se tega ne zavedamo
         1) čisti/absolutni jaz:
-            Jaz postavlja samega sebe in se tega zaveda
-            jaz = jaz
-            Tathandlung se zavedaš jaza
-        2) Jaz gre v negacijo/naravo
+            Jaz se zaveda samega sebe, jaz postavlja jaz
+            Tathandlung: se zavedaš jaza
+        2) Jaz gre v negacijo/naravo:
+            Jaz postavlja ne-jaz (se zaveda ostalih stvari kot negacije jaza)
+            streben: jaz, ki teži k ne-jazu
+        3) končni/absolutni jaz:
+            Jaz in ne-jaz sobivata (dobimo skupne točke med jazom in ne-jazom)
+
+    Moralen človek je tisti, ki razmišlja
+    Nemčija je najboljši narod, ker največ ustvarja
+    Iščemo svobodo preko ustvarjanja, ampak je ne dobimo, ker je ustvarjanje (ne-jaz) neskončno
+
+
+Schelling:
+    Se osredotoči na naravo
+    spravi duh v predmetno obliko (absolutna sinteza): Duh je v naravi (panteizem)
+
+
+    3 faze samo spoznavanja:
+        1) senzacije: zaznamo stvar
+        2) refleksija: obdelujemo podatke
+        3) volja/ustvarjanje: ustvarjamo svet/delamo eksperimente
+
+
+
+Hegel:
+    se osredotoči na duh
+    spopad (za ideje in države)
+
+    Država:
+        je dovršitev kolektivnega duha
+        štafeta narodov
+        posameznik mora delati za narod
+
+    Filozofija duha:
+        Subjektivni:            Kar preučuje človeka
+        Objektivni/Kolektivni:  Kar rabi, da živimo v skupnosti
+            Abstraktno pravo: pravila in zakoni
+            Morala: obnašanje posameznikov
+            Etika: duh skupnosti (družina, civilna družba, država)
+        Absolutni: Ideja se vrne v samo sebe, ampak poboljšana
+
+Schopenhauer:
+    Naše gonilo je volja do življenja
+    Noumenon = volja
+
+    3 rešitve kozmičnemu pesimizmu:
+        Umetnost (kratkočasno)
+        Morala (kratkočasno)
+        Asheza (definitivno): se odrečemo željam, čustev, vsemu
+
+
+Kierkegaard:
+    Tesnoba zaradi izbir
+    obupamo, ker vemo, da nismo perfektna bitja
+
+    3 stopnje eksistence:
+        Aut Aut: nedoločnost
+        Etična: odločitev
+        Religiozna: slepa vera
