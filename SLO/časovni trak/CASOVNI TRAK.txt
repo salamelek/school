@@ -1431,45 +1431,6 @@
             prekmursko narečje
             Balada o trubenti in oblaku
 
-    Kocbek:
-        Postavljal si je vprašanja
-        Je bil mlad in brez družine
-        Vsi so morali izbrati ko je prišlo do vojne
-        Kocbek se torej sprašuje kaj biti
-
-        Začne kot pesnik
-        Zelo miselna in filozofska poezija
-        Najprej je ekspresijonist, potem pa eksistencialist
-        Izhaja iz kroga katoliških pesnikov
-        je katoliški socialist
-        Eden izmed osnovateljev osvobodilne fronte (27 apr 1941)
-            Osvobodilna fronta nastane kot upor zoper nacifašizmu
-            V tej fronti se zberejo komunisti, socialisti, katoliki
-            Večina teh tle je bilo umetnikov
-            Kocbek je eden od vodilnih
-        Ko zmaga komunistična partija je dokaj pomemben, a ko začne imet svoje ideje je pritisnjen v stran (malo kot voranc)
-        po vojni Časnikar in poklicni pisatelj
-        Ko pa začne gledati na vojno, ki jo je doživel, na drugačen način, se zaveda odločitev posameznikov
-            Ker mu pahor pomaga, Pahor ne sme v Jugoslavijo, Kocpek pa ne izven
-            Piše o voni na način, da se sprašuje o človekovih odločitvah v ključnih trenutkih (dvomi)
-            Ali je vse prav, kar delam? Moram slepo slediti ukazom? --> Nope (~cenzura)
-        Preide k eksistencializmu - je dosti bolj konkretno
-        Leta 34 izide zbirka Zemlja - spominja na Vlahe
-        Po vojni izide zbirka Groza (leta 63)
-        Leta 69 pa zbirka Poročilo
-            Ti dve sta zelo meditativni
-        Proza je eksitencialistična in se približa francoskemu eksistencializmu
-            smisel človekovega obstoja
-            Edini gotovosti sta smrti in rojstvo
-            Katoliški eksistencializem - kako človek zapolni čas med rodom in smrtjo?
-            Bu?
-            To poveže z življenskimi izkušnjami in 2. s.vojno --> zameri levici in desnici (Katoličanom in komunistom)
-            z zbirko Strah in pogum se sprašuje kaj je bilo prav in kaj narobe
-                Pogum je drugo lice strahu
-                Kje je meja med strahom in pogumom?
-                človek premaga dvome z akcijo - konkretnim dejanjem
-        Tovarišija:
-            ?
 
     Leto 1939:
         Totalna prepoved slovenskega jezika zaradi fašizma
@@ -1480,8 +1441,17 @@
         Književnost je "Enobeja"
         Nova italijanska meja je bila do ljubljane - imeli so bodečo žico
         taborišča Gonars in Rab
+        Veš poet svoj dolg - simbol lirike enobeja (župančič)
 
         Kajuh:
+            Karizatičen, se zgleduje po Cankarju
+            Dokaj uporniški
+            Piše že kot dijak - ga vržejo s šole
+            sodeluje s komunistično mladino - sledi Marksizmu
+            Mlad gre tudi k partizanom
+            Vodi kulturno brigado - postane eden glavnih pesnikov
+            Piše kratke udarniške pesmi, da bi spodbujal partizane
+            leta 43 pride do spospada z Nemci in umre - podobno Balantiču (tudi on umre v spopadu)
             Pisal lirike upora
             Sledi navodilom Otona Župančiča
             Župančič Napiše propagandne poezije:
@@ -1549,7 +1519,52 @@
 	- Dane Zajc
 	- Velo Taufer
 	- Gregor Staniša
-	^ ti avtorji so delno eksistencijalisti (tudi Edvard Kozbek, piše prej, je odrinjen od družbe)
+	^ ti avtorji so delno eksistencijalisti (tudi Edvard Kocbek, piše prej, je odrinjen od družbe)
+
+	Kocbek:
+        Postavljal si je vprašanja
+        Je bil mlad in brez družine
+        Vsi so morali izbrati ko je prišlo do vojne
+        Kocbek se torej sprašuje kaj biti
+        Dvomi o življenju, kaj je prav in kaj je zgrešeno
+        Edino gotovo je rojstvo in smrt
+
+        Začne kot pesnik
+        Zelo miselna in filozofska poezija
+        Najprej je ekspresijonist, potem pa eksistencialist
+        Izhaja iz kroga katoliških pesnikov
+        je katoliški socialist
+        Eden izmed osnovateljev osvobodilne fronte (27 apr 1941)
+            Osvobodilna fronta nastane kot upor zoper nacifašizmu
+            V tej fronti se zberejo komunisti, socialisti, katoliki
+            Večina teh tle je bilo umetnikov
+            Kocbek je eden od vodilnih
+        Ko zmaga komunistična partija je dokaj pomemben, a ko začne imet svoje ideje je pritisnjen v stran (malo kot voranc)
+        po vojni Časnikar in poklicni pisatelj
+        Ko pa začne gledati na vojno, ki jo je doživel, na drugačen način, se zaveda odločitev posameznikov
+            Ker mu pahor pomaga, Pahor ne sme v Jugoslavijo, Kocpek pa ne izven
+            Piše o voni na način, da se sprašuje o človekovih odločitvah v ključnih trenutkih (dvomi)
+            Ali je vse prav, kar delam? Moram slepo slediti ukazom? --> Nope (~cenzura)
+        Preide k eksistencializmu - je dosti bolj konkretno
+        Leta 34 izide zbirka Zemlja - spominja na Vlahe
+        Po vojni izide zbirka Groza (leta 63)
+        Leta 69 pa zbirka Poročilo
+            Ti dve sta zelo meditativni
+        Proza je eksitencialistična in se približa francoskemu eksistencializmu
+            smisel človekovega obstoja
+            Edini gotovosti sta smrti in rojstvo
+            Katoliški eksistencializem - kako človek zapolni čas med rodom in smrtjo?
+            Bu?
+            To poveže z življenskimi izkušnjami in 2. s.vojno --> zameri levici in desnici (Katoličanom in komunistom)
+            z zbirko Strah in pogum se sprašuje kaj je bilo prav in kaj narobe
+                Pogum je drugo lice strahu
+                Kje je meja med strahom in pogumom?
+                človek premaga dvome z akcijo - konkretnim dejanjem
+        Tovarišija:
+            Berljiva knjiga ker opisuje dogodke
+            Nima težav s cenzuro, ker opisuje dogodke
+        Strah in pogum:
+            Oblast je tipo ,':|
 
 
 -1966-1972 --> POST MODERNIZEM / neo avandgarda:
