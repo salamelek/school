@@ -20,6 +20,9 @@ Schelling (1., 2. faza samo spoznavanja) [fil]          --> Podatek, Informacija
 Demokracija [drž]                                       --> Gramsci [ita]
 Gramsci [ita]                                           --> Parazitizem [nar]
 Kajuh [slo]                                             --> Balantič [slo] (obeh ustrelijo)
-Kajetan Kovič - roboti [slo]                            --> Industializacija, tehnologija, robotika [nar, zgo, mat]
+Kajetan Kovič - roboti [slo]                            --> Industrializacija, tehnologija, robotika [nar, zgo, mat]
 Menart croquis [slo]                                    --> Absint [lik]
-Bartol - Alamut [slo]                                   --> Nietche, dvojška (2001) [fil, zgo]
+Bartol - Almut [slo]                                   --> Nietzsche, dvojčka (2001) [fil, zgo]
+Leopardi (solitudine) [ita]                             --> Pavese [ita]
+Saba (figura della madre) [ita]                         --> Pavese (figura della madre) [ita]
+ANG otroci, ki bežijo pred bombami na podeželje [zgo]   --> Narnia, Tolkien [buh]
