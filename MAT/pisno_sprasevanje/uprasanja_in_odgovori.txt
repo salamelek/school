@@ -1,0 +1,182 @@
+VPRASANJA IN (moji) ODGOVORI NA TEST
+
+1. Funkcija. Definicijsko območje funkcije. Zaloga vrednosti funkcije.
+
+2. Koordinatni sistem. Graf funkcije.
+
+3. Kompozitum funkcij.
+
+4. Injektivne, surjektivne, bijektivne funkcije. Inverzna funkcija
+
+5. Naraščajoče/padajoče funkcije. Ekstremi (relativni in absolutni).
+
+6. Sode/lihe funkcije.
+
+7. Periodične funkcije.
+
+8. Okolica. Stekališče. Izolirana točka.
+
+9. Limita. Desna in leva limita. Končna in neskončna limita v točki in v neskončnosti.
+
+10. Limita vsote, produkta, kvocienta.
+
+11. Limita kompozituma (limita funkcije oblike f(x)^g(x)).
+
+12. Izreki o limitah (izrek o enoličnosti limite, izrek o ohranitvi predznaka, izrek o primerjavi/karabinjerjih/sendviču ).
+
+13. Zvezne funkcije. Vrste nezveznosti.
+
+14. Izreki o funkcijah, zveznih na zaprtem in omejenem intervalu (izrek o obstoju ničel, izrek o vmesnih vrednostih, Weierstrassov izrek).
+
+15. Bisekcija.
+
+16. Nedoločene oblike limit: vrste in strategije odpravljanja nedoločenih oblik.
+
+17. Število e.
+
+18. Asimptote. Vrste asimptot.
+
+19. Definicija in geometrijski pomen diferenčnega količnika.
+
+20. Definicija in geometrijski pomen odvoda (stacionarne točke).
+
+21. Desni in levi odvod.
+
+22. Zveza med zveznostjo in odvedljivostjo funkcije. Primeri: kuspida, koleno, prevoj z navpično tangento.
+
+23. Odvod vsote, produkta, količnika dveh funkcij.
+
+24. Odvod inverzne funkcije. Geometrijski “dokaz”.
+
+25. Logaritemski odvod
+
+26. Diferencial. Definicija in geometrijski pomen diferenciala.
+
+27. Uporaba diferenciala za računanje približkov.
+
+28. Enačba tangente in normale na krivuljo v njeni točki in v splošni točki
+
+29. Kot med krivuljama (poseben primer: tangentni in pravokotni krivulji)
+
+30. Hitrost in pospešek pri premem gibanju.
+
+31. Rollov izrek (tudi geom. pomen)
+
+32. Lagrengev izrek (geom. pomen, posledice)
+
+33. Cauchyjev izrek
+
+34. L’Hospitalovo pravilo za računanje limit nedoločenih oblik
+
+35. Monotonost krivulje v točki in v intervalu (povezava s prvim odvodom ekstremi)
+
+36. Postopek za reševanje ekstremalnih problemov
+
+37. Definicija konkavnosti v točki in v intervalu, definicija in vrste prevoja
+
+38. Konkavnost krivulje v točki in v intervalu (povezava z drugim odvodom prevoji)
+
+39. Postopek za študij funkcije in uporaba študija funkcije (grafično reševanje enačb in neenačb, diskusija števila rešitev enačbe v odvisnosti od parametra)
+
+40. Povezava med grafom funkcije in grafom njenega odvoda
+
+41. Vzporedni premik, središčni razteg, zrcaljenje grafa funkcije f(x)
+
+42. Iz dane funkcije izpeljati graf: absolutne vrednosti (v vseh variantah), obratne funkcije, kvadratne funkcije, kvadratnega korena funkcije, logaritemske funkcije, eksponentne funkcije
+
+43. Definicija primitivne funkcije in nedoločenega integrala
+
+44. Lastnosti nedoločenega integrala
+
+45. Integriranje s pomožno spremenljivko
+
+46. Integriranje per partes
+
+47. Definicija določenega integrala = limitna vrednost spodnjih in zgornjih vsot...
+
+48. Lastnosti določenega integrala
+
+49. Izrek o srednji vrednosti
+
+50. “Integralna funkcija”. Osnovni izrek integralnega računa (Torricelli- Barrow, 17. stol.)
+
+51. Newton-Leibnizova formula za računanje določenega integrala
+
+52. Ploščina krivočrtnih likov
+
+53. Prostornina vrteninskih teles
+
+54. Posplošeni integral
+
+
+
+
+IZ PREJŠNJIH LET
+
+55. Potenčna funkcija. Graf in lastnosti.
+
+56. Linearna funkcija. Graf in lastnosti.
+
+57. Kvadratna funkcija. Graf in lastnosti.
+
+58. Eksponentna funkcija. Graf in lastnosti.
+
+59. Logaritem. Definicija. Računanje z logaritmi.
+
+60. Logaritemska funkcija. Graf in lastnosti.
+
+61. Trigonometrična funkcija sinus. Definicija, graf in lastnosti.
+
+62. Trigonometrična funkcija kosinus. Definicija, graf in lastnosti.
+
+63. Trigonometrična funkcija tangens. Definicija, graf in lastnosti.
+
+64. Krožna funkcija arkus sinus. Definicija in graf (lastnosti).
+
+65. Krožna funkcija arkus kosinus. Definicija in graf (lastnosti).
+
+66. Krožna funkcija arkus tangens. Definicija in graf (lastnosti).
+
+67. Iracionalna funkcija. Graf in lastnosti.
+
+68. Razreševanje pravokotnega trikotnika.
+
+69. Razreševanje splošnega trikotnika.
+    splošni trikotnik razrešujemo s pomočjo kotnih funkciji.
+    izrek o tetivah: b = c * cos(alfa) + a * cos(gama)
+    kosinusni izrek: c^2 = a^2 + b^2 -2ab * cos(gama)
+
+
+70. Krožnica.
+    Krožnica je poseben primer elipse, kjer sta fokusa na isti točki. Krožnico predstavlja množica točk, ki so enako oddaljene od središča. Oddaljenost točk do središča je polmer krožnice. Formula je x^2 + y^2 = r^2, kjer r je polmer. Če središče krožnice je točka (a, b), potem je formula krožžnice (x-a)^2 + (y-b)^2 = r^2.
+    TODO se lahko doda se formule ploscine, obsega, kako je pitagora izracunal pi
+
+71. Elipsa.
+    Elipsa ima formulo x^2/a^2 + y^2/b^2 = 1. Če a > b, imamo "ležečo" elipso, če pa a < b imamo "pokončno" elipso. Elipsa je simetrična glede na osi koord. sistema in na izhodišče. jo omejuje pravokotnik s stranicami 2a in 2b.
+    TODO fokusi
+
+72. Hiperbola.
+    TODO kaj je sploh hiperbola
+
+73. Enakoosna hiperbola.
+    TODO kaj je sploh hiperbola
+
+74. Rotirana hiperbola.
+    Ima funkcijo xy = k, oz. y=k/x. Ima nezveznost 2. vrste "skok v neskončnost" v x=0. Asimptote so osi koordinatnega sistema. Graf funkcije je lih, ker se zrcači skozi središče. Seveda temu sledi, da je integral te funkcije 0. Če pa pogledamo le integral v 1. kvadrantu, lahko vidimo, da ne konvergira in gre v neskončnost. TODO Kaj je sploh hiperbola
+
+75. Izreki o skladnosti in podobnosti trikotnikov.
+    Imeti moramo 3 "stvari", ki se ujemajo v dveh trikotnikih, da sta podobna. Lahko izbiramo med koti in razmerjem med stranicami. Lahko so vsi koti isti, lahko so vsa razmerja ista, lahkko tudi imamo dve razmerji isti in nasprotni kot ali pa dva kota in vmesno stranico. Če pa hočemo imeti skladen trikotnik, moramo imeti podoben trikotnik, ki ima iste dolžine stranic. Skladen trikotnik je kopja že obstoječega trikotnika. lahko ga premikamo po prostoru: ga lahko obračamo, zrcalimo skozi točko ali stranico, ali pa premikamo z vektorjem. FIXME nimam pojma kateri so effettivamente izreki
+
+76. Izrek o obodnem in središčnem kotu (obodni kot je enak polovici središčnega kota nad istim lokom).
+    Imamo 2 točki A in B na krožnici. Kot ACB (bodi C poljubna točka na krožnici, ki ni med A in B) bo vedno polovica kota AOC (bodi O središče krožnice). Iz tega izpeljemo, da je katerikoli trikotnik z osnovnico, ki je premer kroga in točko na krožnici tega kroga, pravokoten.
+
+77. Evklidova izreka in Pitagorov izrek.
+    Pitagorov izrek pravi, da v pravokotnem trikotniku, kjer se kateti imenujeta a in b in se hipotenuza imenuje c, velja sledeče: a^2 + b^2 = c^2.
+    1. Evklidov izrek pravi, da v pravokotnem trikotniku, kjer se kateti imenujeta a in b in se hipotenuza imenuje c, velja sledeče: TODO
+    2. Evklidov izrek pravi, da v pravokotnem trikotniku, kjer se kateti imenujeta a in b in se hipotenuza imenuje c, velja sledeče: TODO
+
+78. Obrazci za ploščine likov.
+    Ploščino likov dobimo na različne načine: Za splošne n-kotnike, razdelimo n-kotnik na trikotnike in nato seštejemo ploščino dobljenih trikotnikov. Ploščino trikotnika dobimo s tem, delimo zmnožek osnovnice in višine na osnovnico z 2. Za izračun ploščine krivih likov, kot je krožnica, moramo uporabiti podobno strategijo kot za splošne n-kotnike: razdelimo lik na trikotnike. Če razdelimo krog na n število "rezin" in znamo izračunati ploščino teh rezin glede na n, potem lahko enostavno postavimo to enačbo v limito za n->neskončno
+
+79. Obrazci za površine in prostornine teles.
+    Površina telesa se izračuna s tem, da seštejemo vse ploščine posameznih ploskev telesa. Pri prizmah to zgleda kot 2*osnovna ploskev + plašč. Za primere, ki vsebujejo kroge, lahko upoštevamo "podobni" n-kotnik, ki za število n stranic, ki gre v neskončnost, dobimo krog. Za te primere torej lahko izpeljemo površino ali prostornino za splošen n-kotnik in postavimo formulo v limito za n->neskončno. Pomagamo si lahko z Cavaljerjevim načelom, ki pravi, da če imajo vsi (vzporedni med sabo) preseki nekih teles isto površino, imata telesi isto prostornino. Za primere teles, ki so "sestavljena" ali "presekana", moramo/lahko upoštevamo prostornino kot vsoto/razliko prostornine dveh teles. Poleg tega pa seveda lahko uporabimo tudi integrale.
