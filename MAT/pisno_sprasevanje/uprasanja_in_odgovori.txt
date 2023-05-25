@@ -114,16 +114,22 @@ VPRASANJA IN (moji) ODGOVORI NA TEST
 IZ PREJŠNJIH LET
 
 55. Potenčna funkcija. Graf in lastnosti.
+    TODO obvious
 
 56. Linearna funkcija. Graf in lastnosti.
+    TODO obvious
 
 57. Kvadratna funkcija. Graf in lastnosti.
+    TODO obvious
 
 58. Eksponentna funkcija. Graf in lastnosti.
+    TODO obvious
 
 59. Logaritem. Definicija. Računanje z logaritmi.
+    TODO obvious
 
 60. Logaritemska funkcija. Graf in lastnosti.
+    TODO obvious
 
 61. Trigonometrična funkcija sinus. Definicija, graf in lastnosti.
 
@@ -139,23 +145,27 @@ IZ PREJŠNJIH LET
 
 67. Iracionalna funkcija. Graf in lastnosti.
 
+
 68. Razreševanje pravokotnega trikotnika.
+    Pravokotni trikotnik oklepa pol-krožnica. Za razreševanje pravokotnega trikotnika lahko uporabimo Pitagorov izrek ali pa trigonometrijo: a = sin(alfa) * c, a = cos(beta) * c, tan(alfa) = a / b
 
 69. Razreševanje splošnega trikotnika.
     splošni trikotnik razrešujemo s pomočjo kotnih funkciji.
     izrek o tetivah: b = c * cos(alfa) + a * cos(gama)
     kosinusni izrek: c^2 = a^2 + b^2 -2ab * cos(gama)
+    sinusni izrek: a / sin(alfa) = b / sin(beta) = c / sin(gama)
 
 
 70. Krožnica.
     Krožnica je poseben primer elipse, kjer sta fokusa na isti točki. Krožnico predstavlja množica točk, ki so enako oddaljene od središča. Oddaljenost točk do središča je polmer krožnice. Formula je x^2 + y^2 = r^2, kjer r je polmer. Če središče krožnice je točka (a, b), potem je formula krožžnice (x-a)^2 + (y-b)^2 = r^2.
-    TODO se lahko doda se formule ploscine, obsega, kako je pitagora izracunal pi
+    TODO se lahko doda se formule ploščine, obsega, kako je pitagora izracunal pi
 
 71. Elipsa.
     Elipsa ima formulo x^2/a^2 + y^2/b^2 = 1. Če a > b, imamo "ležečo" elipso, če pa a < b imamo "pokončno" elipso. Elipsa je simetrična glede na osi koord. sistema in na izhodišče. jo omejuje pravokotnik s stranicami 2a in 2b.
     TODO fokusi
 
 72. Hiperbola.
+    Hip. ima funkcijo x^2 / a^2 - y^2 / b^2 = 1. Ima dve asimptoti s formulo y = bx/a. se deli na splošno, enakoosno in rotirano. Ima dva fokusa, ki se dobita, ko "prevrnemo" hipotenuzo pravokotnika na os x. (glej sliko rajsi)
     TODO kaj je sploh hiperbola
 
 73. Enakoosna hiperbola.
