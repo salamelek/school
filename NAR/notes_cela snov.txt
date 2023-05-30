@@ -1,0 +1,117 @@
+IMUNOLOGIJA
+    https://www.youtube.com/watch?v=fSEFXl2XQpc
+    imamo specifično in nespecifično obrambo
+    Ko pride do tujke, celice sprostijo histamin > se širijo žile > pride več krvi > makrofagi pojejo in predstavijo antigene celicam T, celice T predstavijo celicam B, ki sproščajo protitelesa in celice B spominske se spomnejo ta antigen. Protitelesa privlačujejo makrofaga, da to celico pojejo
+
+MITOZA / MEJOZA:
+    https://www.youtube.com/watch?v=zrKdz93WlVk
+
+    ustvarjajo nove celice
+    za oba tipa, so celice diploidne (imajo 46 kromosomov)
+    v interfazi se kromosomi podvoijo
+
+
+    Mitoza:
+        v profazi se kromosomi večajo / ustvarijo iz lebdečega DNA
+        v metafazi se kromosomi razvrstijo v ravno črto
+        anafaza - kromosomi so razdeljeni na 2
+        v telofazi se kromosomi zberejo na straneh celice
+        v citokinezi se celica razdeli
+
+    Mejoza:
+        v profazi se kromosomi razvrstijo po velikosti in tipih genov (po homolognih parih)
+            Vsak par kromosomov ima 1 kromosom očeta in 1 kromosom matere --> crossing over - rekombinanta kromosomov
+            med crossing over se lahko geni zamenjajo
+
+        v metafazi se pari kromosomov razvrstijo v črto (po parih)
+        v anafazi so kromosomi razdeljeni na 2
+        v telofazi se kromosomi zberejo na straneh celice
+        v citokinezi se celica razdeli
+
+        profaza2 - kromosomi se kondenzirajo
+        metafaza2 - kromosomi se razdelijo v črto
+        anafaza2 - kromatidi so staknjeni
+        telofaza2 - kromatidi se nakopičijo na dveh straneh celice
+        citokineza2 - celici se razdelita -- dobimo 4 različne celice --> so haploidi - imajo 23 kromosomov
+
+
+
+
+ALELI IN GENI:
+    https://www.youtube.com/watch?v=pv3Kj0UjiLE
+
+
+DNA in RNA
+    https://www.youtube.com/watch?v=JQByjprj_mA
+
+    dna je v jedru pri eukariontih, rna povsod
+    nukleotidne kisline - iz fosfata, sladkorja in baze
+    baze v DNA so CG in AT
+    baze v RNA so CG in AU
+    3 različni RNA:
+        mRNA prinaša informacije do ribosoma (da naredi protein)
+        rRNA so sestavni del za ribosom
+        tRNA je v ribosomu in "prebere" mRNA - ustvari peptidno verigo
+
+
+RZAMNOŽEVANJE DNA
+    https://www.youtube.com/watch?v=Qqe4thU-os8
+
+    se zgodi v interfazi
+
+    Helikaza: loči baze DNA s tem, da prekine vodikove vezi
+    Polimeraza: ustvari nov dna
+    Primaza: ustvari primer, na katerega se veže polimeraza
+    Ligaza: zlepi DNA skupaj
+
+
+DNA, Kromozomi, Geni:
+    https://www.youtube.com/watch?v=8m6hHRlKwxY
+
+    Geni so del DNA, ki odgovarjajo določenemu proteinu
+    Geni se kompaktirajo v kromosome
+
+
+Geni in Aleli:
+    https://www.youtube.com/watch?v=pv3Kj0UjiLE
+    https://www.youtube.com/watch?v=9O5JQqlngFY
+
+    Aleli so možne variante gena v kromosomu
+    Genotip je TT ali Tt ali tt
+    Fenotip je osebek z določenim genotipom
+
+    kri je dober primer za alele
+    obstajajo fenotipi A, B, AB in 0
+    potem je še rh+ ali rh-
+    Če imamo fenotip tipa A, je lahko genotip IA IA ali IA i
+    torej če imamo dva starša fenotipa IA i, imamo lahko sina z genotipom ii -> fenotip 0
+
+    en gamet ima EN alel za vsak gen
+
+
+PCR:
+    https://www.youtube.com/watch?v=a5jmdh9AnS4
+
+    se rabi za ustvariti kopje delov DNA
+
+
+
+https://www.youtube.com/watch?v=jLmoJPxihjA
+https://www.youtube.com/watch?v=h_1QLdtF8d0
+https://www.youtube.com/watch?v=wNe6RuK0FfA
+https://www.youtube.com/watch?v=6EDBlowVST0
+https://www.youtube.com/watch?v=a5jmdh9AnS4
+https://www.youtube.com/watch?v=LsEYgwuP6ko
+https://www.youtube.com/watch?v=vl6Vlf2thvI
+https://www.youtube.com/watch?v=23ZzI6WZS28
+https://www.youtube.com/watch?v=7NY6XdPBhxo
+https://www.youtube.com/watch?v=eJ9Zjc-jdys
+https://www.youtube.com/watch?v=CMiPYHNNg28
+https://www.youtube.com/watch?v=YO244P1e9QM
+https://www.youtube.com/watch?v=t3g26p9Mh_k
+https://www.youtube.com/watch?v=W0TM4LQmoZY
+https://www.youtube.com/watch?v=ZDZUAleWX78
+https://www.youtube.com/watch?v=oefAI2x2CQM
+https://www.youtube.com/watch?v=QVCjdNxJreE
+https://www.youtube.com/watch?v=-dbRterutHY
+https://www.youtube.com/watch?v=hok2hyED9go
