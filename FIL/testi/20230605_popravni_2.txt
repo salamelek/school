@@ -116,4 +116,4 @@ Kierkegaard:
     3 stopnje eksistence:
         Aut Aut: Neodločnost (estet)
         Etična: Se odločimo (sodnik)
-        Religiozna: Slepa vera (izak)
+        Religiozna: Slepa vera (Izak)
