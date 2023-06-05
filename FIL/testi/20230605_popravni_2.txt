@@ -72,10 +72,48 @@ Hegel:
     - spopad
     - država
 
+    Ideja sama v sebi
+    Ideja gre v naravo
+    Ideja se vrne v idejo samo
+
+    Lik sužnja in gospodarja:
+        je treba tvegati, da se povzdignemo
+        > Spopad je bistven
+
+    Zgodovina - štafeta duha
+
+    Subjektivni duh: razmišljanje o človeku (filozofija, psihologija)
+    Objektivni duh: razmišljanje o skupnem življenju (morala, etika)
+        Abstraktno pravo: pravila in zakoni
+        Morala: obnašanje posameznikov
+        Etika: duh skupnosti (družina, družba, država)
+    Absolutni duh: umetnost in vera
+
+    Država - koncept naroda
+    Proti liberalizmu (ker posameznik mora delati za državo) in absolutizmu
+    Družba mora biti organizirana po slojih
+    izvršilna, zakonodajna in vladarska oblast
 
 
 
 Schopenhauer:
+    - kozmični pesimizem
+
+    Vsi imamo gonilo
+    Vsi so v konstantni bolečini
+
+    Umetnost: kratkočasna
+    Morala: (sočutje) kratkočasna
+    Asheza: definitivna (se odpovemo vsem)
 
 
 Kierkegaard:
+    - Ne odločitev
+    - Tesnoba
+
+    Ker človek mora konstantno delati izbire, je v konstantni tesnobi
+
+    3 stopnje eksistence:
+        Aut Aut: Neodločnost (estet)
+        Etična: Se odločimo (sodnik)
+        Religiozna: Slepa vera (izak)
