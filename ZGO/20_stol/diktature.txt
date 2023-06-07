@@ -14,13 +14,13 @@ Izjeme so tiste države, ki so bile demokratične že pred vojno (Francija, Angl
 
 Ljudska fronta:
     Stranke (levičarske) se povežejo proti diktatorialnim ureditvah
-    Te ljudske fronte nastanejo vedno preveč pozno in ne utegnejo nikoli zaustaviti diktatirialnega režima
+    Te ljudske fronte nastanejo vedno preveč pozno in ne utegnejo nikoli zaustaviti diktatorialnega režima
 
 Diktatura:
     Kaj je diktatura?
         Je režim, kjer si posameznik ali skupina ljudi lasti oblast
         teh ni mogoče zamenjati na demokratični način
-        Diktator ima v rokah izvršilno, vsodno in zakonodajno
+        Diktator ima v rokah izvršilno, sodno in zakonodajno oblast
         ima represivne aparate (posebna policija + vojaki)
         cenzura (nadzor nad mediji + propaganda)
         ideologija:
@@ -31,13 +31,13 @@ Diktatura:
         razlika je v odnosu med posameznikom in državo
 
         Avtoritarna:
-            V Španji, Jugoslaviji, Madžarskem
+            V Španiji, Jugoslaviji, Madžarskem
             Diktatura ne seže v zasebnost posameznikov razen če se ti ne uprejo oblasti
 
 
         Totalitarna:
             Nacizem, Fašizem, Na japonskem
-            Država kontrolira vse vidike posameznikovega življenja in vsemerja razmišljanje in ravnanje
+            Država kontrolira vse vidike posameznikovega življenja in usmerja razmišljanje in ravnanje
 
     Zakaj nastanejo diktature?
         Zaradi nezadovoljstva po svetovni vojni:
