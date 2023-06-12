@@ -25,7 +25,7 @@ Psihoanaliza, Sigmund Freud:
 SLOVENŠČINA
 
 Slovenska moderna:
-    Kette (Na trgu, Na molu san Carlo, Adrija, Na otčevem grobu, Moj Bog, Melanholične misli);
+    Kette (Na trgu, Na molu san Carlo, Adrija, Na očetovem grobu, Moj Bog, Melanholične misli);
     Murn (Ko dobrave se mrače, Ah, ti bori, Trenutek, Pesem o ajdi, Vlahi);
     Oton Župančič (interpretacija poezij iz posameznih literarnih zbirk, Ti skrivnostni moj cvet, Manom Josipa Murna Aleksandrova, Z vlakom, Duma, Žebljarska, Kovaška, Veš, poet, svoj dolg);
     Ivan Cankar (življenje in delo, ponovitev posameznih najpomembnejših del, V bogatih kočijah se vozijo, Epilog, Hiša Marije Pomočnice, Na klancu, Martin Kačur, Hlapec Jernej, Kostanj posebne sorte, Gospod stotnik, dramska besedila, predavanja).
@@ -46,7 +46,7 @@ Književnost med vojnama na Slovenskem (ekspresionizem, socialni realizem, konst
     Edvard Kocbek (Strah in pogum);
     Vladimir Bartol (Alamut).
 
-Literatura v času II. svet. vojne:
+Literatura v času II. svet. Vojne:
     zgodovinski okvir;
     Kajuh (Naša pesem, Samo en cvet, Materi padlega partizana, Bosa pojdiva, dekle, obsorej, Slovenska pesem);
     Balantič (Večer je rdeč, Agonija ljubezni, Jaz sem smrti pijan).
@@ -96,7 +96,7 @@ NARAVOSLOVJE
 
 EKOLOGIJA
     Predmet proučevanja ekologije.
-    Biom, vrsta, populacija, ekosistem, habitat, ekološka niša..
+    Biom, vrsta, populacija, ekosistem, habitat, ekološka niša...
     Medvrstni odnosi. Pretok energije in kroženje snovi v ekosistemu.
     Fotoavtotrofi in kemoavtotrofi organizmi, dolžina prehranjevalne verige.
     Varstvo okolja in narave: Obnovljivi in neobnovljivi viri energije, onesnaževanje, množična izumiranja, učinek tople grede, ozonska luknja.
@@ -118,7 +118,7 @@ PRESNOVNI PROCESI
     Pretvarjanje svetlobne energije v kemijsko energijo; delovanje fotosistemov I in II, svetlobna in temotna faza fotosinteze, uporaba glukoze v rastlinah, rastline C3 in C4, evolucija fotosinteze in celičnega dihanja.
 
 KLASIČNA GENETIKA
-    Gregor Mendel: zakon o dominanci, ločitvi in neodvisnosti dednih znakov, dedovanje dveh lastnosti..
+    Gregor Mendel: zakon o dominanci, ločitvi in neodvisnosti dednih znakov, dedovanje dveh lastnosti...
     Klasična genetika po Mendlu: nepopolna dominanca, kodominanca, multipla alelija, poligenska dednost.
     Kromosomska teorija o dednosti.
     Kromosomsko določanje spola.
@@ -205,7 +205,7 @@ I romanzi: Il fu Mattia Pascal (Adriano Meis e la sua ombra, Pascal porta i fior
 Il teatro: Sei personaggi in cerca d’autore (Finzione o realtà), Enrico IV (La vita, la maschera, la pazzia)
 
 8) Quadro storico: l’affermazione del fascismo e delle leggi razziali
-Intellettuali fascisti ed antifascisti (Gentile, Croce, Gramsci, Gobetti).
+Intellettuali fascisti e antifascisti (Gentile, Croce, Gramsci, Gobetti).
 Gli sloveni e la dittatura fascista
 Giornata della memoria - La Shoah: vivere e morire nei campi di concentramento.
 Il processo ad Adolf Eichmann.
@@ -231,7 +231,7 @@ Il capolavoro: La coscienza di Zeno (Lo schiaffo del padre, La proposta di matri
 12) La poesia nella prima metà del Novecento
 Giuseppe Ungaretti e L'allegria (In memoria, Il porto sepolto, Fratelli, Veglia, I fiumi, San Martino del Carso, Mattina, Soldati, Commiato)
 
-Umberto Saba e Il Canzoniere (A mia moglie, Trieste, Città vecchia, Amai, Ulisse,, Mio padre è stato per me l’assassino)
+Umberto Saba e Il Canzoniere (A mia moglie, Trieste, Città vecchia, Amai, Ulisse, Mio padre è stato per me l’assassino)
 Eugenio Montale e la poetica dell'oggetto (I limoni, Spesso il male di vivere ho incontrato, Meriggiare pallido e assorto, Non chiederci la parola, Caro piccolo insetto, Ho sceso, dandoti il braccio, almeno un milione di scale)
 
 13) Dal dopoguerra ai giorni nostri
