@@ -30,11 +30,12 @@ Visconte dimezzato (Calvino) [ita]                      --> Dr Jekyll & mister H
 Mesto v zalivu [slo]                                    --> Lepa vida [Slo]
 Kocbek [slo]                                            --> Pahor [slo]
 Pahor [slo]                                             --> Primo Levi [ita]
-Ljubka šorli [slo]                                      --> Lojze bratuž + karkoli II. s.v. [slo, zgo]
+Ljubka Šorli [slo]                                      --> Lojze Bratuž + karkoli II. s.v. [slo, zgo]
 Ivan Prijatelj [slo]                                    --> Murn (uredi Murnove poezije) [slo]
-Gradnik (čutil vez do puntarjev)                        --> Pregelj (matkova tina) [slo]
-Schopenhaur [fil]                                       --> Leopardi, Svevo (pessimismo cosmico) [ita]
+Gradnik (čutil vez do puntarjev)                        --> Pregelj (Matkova tina) [slo]
+Schopenhauer [fil]                                       --> Leopardi, Svevo (pessimismo cosmico) [ita]
 Freud [fil]                                             --> Svevo, Saba [ita]
+smrt [slo - vsi slovenski avtorji]                      --> smrt organizma [nar]
 
 Kette:
     Murn (kette je pozitivno usmerjen, harmoničen in je uporniški; murn pa popolnoma obratno: pesimist, pesnik disonance in ne-karizmatičen)
@@ -42,13 +43,13 @@ Kette:
     Cankar (Cankar je ostro kritiziral Aškarca, ki je napisal uvod Kettejevih zbirk)
     Pascoli (Ketteja izključijo iz LJ gimnazije, ker je bil uporniški; Pascoli viene cacciato dall'universita per via delle proteste)
     Saba (Kette gre v trst nekaj časa; Saba e affezionato al territorio Triestino)
-    Corazzini (Oba umreta za tuberkolozo v prbl. istem obdobju)
+    Corazzini (Oba umreta za tuberkulozo v prbl. Istem obdobju)
     Tuberkuloza - bakterije - imunski sistem (jo povzročijo aerobne bakterije; kette umre)
     La fontana malata (poezija na trgu ima vodnjak, ki ga opisuje z aliteracijami in robe varie - podobno kot corazzini; v obeh primerih se avtor poosebi v vodnjak)
     Trst - Saba (Na molu san carlo)
     D'annunzio - Maria Ferres / Elena Mutti (Adrija - 4. sonet Kette primerja Žensko angel in žensko hudič)
-    Il fu mattia pascal - gre obiskati svoj grob (Na otčevem grobu - obišče grob)
-    Naravoslovje - razgrajevalci + prehranjevalna veriga (Na otčevem grobu)
+    Il fu mattia pascal - gre obiskati svoj grob (Na očetovem grobu - obišče grob)
+    Naravoslovje - razgrajevalci + prehranjevalna veriga (Na očetovem grobu)
 
 Murn:
     Ajda - Ne povzroča težav tistim, ki imajo celiakijo (intolleranza al glutine)
