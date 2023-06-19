@@ -1,306 +1,299 @@
 FILOZOFIJA
+    Razsvetljenstvo:
+        Immanuel Kant: teorija uma; vrste sodb; trascendentalna logika; trascendentalna estetika; “Jaz mislim”; trascendentalna dialektika; morala; “K večnemu miru”
 
-Razsvetljenstvo:
-    Immanuel Kant: teorija uma; vrste sodb; trascendentalna logika; trascendentalna estetika; “Jaz mislim”; trascendentalna dialektika; morala; “K večnemu miru”
+    Idealizem:
+        Johann Gottlieb Fichte: koncept Jaz-a, Čisti Jaz, Empirični Jaz, Jaz in ne-Jaz, Višji - Končni Jaz; “tathandlung”; ”streben”; Govori nemškemu narodu
+        Friedrich Schelling: koncept absolutnega; filozofija narave; transcendentalni idealizem
+        Georg Wilhelm Friedrich Hegel: izhodišče Heglovega idealizma - končno se razreši v neskončno in racionalnost realnosti; dialektika kot zakonitost mišljenja, narave in zgodovine; pomen spora; država
 
-Idealizem:
-    Johann Gottlieb Fichte: koncept Jaz-a, Čisti Jaz, Empirični Jaz, Jaz in ne-Jaz, Višji - Končni Jaz; “tathandlung”; ”streben”; Govori nemškemu narodu
-    Friedrich Schelling: koncept absolutnega; filozofija narave; transcendentalni idealizem
-    Georg Wilhelm Friedrich Hegel: izhodišče Heglovega idealizma - končno se razreši v neskončno in racionalnost realnosti; dialektika kot zakonitost mišljenja, narave in zgodovine; pomen spora; država
+    Iracionalizem:
+        Arthur Schopenhauer: svet kot predstava; svet kot volja; človek in trpljenje; kozmični pesimizem; izhodi iz trpljenja Soren Kierkegaard: predhodnik eksistencializma; stadiji eksistence: estetsko, etično in religijozno življenje
+        Friedrich Wilhelm Nietzsche: apolinični in dionizični duh; kritika krščanske morale, prevrednotenje vrednot; konec metafizičnih iluzij; nadčlovek; večno vračanje istega
 
-Iracionalizem:
-    Arthur Schopenhauer: svet kot predstava; svet kot volja; človek in trpljenje; kozmični pesimizem; izhodi iz trpljenja Soren Kierkegaard: predhodnik eksistencializma; stadiji eksistence: estetsko, etično in religijozno življenje
-    Friedrich Wilhelm Nietzsche: apolinični in dionizični duh; kritika krščanske morale, prevrednotenje vrednot; konec metafizičnih iluzij; nadčlovek; večno vračanje istega
+    Pozitivizem:
+        uvod v družbeni in evolucionistični pozitivizem
 
-Pozitivizem:
-    uvod v družbeni in evolucionistični pozitivizem
-
-Psihoanaliza, Sigmund Freud:
-    topografska teorija; struktura osebnosti (ono-jaz-nadjaz); transfer in protitransfer; metoda zdravljenja; psihična obolenja Okvir modernizacije
-    Karl Marx: dialektični materializem; razredni boj; privatna lastnina; alienacija
-    Maximilian Karl Emil Weber: teorija o duhu kapitalizma; tipologije oblasti
+    Psihoanaliza, Sigmund Freud:
+        topografska teorija; struktura osebnosti (ono-jaz-nadjaz); transfer in protitransfer; metoda zdravljenja; psihična obolenja Okvir modernizacije
+        Karl Marx: dialektični materializem; razredni boj; privatna lastnina; alienacija
+        Maximilian Karl Emil Weber: teorija o duhu kapitalizma; tipologije oblasti
 
 
 
 SLOVENŠČINA
+    Slovenska moderna:
+        Kette (Na trgu, Na molu san Carlo, Adrija, Na očetovem grobu, Moj Bog, Melanholične misli);
+        Murn (Ko dobrave se mrače, Ah, ti bori, Trenutek, Pesem o ajdi, Vlahi);
+        Oton Župančič (interpretacija poezij iz posameznih literarnih zbirk, Ti skrivnostni moj cvet, Manom Josipa Murna Aleksandrova, Z vlakom, Duma, Žebljarska, Kovaška, Veš, poet, svoj dolg);
+        Ivan Cankar (življenje in delo, ponovitev posameznih najpomembnejših del, V bogatih kočijah se vozijo, Epilog, Hiša Marije Pomočnice, Na klancu, Martin Kačur, Hlapec Jernej, Kostanj posebne sorte, Gospod stotnik, dramska besedila, predavanja).
 
-Slovenska moderna:
-    Kette (Na trgu, Na molu san Carlo, Adrija, Na očetovem grobu, Moj Bog, Melanholične misli);
-    Murn (Ko dobrave se mrače, Ah, ti bori, Trenutek, Pesem o ajdi, Vlahi);
-    Oton Župančič (interpretacija poezij iz posameznih literarnih zbirk, Ti skrivnostni moj cvet, Manom Josipa Murna Aleksandrova, Z vlakom, Duma, Žebljarska, Kovaška, Veš, poet, svoj dolg);
-    Ivan Cankar (življenje in delo, ponovitev posameznih najpomembnejših del, V bogatih kočijah se vozijo, Epilog, Hiša Marije Pomočnice, Na klancu, Martin Kačur, Hlapec Jernej, Kostanj posebne sorte, Gospod stotnik, dramska besedila, predavanja).
+    Sopotniki moderne:
+        Fran Saleški Finžgar (Pod svobodnim soncem, Dekla Ančka);
+        Izidor Cankar (S poti).
 
-Sopotniki moderne:
-    Fran Saleški Finžgar (Pod svobodnim soncem, Dekla Ančka);
-    Izidor Cankar (S poti).
+    Književnost med vojnama na Slovenskem (ekspresionizem, socialni realizem, konstruktivizem):
+        zgodovinski in literarni okvir;
+        Alojz Gradnik (Eros-Tanatos, De profundis, Devin);
+        Ivan Pregelj (Matkova Tina, Tolminci);
+        France Bevk (Kaplan Martin Čedermac),
+        Srečko Kosovel (Bori, Balada, Slutnja, Predsmrtnica, Ekstaza smrti, Tragedija na oceanu, Pesem št. X, Cirkus Kludsky);
+        Prežihov Voranc (Samorastniki, Doberdob);
+        Miško Kranjec (Povest o dobrih ljudeh);
+        Ciril Kosmač (Balada o trobenti in oblaku);
+        Edvard Kocbek (Strah in pogum);
+        Vladimir Bartol (Alamut).
 
-Književnost med vojnama na Slovenskem (ekspresionizem, socialni realizem, konstruktivizem):
-    zgodovinski in literarni okvir;
-    Alojz Gradnik (Eros-Tanatos, De profundis, Devin);
-    Ivan Pregelj (Matkova Tina, Tolminci);
-    France Bevk (Kaplan Martin Čedermac),
-    Srečko Kosovel (Bori, Balada, Slutnja, Predsmrtnica, Ekstaza smrti, Tragedija na oceanu, Pesem št. X, Cirkus Kludsky);
-    Prežihov Voranc (Samorastniki, Doberdob);
-    Miško Kranjec (Povest o dobrih ljudeh);
-    Ciril Kosmač (Balada o trobenti in oblaku);
-    Edvard Kocbek (Strah in pogum);
-    Vladimir Bartol (Alamut).
+    Literatura v času II. svet. Vojne:
+        zgodovinski okvir;
+        Kajuh (Naša pesem, Samo en cvet, Materi padlega partizana, Bosa pojdiva, dekle, obsorej, Slovenska pesem);
+        Balantič (Večer je rdeč, Agonija ljubezni, Jaz sem smrti pijan).
 
-Literatura v času II. svet. Vojne:
-    zgodovinski okvir;
-    Kajuh (Naša pesem, Samo en cvet, Materi padlega partizana, Bosa pojdiva, dekle, obsorej, Slovenska pesem);
-    Balantič (Večer je rdeč, Agonija ljubezni, Jaz sem smrti pijan).
+    Sodobna književnost:
+        slovstveni okvir;
+        Slovenska sodobna književnost, utilitaristična, graditeljska literatura, prehod v intimizem (Pesmi štirih, Kovič - Bela pravljica, Roboti, Zlobec - Pobeglo otroštvo, Menart - Balada o radiu, Croquis, Pavček, modernizem, Minatti - Pa bo pomlad prišla, Dane Zajc - Veliki črni bik).
 
-Sodobna književnost:
-    slovstveni okvir;
-    Slovenska sodobna književnost, utilitaristična, graditeljska literatura, prehod v intimizem (Pesmi štirih, Kovič - Bela pravljica, Roboti, Zlobec - Pobeglo otroštvo, Menart - Balada o radiu, Croquis, Pavček, modernizem, Minatti - Pa bo pomlad prišla, Dane Zajc - Veliki črni bik).
-
-Kratek oris zamejske literature:
-    Alojz Rebula, Boris Pahor (Grmada v pristanu, Mesto v zalivu, lik Lepe Vide)
+    Kratek oris zamejske literature:
+        Alojz Rebula, Boris Pahor (Grmada v pristanu, Mesto v zalivu, lik Lepe Vide)
 
 
 ZGODOVINA
-
-Združitev Italije, italijanske vojne za neodvisnost.
-Združitev Nemčije, francosko-pruska vojna, Bismarck.
-Avtokracija ruskega cesarstva v 19. stoletju, družina Romanov, Krimska vojna, Rusko-japonska vojna, poskus liberalizacije države.
-Modernizacija Japonske, stiki z drugimi svetovnimi velesilami, obnova Meidži.
-Širitev ZDA proti zahodu, družbene težave v ZDA, ameriška secesijska vojna.
-Druga industrijska revolucija: tehnološke, družbene in ekonomske spremembe.
-Demografija v 19. stoletju.
-Imperializem.
-Kolonizacija sveta s strani Evropskih držav.
-Afrika, Azija in Pacifik.
-Dekolonizacija južne Amerike.
-Avstrijsko cesarstvo v drugi polovici 19. stoletja.
-Marčna revolucija
-1848. Franc Jožef.
-Nastanek Avstro-Ogrske.
-Priključitev BiH.
-Kratek oris jugovzhodne Evropa v 19. stoletju.
-Prva svetovna vojna.
-Razlogi za začetek vojne in umor Franca Ferdinanda.
-Opis vseh front po letih.
-Pariška mirovna konferenca.
-Ruska revolucija.
-Revolucije v Nemčiji in na Madžarskem.
-Medvonjo obdobje: nastanek diktatorialnih režimov v Evropi.
-Sovjetska zveza, vzpon fašizma v Italiji in vzpon nacizma v Nemčiji.
-Gospodarska kriza iz leta 1929.
-Druga svetovna vojna. Povod. Opis posameznih front in bojev.
-Mirovne konference.
-Kratek oris hladne vojne.
+    Združitev Italije, italijanske vojne za neodvisnost.
+    Združitev Nemčije, francosko-pruska vojna, Bismarck.
+    Avtokracija ruskega cesarstva v 19. stoletju, družina Romanov, Krimska vojna, Rusko-japonska vojna, poskus liberalizacije države.
+    Modernizacija Japonske, stiki z drugimi svetovnimi velesilami, obnova Meidži.
+    Širitev ZDA proti zahodu, družbene težave v ZDA, ameriška secesijska vojna.
+    Druga industrijska revolucija: tehnološke, družbene in ekonomske spremembe.
+    Demografija v 19. stoletju.
+    Imperializem.
+    Kolonizacija sveta s strani Evropskih držav.
+    Afrika, Azija in Pacifik.
+    Dekolonizacija južne Amerike.
+    Avstrijsko cesarstvo v drugi polovici 19. stoletja.
+    Marčna revolucija
+    1848. Franc Jožef.
+    Nastanek Avstro-Ogrske.
+    Priključitev BiH.
+    Kratek oris jugovzhodne Evropa v 19. stoletju.
+    Prva svetovna vojna.
+    Razlogi za začetek vojne in umor Franca Ferdinanda.
+    Opis vseh front po letih.
+    Pariška mirovna konferenca.
+    Ruska revolucija.
+    Revolucije v Nemčiji in na Madžarskem.
+    Medvonjo obdobje: nastanek diktatorialnih režimov v Evropi.
+    Sovjetska zveza, vzpon fašizma v Italiji in vzpon nacizma v Nemčiji.
+    Gospodarska kriza iz leta 1929.
+    Druga svetovna vojna. Povod. Opis posameznih front in bojev.
+    Mirovne konference.
+    Kratek oris hladne vojne.
 
 
 NARAVOSLOVJE
+    EKOLOGIJA
+        Predmet proučevanja ekologije.
+        Biom, vrsta, populacija, ekosistem, habitat, ekološka niša...
+        Medvrstni odnosi. Pretok energije in kroženje snovi v ekosistemu.
+        Fotoavtotrofi in kemoavtotrofi organizmi, dolžina prehranjevalne verige.
+        Varstvo okolja in narave: Obnovljivi in neobnovljivi viri energije, onesnaževanje, množična izumiranja, učinek tople grede, ozonska luknja.
 
-EKOLOGIJA
-    Predmet proučevanja ekologije.
-    Biom, vrsta, populacija, ekosistem, habitat, ekološka niša...
-    Medvrstni odnosi. Pretok energije in kroženje snovi v ekosistemu.
-    Fotoavtotrofi in kemoavtotrofi organizmi, dolžina prehranjevalne verige.
-    Varstvo okolja in narave: Obnovljivi in neobnovljivi viri energije, onesnaževanje, množična izumiranja, učinek tople grede, ozonska luknja.
+    KEMIJA
+        Atom: Zgodovinski oris teorij, ki so pripeljale do Schrodingerjeve enačbe.
+        Elektronegativnost in intermolekularne vezi (ponavljanje)
+        Ogljikovi hidrati: Optična izomerija, center kiralnosti, delitev ogljikovih hidratov, delitev monosaharidov, formula D-glukoze, reakcija monosaharidov s Fehlingovim reagentom, oligosaharidi (saharoza, laktoza, maltoza), polisaharidi (škrob, celuloza, glikogen).
+        Lipidi: trigliceridi, nasičene in nenasičene maščobe, fosfolipidi, voski, neumiljivi lipidi (steroidi), mila.
+        Dušikove spojine: Amini (fizikalne značilnosti, značilne reakcije), Splošna formula aminokislin, povezovanje aminokislin, zgradba beljakovin, delitev in vloga beljakovin; encimi..
+        Polimeri: Adicijska in kondenzacijska polimerizacija, primeri umetnih produktov, kavčuk, vulkanizacija.
 
-KEMIJA
-    Atom: Zgodovinski oris teorij, ki so pripeljale do Schrodingerjeve enačbe.
-    Elektronegativnost in intermolekularne vezi (ponavljanje)
-    Ogljikovi hidrati: Optična izomerija, center kiralnosti, delitev ogljikovih hidratov, delitev monosaharidov, formula D-glukoze, reakcija monosaharidov s Fehlingovim reagentom, oligosaharidi (saharoza, laktoza, maltoza), polisaharidi (škrob, celuloza, glikogen).
-    Lipidi: trigliceridi, nasičene in nenasičene maščobe, fosfolipidi, voski, neumiljivi lipidi (steroidi), mila.
-    Dušikove spojine: Amini (fizikalne značilnosti, značilne reakcije), Splošna formula aminokislin, povezovanje aminokislin, zgradba beljakovin, delitev in vloga beljakovin; encimi..
-    Polimeri: Adicijska in kondenzacijska polimerizacija, primeri umetnih produktov, kavčuk, vulkanizacija.
+    OBRAMBA PRED TUJKI
+        Zunanja in notranja nespecifična obramba, delovanje specifične obrambe, zgradba protiteles, prirojena in pridobljena imunost, aktivna in pasivna imunizacija, motnje imunskega sistema.
 
-OBRAMBA PRED TUJKI
-    Zunanja in notranja nespecifična obramba, delovanje specifične obrambe, zgradba protiteles, prirojena in pridobljena imunost, aktivna in pasivna imunizacija, motnje imunskega sistema.
+    PRESNOVNI PROCESI
+        Oblike energije, 1. in 2. princip termodinamike, postopno sproščanje energije iz organskih snovi v celici.
+        Krebsov cikel, izgradnja ATP z uporabo koncentracijskega gradienta protonov; hudi strupi, ki onemogočajo proces celičnega dihanja; razgradnja organskih snovi brez uporabe kisika.
+        Pretvarjanje svetlobne energije v kemijsko energijo; delovanje fotosistemov I in II, svetlobna in temotna faza fotosinteze, uporaba glukoze v rastlinah, rastline C3 in C4, evolucija fotosinteze in celičnega dihanja.
 
-PRESNOVNI PROCESI
-    Oblike energije, 1. in 2. princip termodinamike, postopno sproščanje energije iz organskih snovi v celici.
-    Krebsov cikel, izgradnja ATP z uporabo koncentracijskega gradienta protonov; hudi strupi, ki onemogočajo proces celičnega dihanja; razgradnja organskih snovi brez uporabe kisika.
-    Pretvarjanje svetlobne energije v kemijsko energijo; delovanje fotosistemov I in II, svetlobna in temotna faza fotosinteze, uporaba glukoze v rastlinah, rastline C3 in C4, evolucija fotosinteze in celičnega dihanja.
+    KLASIČNA GENETIKA
+        Gregor Mendel: zakon o dominanci, ločitvi in neodvisnosti dednih znakov, dedovanje dveh lastnosti...
+        Klasična genetika po Mendlu: nepopolna dominanca, kodominanca, multipla alelija, poligenska dednost.
+        Kromosomska teorija o dednosti.
+        Kromosomsko določanje spola.
+        Dedovanje in dedne motnje pri človeku, rodovniki.
 
-KLASIČNA GENETIKA
-    Gregor Mendel: zakon o dominanci, ločitvi in neodvisnosti dednih znakov, dedovanje dveh lastnosti...
-    Klasična genetika po Mendlu: nepopolna dominanca, kodominanca, multipla alelija, poligenska dednost.
-    Kromosomska teorija o dednosti.
-    Kromosomsko določanje spola.
-    Dedovanje in dedne motnje pri človeku, rodovniki.
+    MOLEKULARNA GENETIKA
+        Struktura in podvojevanje DNA.
+        Celična delitev, mejoza, delitev evkariontske celice.
+        Genski kod, raziskovanje človeškega genoma, introni in splicing, beljakovinska sinteza.
+        Celični cikel.
+        Uravnavanje genskega izražanja.
+        Diferenciacija zarodnih celic.
+        Izražanje genov pri bakterijah.
+        Vrste mutacij - točkovne, strukturne kromosomske in številčne kromosomske mutacije.
+        Vzroki mutacij.
+        Razvoj raka.
+        Obnavljanje celic v odraslem organizmu.
+        Razmnoževalno kloniranje in kloniranje za zdravljenje.
+        Vrste matičnih celic.
+        Dijaki so sledili nizu seminarjev o tumorjih.
 
-MOLEKULARNA GENETIKA
-    Struktura in podvojevanje DNA.
-    Celična delitev, mejoza, delitev evkariontske celice.
-    Genski kod, raziskovanje človeškega genoma, introni in splicing, beljakovinska sinteza.
-    Celični cikel.
-    Uravnavanje genskega izražanja.
-    Diferenciacija zarodnih celic.
-    Izražanje genov pri bakterijah.
-    Vrste mutacij - točkovne, strukturne kromosomske in številčne kromosomske mutacije.
-    Vzroki mutacij.
-    Razvoj raka.
-    Obnavljanje celic v odraslem organizmu.
-    Razmnoževalno kloniranje in kloniranje za zdravljenje.
-    Vrste matičnih celic.
-    Dijaki so sledili nizu seminarjev o tumorjih.
+    BIOTEHNOLOGIJE
+        Zgradba in razmnoževanje virusov (fagi, živalski virusi, retrovirusi).
+        Mehanizmi prenosa genetske informacije pri bakterija.
+        Gensko inženirstvo: metode pridobivanja rekombinantne DNA; metode kloniranja rekombinantne DNA.
+        Plazmidi.
+        Ustvarjanje knjižnice fragmentov celotnega genoma.
+        Verižna reakcija s polimerazo (PCR), določanje nukleotidnega zaporedja: Sangerjeva metoda.
+        cDNA knjižnice.
 
-BIOTEHNOLOGIJE
-    Zgradba in razmnoževanje virusov (fagi, živalski virusi, retrovirusi).
-    Mehanizmi prenosa genetske informacije pri bakterija.
-    Gensko inženirstvo: metode pridobivanja rekombinantne DNA; metode kloniranja rekombinantne DNA.
-    Plazmidi.
-    Ustvarjanje knjižnice fragmentov celotnega genoma.
-    Verižna reakcija s polimerazo (PCR), določanje nukleotidnega zaporedja: Sangerjeva metoda.
-    cDNA knjižnice.
-
-PODROČJA UPORABE BIOTEHNOLOGIJ
-    Določanje genetskih profilov, ugotavljanje razlike DNA med dvema osebama, dokazovanje očetovstva.
-    Oblike genske terapije in nove perspektive v zdravljenju genetskih bolezni.
-    Metode in namen ustvarjanja gensko spremenjenih živali in rastlin.
+    PODROČJA UPORABE BIOTEHNOLOGIJ
+        Določanje genetskih profilov, ugotavljanje razlike DNA med dvema osebama, dokazovanje očetovstva.
+        Oblike genske terapije in nove perspektive v zdravljenju genetskih bolezni.
+        Metode in namen ustvarjanja gensko spremenjenih živali in rastlin.
     Biogoriva
 
 
 ITALIJANŠČINA
+    1) Un “illuminista romantico”: Giacomo Leopardi
+    La vita e le opere
+    Fondamenti ed evoluzione del pensiero
+    I Canti (Il passero solitario, L’infinito, Alla luna, A Silvia, La quiete dopo la tempesta, Il sabato del villaggio, A se stesso)
+    La Ginestra: un testamento spirituale
+    Le Operette morali (Dialogo della Natura e di un Islandese, Dialogo di un venditore d’almanacchi e di un passeggere)
+    Lo Zibaldone
 
-1) Un “illuminista romantico”: Giacomo Leopardi
-La vita e le opere
-Fondamenti ed evoluzione del pensiero
-I Canti (Il passero solitario, L’infinito, Alla luna, A Silvia, La quiete dopo la tempesta, Il sabato del villaggio, A se stesso)
-La Ginestra: un testamento spirituale
-Le Operette morali (Dialogo della Natura e di un Islandese, Dialogo di un venditore d’almanacchi e di un passeggere)
-Lo Zibaldone
+    2) Fra Ottocento e Novecento: Naturalismo e Simbolismo.
+    Storia, politica e società tra fine Ottocento e inizio Novecento
+    G.Carducci e le Odi barbare (Pianto antico, San Martino)
+    A.Comte e la filosofia del Positivismo
+    “Culto dei fatti” e arte: il Naturalismo
+    E.Zola e il Romanzo sperimentale
 
-2) Fra Ottocento e Novecento: Naturalismo e Simbolismo.
-Storia, politica e società tra fine Ottocento e inizio Novecento
-G.Carducci e le Odi barbare (Pianto antico, San Martino)
-A.Comte e la filosofia del Positivismo
-“Culto dei fatti” e arte: il Naturalismo
-E.Zola e il Romanzo sperimentale
+    3) Dal Positivismo al Verismo
+    Giovanni Verga: il contesto storico, la vita e le opere
+    La prima fase della produzione verghiana
+    Il capolavoro: I Malavoglia (La prefazione ai Malavoglia, L’inizio dei Malavoglia, L’addio di ‘Ntoni)
+    Mastro-don Gesualdo (La morte di Gesualdo)
+    Le novelle (Rosso Malpelo, La roba)
 
-3) Dal Positivismo al Verismo
-Giovanni Verga: il contesto storico, la vita e le opere
-La prima fase della produzione verghiana
-Il capolavoro: I Malavoglia (La prefazione ai Malavoglia, L’inizio dei Malavoglia, L’addio di ‘Ntoni)
-Mastro-don Gesualdo (La morte di Gesualdo)
-Le novelle (Rosso Malpelo, La roba)
+    4) Simbolismo, Estetismo e Decadentismo
+    Le origini del Decadentismo in Francia
+    Baudelaire (L’albatro,Corrispondenze), Verlaine (Arte poetica), Rimbaud (Le vocali), Mallarmé.
 
-4) Simbolismo, Estetismo e Decadentismo
-Le origini del Decadentismo in Francia
-Baudelaire (L’albatro,Corrispondenze), Verlaine (Arte poetica), Rimbaud (Le vocali), Mallarmé.
+    5) Verso il Simbolismo in Italia: Giovanni Pascoli
+    La vita, le idee, la personalità
+    Il capolavoro: Myricae (Lavandare, X Agosto, L’assiuolo, Temporale, Il lampo, Il tuono)
+    Le altre opere poetiche (Il gelsomino notturno)
+    Il Fanciullino
+    Temi e miti e innovazioni della poesia pascoliana
 
-5) Verso il Simbolismo in Italia: Giovanni Pascoli
-La vita, le idee, la personalità
-Il capolavoro: Myricae (Lavandare, X Agosto, L’assiuolo, Temporale, Il lampo, Il tuono)
-Le altre opere poetiche (Il gelsomino notturno)
-Il Fanciullino
-Temi e miti e innovazioni della poesia pascoliana
+    6) Estetismo e superomismo: Gabriele D'Annunzio
+    La vita come opera d'arte
+    Il capolavoro poetico: le Laudi (La pioggia nel pineto)
+    Il Poema paradisiaco e le altre raccolte
+    I romanzi e i testi in prosa (Andrea Sperelli, l’eroe dell’estetismo)
+    Il Notturno e l’ultimo D’Annunzio
 
-6) Estetismo e superomismo: Gabriele D'Annunzio
-La vita come opera d'arte
-Il capolavoro poetico: le Laudi (La pioggia nel pineto)
-Il Poema paradisiaco e le altre raccolte
-I romanzi e i testi in prosa (Andrea Sperelli, l’eroe dell’estetismo)
-Il Notturno e l’ultimo D’Annunzio
+    7) Luigi Pirandello fra narrativa, teatro e filosofia
+    L’umorismo: il contrasto tra “forma” e “vita”
+    Le novelle (Il treno ha fischiato)
+    I romanzi: Il fu Mattia Pascal (Adriano Meis e la sua ombra, Pascal porta i fiori alla propria tomba); Uno, nessuno e centomila (La vita non conclude)
+    Il teatro: Sei personaggi in cerca d’autore (Finzione o realtà), Enrico IV (La vita, la maschera, la pazzia)
 
-7) Luigi Pirandello fra narrativa, teatro e filosofia
-L’umorismo: il contrasto tra “forma” e “vita”
-Le novelle (Il treno ha fischiato)
-I romanzi: Il fu Mattia Pascal (Adriano Meis e la sua ombra, Pascal porta i fiori alla propria tomba); Uno, nessuno e centomila (La vita non conclude)
-Il teatro: Sei personaggi in cerca d’autore (Finzione o realtà), Enrico IV (La vita, la maschera, la pazzia)
+    8) Quadro storico: l’affermazione del fascismo e delle leggi razziali
+    Intellettuali fascisti e antifascisti (Gentile, Croce, Gramsci, Gobetti).
+    Gli sloveni e la dittatura fascista
+    Giornata della memoria - La Shoah: vivere e morire nei campi di concentramento.
+    Il processo ad Adolf Eichmann.
+    H.Arendt - La banalità del male.
 
-8) Quadro storico: l’affermazione del fascismo e delle leggi razziali
-Intellettuali fascisti e antifascisti (Gentile, Croce, Gramsci, Gobetti).
-Gli sloveni e la dittatura fascista
-Giornata della memoria - La Shoah: vivere e morire nei campi di concentramento.
-Il processo ad Adolf Eichmann.
-H.Arendt - La banalità del male.
+    9) La cultura nell’età delle avanguardie e del modernismo
+    La storia del primo movimento d'avanguardia: il Futurismo
+    Il fondatore: Filippo Tommaso Marinetti (Il Manifesto del Futurismo, Il Manifesto tecnico della letteratura futurista)
+    Il Dadaismo di Tristan Tzara (Manifesto del Dadaismo)
+    André Breton e il Surrealismo (Manifesto del Surrealismo)
 
-9) La cultura nell’età delle avanguardie e del modernismo
-La storia del primo movimento d'avanguardia: il Futurismo
-Il fondatore: Filippo Tommaso Marinetti (Il Manifesto del Futurismo, Il Manifesto tecnico della letteratura futurista)
-Il Dadaismo di Tristan Tzara (Manifesto del Dadaismo)
-André Breton e il Surrealismo (Manifesto del Surrealismo)
+    10) Letteratura italiana ed educazione civica
+    Unità didattica: Chi è cittadino? - Cittadinanza e responsabilità
+    Dante e gli ignavi, Gramsci e l’odio per gli indifferenti, P.Levi e la zona grigia.
+    Primo Levi: Se questo è un uomo, La tregua, I sommersi e i salvati
+    L'art. 21 Costituzione e l'esempio della memoria collettiva tedesca
 
-10) Letteratura italiana ed educazione civica
-Unità didattica: Chi è cittadino? - Cittadinanza e responsabilità
-Dante e gli ignavi, Gramsci e l’odio per gli indifferenti, P.Levi e la zona grigia.
-Primo Levi: Se questo è un uomo, La tregua, I sommersi e i salvati
-L'art. 21 Costituzione e l'esempio della memoria collettiva tedesca
+    11) Italo Svevo e la figura dell'inetto
+    La vita, le opere, la cultura
+    I primi romanzi e la nascita del personaggio dell'inetto (Le ali del gabbiano e il cervello dell’intellettuale, Inettitudine e senilità)
+    Il capolavoro: La coscienza di Zeno (Lo schiaffo del padre, La proposta di matrimonio, Lo scambio di funerale, La vita è una malattia)
 
-11) Italo Svevo e la figura dell'inetto
-La vita, le opere, la cultura
-I primi romanzi e la nascita del personaggio dell'inetto (Le ali del gabbiano e il cervello dell’intellettuale, Inettitudine e senilità)
-Il capolavoro: La coscienza di Zeno (Lo schiaffo del padre, La proposta di matrimonio, Lo scambio di funerale, La vita è una malattia)
+    12) La poesia nella prima metà del Novecento
+    Giuseppe Ungaretti e L'allegria (In memoria, Il porto sepolto, Fratelli, Veglia, I fiumi, San Martino del Carso, Mattina, Soldati, Commiato)
 
-12) La poesia nella prima metà del Novecento
-Giuseppe Ungaretti e L'allegria (In memoria, Il porto sepolto, Fratelli, Veglia, I fiumi, San Martino del Carso, Mattina, Soldati, Commiato)
+    Umberto Saba e Il Canzoniere (A mia moglie, Trieste, Città vecchia, Amai, Ulisse, Mio padre è stato per me l’assassino)
+    Eugenio Montale e la poetica dell'oggetto (I limoni, Spesso il male di vivere ho incontrato, Meriggiare pallido e assorto, Non chiederci la parola, Caro piccolo insetto, Ho sceso, dandoti il braccio, almeno un milione di scale)
 
-Umberto Saba e Il Canzoniere (A mia moglie, Trieste, Città vecchia, Amai, Ulisse, Mio padre è stato per me l’assassino)
-Eugenio Montale e la poetica dell'oggetto (I limoni, Spesso il male di vivere ho incontrato, Meriggiare pallido e assorto, Non chiederci la parola, Caro piccolo insetto, Ho sceso, dandoti il braccio, almeno un milione di scale)
-
-13) Dal dopoguerra ai giorni nostri
-La narrativa neorealista.
-La poesia del secondo dopoguerra.
-Il dibattito delle idee in Italia.
-I.Calvino tra Neorealismo e componente fantastica (Il Barone rampante e la vita sociale: distacco e partecipazione).
-Il secondo Calvino e la “sfida al labirinto”.
+    13) Dal dopoguerra ai giorni nostri
+    La narrativa neorealista.
+    La poesia del secondo dopoguerra.
+    Il dibattito delle idee in Italia.
+    I.Calvino tra Neorealismo e componente fantastica (Il Barone rampante e la vita sociale: distacco e partecipazione).
+    Il secondo Calvino e la “sfida al labirinto”.
 
 
 MATEMATIKA
+    1. učna enota: realna funkcija realne neodvisne spremenljivke
+    Definicija funkcije, definicijsko območje, lastnosti funkcije, inverzna funkcija, kompozitum funkcij.
 
-1. učna enota: realna funkcija realne neodvisne spremenljivke
-Definicija funkcije, definicijsko območje, lastnosti funkcije, inverzna funkcija, kompozitum funkcij.
+    2. učna enota: limita realne funkcije, zveznost
+    Definicija limite. Računanje limite celih in ulomljenih racionalnih funkcij, eksponentnih in logaritemskih, trigonometričnih in iracionalnih funkcij za x→x0, ±∞, ∞.
+    Limita sestavljene funkcije.
+    Osnovne limite.
+    Nedoločene oblike.
+    Izreki o limitah (izrek o enoličnosti limite, izrek o ohranitvi predznaka, izrek o primerjavi).
+    Definicija zvezne funkcije.
+    Vrste nezveznosti.
+    Izreki o zveznih funkcijah (Weierstrassov izrek, izrek o vmesnih vrednostih, izrek o obstoju ničel).
+    Bisekcija.
+    Asimptote.
+    Osnovna (in delna) skica grafa funkcije.
 
-2. učna enota: limita realne funkcije, zveznost
-Definicija limite. Računanje limite celih in ulomljenih racionalnih funkcij, eksponentnih in logaritemskih, trigonometričnih in iracionalnih funkcij za x→x0, ±∞, ∞.
-Limita sestavljene funkcije.
-Osnovne limite.
-Nedoločene oblike.
-Izreki o limitah (izrek o enoličnosti limite, izrek o ohranitvi predznaka, izrek o primerjavi).
-Definicija zvezne funkcije.
-Vrste nezveznosti.
-Izreki o zveznih funkcijah (Weierstrassov izrek, izrek o vmesnih vrednostih, izrek o obstoju ničel).
-Bisekcija.
-Asimptote.
-Osnovna (in delna) skica grafa funkcije.
+    2. učna enota: odvod realne funkcije
+    Definicija odvoda in njegov geometrijski pomen.
+    Odvajanje vsote, produkta in kvocienta danih funkcij; odvajanje potenčnih, eksponentnih, logaritemskih, trigonometričnih in krožnih funkcij.
+    Logaritemski odvod.
+    Odvod inverzne funkcije.
+    Odvodi višjega reda.
+    Definicija diferenciala in njegov grafični pomen.
+    Stacionarne točke.
+    Povezava med zveznostjo in odvedljivostjo funkcije v točki.
+    Kolena, kuspide in prevoji z navpično tangento.
+    Izreki o funkcijah, odvedljivih na intervalu (Rollov, Lagrangev, Cauchyjev in L’Hospitalov izrek).
+    Računanje limit nedoločenih oblik z uporabo L'Hospitalovega izreka.
+    Tangenta, normala, kot med krivuljama.
+    Uporaba odvoda v fiziki (trenutna hitrost in trenutni pospešek).
 
-2. učna enota: odvod realne funkcije
-Definicija odvoda in njegov geometrijski pomen.
-Odvajanje vsote, produkta in kvocienta danih funkcij; odvajanje potenčnih, eksponentnih, logaritemskih, trigonometričnih in krožnih funkcij.
-Logaritemski odvod.
-Odvod inverzne funkcije.
-Odvodi višjega reda.
-Definicija diferenciala in njegov grafični pomen.
-Stacionarne točke.
-Povezava med zveznostjo in odvedljivostjo funkcije v točki.
-Kolena, kuspide in prevoji z navpično tangento.
-Izreki o funkcijah, odvedljivih na intervalu (Rollov, Lagrangev, Cauchyjev in L’Hospitalov izrek).
-Računanje limit nedoločenih oblik z uporabo L'Hospitalovega izreka.
-Tangenta, normala, kot med krivuljama.
-Uporaba odvoda v fiziki (trenutna hitrost in trenutni pospešek).
+    3.učna enota: raziskovanje realne funkcije
+    Ugotavljanje definicijskega območja, simetrij, sečišč z osmi – tudi z uporabo bisekcije, predznaka; računanje limit in asimptot; ugotavljanje zveznosti (vrst nezveznosti) in odvedljivosti.
+    Ugotavljanje monotonosti (relativnih in absolutnih minimumov in maksimumov) in konkavnosti (prevojev in prevojnih tangent).
+    Ekstremalni problemi.
 
-3.učna enota: raziskovanje realne funkcije
-Ugotavljanje definicijskega območja, simetrij, sečišč z osmi – tudi z uporabo bisekcije, predznaka; računanje limit in asimptot; ugotavljanje zveznosti (vrst nezveznosti) in odvedljivosti.
-Ugotavljanje monotonosti (relativnih in absolutnih minimumov in maksimumov) in konkavnosti (prevojev in prevojnih tangent).
-Ekstremalni problemi.
-
-4. učna enota: določeni in nedoločeni integral
-Definicija in lastnosti določenega integrala.
-Osnovni izrek integralnega računa (Torricelli – Barrow).
-Izrek o povprečni vrednosti funkcije.
-Uporaba določenega integrala za izračun ploščine krivočrtnih likov, prostornine vrteninskih teles.
-Definicija in lastnosti nedoločenega integrala.
-Integriranje osnovnih funkcij.
-Pravila za integriranje (uporaba pomožne spremenljivke, per partes).
-Integriranje ulomljenih racionalnih funkcij z imenovalcem največ druge stopnje, integriranje nekaterih enostavnih trigonometričnih in iracionalnih funkcij.
-Definicija in računanje posplošenega integrala.
+    4. učna enota: določeni in nedoločeni integral
+    Definicija in lastnosti določenega integrala.
+    Osnovni izrek integralnega računa (Torricelli – Barrow).
+    Izrek o povprečni vrednosti funkcije.
+    Uporaba določenega integrala za izračun ploščine krivočrtnih likov, prostornine vrteninskih teles.
+    Definicija in lastnosti nedoločenega integrala.
+    Integriranje osnovnih funkcij.
+    Pravila za integriranje (uporaba pomožne spremenljivke, per partes).
+    Integriranje ulomljenih racionalnih funkcij z imenovalcem največ druge stopnje, integriranje nekaterih enostavnih trigonometričnih in iracionalnih funkcij.
+    Definicija in računanje posplošenega integrala.
 
 
 DRŽAVLJANSKA VZGOJA
-
-V šolskem letu 2022/23 so se dijaki in dijakinje s pomočjo profesoričinih zapiskov oz. predstavitev t.j. pisnega gradiva v digitalni obliki ukvarjali s tematikami, ki so zgoraj navedene.
-Natančneje so bile predelane sledeče vsebine:
-1. Institucije in ustava:
-    - temeljna načela italijanske ustave, predvsem načelo demokracije, osebe, človekovega dostojanstva, solidarnosti, enakosti in enakopravnosti, dela, laičnosti, mednarodnega sodelovanja, zaščite jezikovnih manjšin (pri čemer je bil predstavljen zaščitni zakon in zakon za zaščito jezikovnih manjšin);
-    - osebne svoboščine 13.-21.člen: osebna svoboda, svoboda stanovanja, dopisovanja, gibanja, sestajanja, združevanja, veroizpovedi in vesti, svoboda govora;
-    - pomen aktivne drže državljana.
-2. Digitalno državljanstvo:
-    - dijaki so poglobili tematiko sovražnega govora v luči mednarodnih dokumentov in svobode govora (21. člen ustave), predvsem v povezavi s pojavom na spletu.
-3. Agenda 2030 in trajnostni razvoj: trajnostni razvoj, nastanek pojma trajnostnega
-    razvoja v mednarodnem okviru, vstop trajnostnega razvoja v italijansko ustavo.
+    V šolskem letu 2022/23 so se dijaki in dijakinje s pomočjo profesoričinih zapiskov oz. predstavitev t.j. pisnega gradiva v digitalni obliki ukvarjali s tematikami, ki so zgoraj navedene.
+    Natančneje so bile predelane sledeče vsebine:
+    1. Institucije in ustava:
+        - temeljna načela italijanske ustave, predvsem načelo demokracije, osebe, človekovega dostojanstva, solidarnosti, enakosti in enakopravnosti, dela, laičnosti, mednarodnega sodelovanja, zaščite jezikovnih manjšin (pri čemer je bil predstavljen zaščitni zakon in zakon za zaščito jezikovnih manjšin);
+        - osebne svoboščine 13.-21.člen: osebna svoboda, svoboda stanovanja, dopisovanja, gibanja, sestajanja, združevanja, veroizpovedi in vesti, svoboda govora;
+        - pomen aktivne drže državljana.
+    2. Digitalno državljanstvo:
+        - dijaki so poglobili tematiko sovražnega govora v luči mednarodnih dokumentov in svobode govora (21. člen ustave), predvsem v povezavi s pojavom na spletu.
+    3. Agenda 2030 in trajnostni razvoj: trajnostni razvoj, nastanek pojma trajnostnega
+        razvoja v mednarodnem okviru, vstop trajnostnega razvoja v italijansko ustavo.
