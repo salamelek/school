@@ -68,10 +68,10 @@ Prevozna sredstva:
         Avtomobil
         motor na notranje izgorevanje (1876)
         Letala (brata Wright 1900 ANG, Brata Rusjan v slo)
-        razdalje se pomenjšajo - Zametki globalizacije
+        razdalje se pomanjšajo - Zametki globalizacije
 
 Medicina:
-    nova zdravlia:
+    nova zdravila:
         Narkoza (1847) - uspavanje
         Razkužila (1867), antiseptično zdravljenje ran, penicilin
         Cepljenje (1830, za črne koze)
@@ -118,8 +118,8 @@ Delavsko vprašanje:
             Marksisti, anarhisti, utopični socialisti
             glavno geslo socialistov: "Delavci celotnega sveta, združite se!"
             Pride do regulamentacije in standardizacije
-            1864 - prva socialistična internacjonalna - socialisti iz cele Evrope se zberejo v Londonu
-            1889 - druga soc. Internacijonala - pridejo še iz Azije in Amerike
+            1864 - prva socialistična internacionala - socialisti iz cele Evrope se zberejo v Londonu
+            1889 - druga soc. Internacionala - pridejo še iz Azije in Amerike
     - Dosežejo penzije
     - zmanjšan delavni urnik
     - enaka plača za isto delo

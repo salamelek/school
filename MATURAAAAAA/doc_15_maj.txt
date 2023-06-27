@@ -37,7 +37,7 @@ SLOVENŠČINA
         Alojz Gradnik (Eros-Tanatos, De profundis, Devin);
         Ivan Pregelj (Matkova Tina, Tolminci);
         France Bevk (Kaplan Martin Čedermac),
-        Srečko Kosovel (Bori, Balada, Slutnja, Predsmrtnica, Ekstaza smrti, Tragedija na oceanu, Pesem št. X, Cirkus Kludsky);
+        # Srečko Kosovel (Bori, Balada, Slutnja, Predsmrtnica, Ekstaza smrti, Tragedija na oceanu, Pesem št. X, Cirkus Kludsky);
         Prežihov Voranc (Samorastniki, Doberdob);
         Miško Kranjec (Povest o dobrih ljudeh);
         Ciril Kosmač (Balada o trobenti in oblaku);
@@ -51,10 +51,10 @@ SLOVENŠČINA
 
     Sodobna književnost:
         slovstveni okvir;
-        Slovenska sodobna književnost, utilitaristična, graditeljska literatura, prehod v intimizem (Pesmi štirih, Kovič - Bela pravljica, Roboti, Zlobec - Pobeglo otroštvo, Menart - Balada o radiu, Croquis, Pavček, modernizem, Minatti - Pa bo pomlad prišla, Dane Zajc - Veliki črni bik).
+        Slovenska sodobna književnost, utilitaristična, graditeljska literatura, prehod v intimizem (Pesmi štirih, # Kovič - Bela pravljica, Roboti, Zlobec - Pobeglo otroštvo, Menart - Balada o radiu, Croquis, Pavček, modernizem, Minatti - Pa bo pomlad prišla, Dane Zajc - Veliki črni bik).
 
     Kratek oris zamejske literature:
-        Alojz Rebula, Boris Pahor (Grmada v pristanu, Mesto v zalivu, lik Lepe Vide)
+        Alojz Rebula, # Boris Pahor (Grmada v pristanu, Mesto v zalivu, lik Lepe Vide)
 
 
 ZGODOVINA

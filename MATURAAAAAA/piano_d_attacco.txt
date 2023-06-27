@@ -1,20 +1,75 @@
 
-Ivan Cankar:
-    mladostno: moralne črtice, satirična dela, vinjete (prehod), V bogatih kočijah se vozijo
-    zrelo: Proletarsko naselje; Opusti individum, ki vodi maso; Poezija Župančiču; Pravice proletariata - Hlapec jernej (povest)
-    pozno: Lepa Vida; krivda, hrepenenje
 
-Hlapec jernej:
-    Išče pravico
-    Nobena oblast mu je ne da, niti božanska
-    Tragično umre
 
 
 Hegel - hlapec in gospodar, spor
 fichte - narava, jaz
 
-Cankar - Župančič - D'annunziož
+Cankar - Župančič - D'annunzio
 Cankar - pesimizem - leopardi
 Cankar - hrepenenje - Schopenhauer
 
 d'annunzio <--> kette (znaj oboje)
+
+
+ITA:            pirandello, italo svevo             (2)
+SLO:            Pahor, Kosovel, Kajetan Kovič       (3)
+GENERALE:       transalpina, slika tračnic          (2)
+DRZAVLJANSKA:   višanje temperature                 (1)
+ZGO:            aprilske teze, rasni zakoni         (2)
+
+
+
+SLO: Pahor, Kosovel, K. Kovič                                   (3)
+ITA: Pirandello, Svevo                                          (2)
+NAR: Višanje temp.                                              (1)
+ZGO: Aprilske teze, rasni zakoni, (transalpina?) (tračnice?)    (2-4)
+FIL: (transalpina?) (tračnice?)                                 (0-2)
+
+====================================================================================================================================
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+====================================================================================================================================
+
+
+SLO:
+    Ivan Cankar:
+    mladostno: moralne črtice, satirična dela, vinjete (prehod), V bogatih kočijah se vozijo
+    zrelo: Proletarsko naselje; Opusti individum, ki vodi maso; Poezija Župančiču; Pravice proletariata - Hlapec jernej (povest)
+    pozno: Lepa Vida; krivda, hrepenenje
+
+    Hlapec jernej:
+        Išče pravico
+        Nobena oblast mu je ne da, niti božanska
+        Tragično umre
+
+ITA:
+    D'annunzio
+    Pascoli
+    Carducci
+    Svevo
+    Saba
+
+ZGO:
+    II. Ind. revolucija, demografija
+    imperializem, kolonializem
+    1. vojna
+    Diktature - sovjetska zveza, nacizem, fašizem
+    2. vojna
+
+NAR:
+    dednost - mendel, molekularna
+    imunologija - merda
+    ekologija - robe
+
+FIL:
+    Hegel - spor
+    Kant - vojna
+    Fichte - jaz
+    Schop - obup
+    Nietzche - nadčlovek
+    Freud - psihoanaliza
+
+DRŽ:
+    3. člen - enakost --> šovinizem --> diktature
+    6. člen - jezikovne manjšine --> fašizem --> diktature
+    9. člen - Okolje --> biogoriva, GMO,
